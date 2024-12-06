@@ -1,0 +1,92 @@
+[
+  {
+    "person": "Person 1",
+    "message": "I’ve been holding something inside for so long, and I think it’s finally time I let it out.",
+    "message_urdu": "میں بہت وقت سے کچھ اپنے اندر چھپائے ہوئے ہوں، اور مجھے لگتا ہے کہ اب یہ وقت آ گیا ہے کہ میں اسے باہر نکالوں۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "You can tell me anything. I’m here for you.",
+    "message_urdu": "تم مجھ سے کچھ بھی کہہ سکتے ہو۔ میں تمہارے لیے یہاں ہوں۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "I’ve been in love with you for so long, but I’ve been too afraid to admit it.",
+    "message_urdu": "میں تم سے بہت عرصے سے محبت کرتا ہوں، مگر میں اسے تسلیم کرنے سے ڈرتا تھا۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I… I didn’t expect that. But I’m glad you’re telling me.",
+    "message_urdu": "مجھے… مجھے یہ امید نہیں تھی۔ مگر مجھے خوشی ہے کہ تم نے مجھے بتایا۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "I’ve tried so many times to push these feelings away, but every time I see you, they only grow stronger.",
+    "message_urdu": "میں نے بار بار ان جذبات کو دھیما کرنے کی کوشش کی، مگر جب بھی تمہیں دیکھتا ہوں، وہ اور بھی مضبوط ہو جاتے ہیں۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I don’t know what to say. I never knew you felt this way.",
+    "message_urdu": "مجھے نہیں پتہ کہ کیا کہوں۔ مجھے کبھی نہیں پتہ تھا کہ تمہیں ایسا لگتا ہے۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "I didn’t want to risk our friendship, so I kept quiet. But it’s becoming harder to keep it inside.",
+    "message_urdu": "میں نہیں چاہتا تھا کہ ہماری دوستی خطرے میں پڑے، اس لیے خاموش رہا۔ مگر اب اسے اندر رکھنا مشکل ہوتا جا رہا ہے۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I can see how much this means to you. You’ve been so brave to say it out loud.",
+    "message_urdu": "میں دیکھ سکتا ہوں کہ یہ تمہارے لیے کتنا اہم ہے۔ تم نے یہ بات بلند آواز میں کہنے کے لیے کتنی بہادری دکھائی ہے۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "I just needed you to know how much you mean to me. I love you, and I want to be with you.",
+    "message_urdu": "میں چاہتا تھا کہ تمہیں یہ بتا سکوں کہ تم میرے لیے کتنے اہم ہو۔ میں تم سے محبت کرتا ہوں، اور میں تمہارے ساتھ رہنا چاہتا ہوں۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I’m speechless. I never thought you’d feel the same way. I love you too.",
+    "message_urdu": "میں بے زبان ہوں۔ مجھے کبھی نہیں لگا تھا کہ تم بھی ایسا محسوس کرتے ہو۔ میں بھی تم سے محبت کرتا ہوں۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "You just made me the happiest person on earth.",
+    "message_urdu": "تم نے مجھے دنیا کا سب سے خوش انسان بنا دیا۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I feel the same. I’ve always had feelings for you, but I didn’t know how to express them.",
+    "message_urdu": "میرے بھی یہی جذبات ہیں۔ میں ہمیشہ تمہارے لیے کچھ محسوس کرتا تھا، مگر مجھے انہیں ظاہر کرنے کا طریقہ نہیں آتا تھا۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "We’ve finally said it, and it feels like a weight has been lifted off my shoulders.",
+    "message_urdu": "آخرکار ہم نے یہ کہا، اور یہ محسوس ہو رہا ہے جیسے میرے کندھوں سے بوجھ اتر گیا ہو۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "I feel the same way. I’ve been wanting to tell you for so long.",
+    "message_urdu": "مجھے بھی یہی لگتا ہے۔ میں بھی تم سے یہ کہنا چاہتا تھا، لیکن وقت کبھی نہیں آیا۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "Now that we’ve confessed, I want to make sure I cherish every moment with you.",
+    "message_urdu": "اب جب ہم نے اعتراف کر لیا ہے، میں چاہتا ہوں کہ میں تمہارے ساتھ ہر لمحے کو قیمتی بناؤں۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "Me too. I don’t want to miss a single second of being with you.",
+    "message_urdu": "مجھے بھی۔ میں تمہارے ساتھ ایک لمحہ بھی ضائع نہیں کرنا چاہتا۔"
+  },
+  {
+    "person": "Person 1",
+    "message": "Let’s make every day special. Together.",
+    "message_urdu": "چلو، ہر دن خاص بنائیں۔ ساتھ میں۔"
+  },
+  {
+    "person": "Person 2",
+    "message": "Together forever. I wouldn’t want it any other way.",
+    "message_urdu": "ہمیشہ کے لیے ساتھ۔ میں چاہتا ہوں کہ یہی ہو۔"
+  }
+]

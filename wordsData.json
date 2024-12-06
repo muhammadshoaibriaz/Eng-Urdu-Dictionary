@@ -1,0 +1,4640 @@
+[
+  {
+    "word": "ambitious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/æmˈbɪʃəs/",
+    "audio": "https://example.com/audio/ambitious.mp3",
+    "definitions": [
+      "Having or showing a strong desire and determination to succeed.",
+      "Requiring or showing effort to achieve a challenging goal."
+    ],
+    "urduMeaning": "حوصلہ مند، بلند ارادہ",
+    "synonyms": ["aspiring", "determined", "motivated"],
+    "antonyms": ["unmotivated", "content", "complacent"],
+    "examples": [
+      "She is an ambitious young woman determined to make her mark in the world.",
+      "The project was ambitious but ultimately successful."
+    ],
+    "relatedWords": ["driven", "goal-oriented", "aspirational"],
+    "usageNotes": "Often used to describe a person or project aiming for high achievements.",
+    "frequency": 4.8,
+    "etymology": "From Latin ambitiosus, meaning 'eager for favor or honor.'",
+    "origin": {
+      "language": "Latin",
+      "root": "ambitio",
+      "meaning": "a going around to canvass for votes"
+    },
+    "derivedForms": [
+      {
+        "form": "ambition",
+        "partOfSpeech": "noun",
+        "definition": "A strong desire to achieve something."
+      },
+      {
+        "form": "ambitiously",
+        "partOfSpeech": "adverb",
+        "definition": "In an ambitious manner."
+      }
+    ],
+    "categories": ["adjective", "personality", "goals"],
+    "popularityIndex": 7.2,
+    "tags": ["motivation", "success", "determination"]
+  },
+  {
+    "word": "aesthetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/esˈθetɪk/",
+    "audio": "https://example.com/audio/aesthetic.mp3",
+    "definitions": [
+      "Concerned with beauty or the appreciation of beauty.",
+      "Giving or designed to give pleasure through beauty."
+    ],
+    "urduMeaning": "خوبصورتی سے متعلق",
+    "synonyms": ["artistic", "beautiful", "tasteful"],
+    "antonyms": ["unattractive", "unpleasing", "ugly"],
+    "examples": [
+      "The aesthetic appeal of the painting was undeniable.",
+      "She has a strong aesthetic sense for interior design."
+    ],
+    "relatedWords": ["artistic", "visual", "decorative"],
+    "usageNotes": "Often used to describe things that are visually pleasing or creative.",
+    "frequency": 4.6,
+    "etymology": "From Greek aisthētikos, meaning 'perceptive to the senses.'",
+    "origin": {
+      "language": "Greek",
+      "root": "aisthēsis",
+      "meaning": "perception"
+    },
+    "derivedForms": [
+      {
+        "form": "aestheticism",
+        "partOfSpeech": "noun",
+        "definition": "A movement emphasizing beauty and art for its own sake."
+      },
+      {
+        "form": "aesthetically",
+        "partOfSpeech": "adverb",
+        "definition": "In a way that gives pleasure through beauty."
+      }
+    ],
+    "categories": ["adjective", "art", "design"],
+    "popularityIndex": 8.5,
+    "tags": ["beauty", "art", "design"]
+  },
+  {
+    "word": "abundant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbʌndənt/",
+    "audio": "https://example.com/audio/abundant.mp3",
+    "definitions": [
+      "Existing or available in large quantities.",
+      "Having plenty of something."
+    ],
+    "urduMeaning": "وافر، بہت زیادہ",
+    "synonyms": ["plentiful", "copious", "bountiful"],
+    "antonyms": ["scarce", "sparse", "limited"],
+    "examples": [
+      "Water is abundant in this region during the rainy season.",
+      "He has abundant energy for outdoor activities."
+    ],
+    "relatedWords": ["plenty", "surplus", "overflowing"],
+    "usageNotes": "Commonly used to describe resources or qualities available in large quantities.",
+    "frequency": 4.9,
+    "etymology": "From Latin abundare, meaning 'to overflow.'",
+    "origin": {
+      "language": "Latin",
+      "root": "abundare",
+      "meaning": "overflow, abound"
+    },
+    "derivedForms": [
+      {
+        "form": "abundance",
+        "partOfSpeech": "noun",
+        "definition": "A large quantity of something."
+      },
+      {
+        "form": "abundantly",
+        "partOfSpeech": "adverb",
+        "definition": "In large quantities or amounts."
+      }
+    ],
+    "categories": ["adjective", "quantity", "resources"],
+    "popularityIndex": 8.1,
+    "tags": ["plenty", "resources", "wealth"]
+  },
+  {
+    "word": "accurate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈækjərət/",
+    "audio": "https://example.com/audio/accurate.mp3",
+    "definitions": [
+      "Correct in all details; exact.",
+      "Free from errors or mistakes."
+    ],
+    "urduMeaning": "درست، صحیح",
+    "synonyms": ["precise", "correct", "exact"],
+    "antonyms": ["inaccurate", "incorrect", "imprecise"],
+    "examples": [
+      "Her calculations were accurate to the last decimal point.",
+      "The report provided an accurate representation of the data."
+    ],
+    "relatedWords": ["precision", "exactness", "correctness"],
+    "usageNotes": "Often used in contexts where correctness and precision are emphasized.",
+    "frequency": 5.0,
+    "etymology": "From Latin accuratus, meaning 'done with care.'",
+    "origin": {
+      "language": "Latin",
+      "root": "accuratus",
+      "meaning": "carefully done"
+    },
+    "derivedForms": [
+      {
+        "form": "accuracy",
+        "partOfSpeech": "noun",
+        "definition": "The quality or state of being accurate."
+      },
+      {
+        "form": "accurately",
+        "partOfSpeech": "adverb",
+        "definition": "In a manner that is free from error."
+      }
+    ],
+    "categories": ["adjective", "quality", "measurement"],
+    "popularityIndex": 8.7,
+    "tags": ["precision", "correctness", "detail"]
+  },
+  {
+    "word": "affectionate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈfɛkʃənət/",
+    "audio": "https://example.com/audio/affectionate.mp3",
+    "definitions": [
+      "Showing fondness or tenderness.",
+      "Having a strong sense of love or attachment."
+    ],
+    "urduMeaning": "محبت بھرا، شفقت والا",
+    "synonyms": ["loving", "caring", "warm"],
+    "antonyms": ["cold", "indifferent", "detached"],
+    "examples": [
+      "He gave his mother an affectionate hug.",
+      "Her affectionate nature made her beloved by everyone."
+    ],
+    "relatedWords": ["fond", "tender", "warmhearted"],
+    "usageNotes": "Used to describe a warm and loving behavior or attitude.",
+    "frequency": 4.4,
+    "etymology": "From Latin affectio, meaning 'disposition or affection.'",
+    "origin": {
+      "language": "Latin",
+      "root": "affectio",
+      "meaning": "affection"
+    },
+    "derivedForms": [
+      {
+        "form": "affection",
+        "partOfSpeech": "noun",
+        "definition": "A feeling of love or liking."
+      },
+      {
+        "form": "affectionately",
+        "partOfSpeech": "adverb",
+        "definition": "In a loving or tender manner."
+      }
+    ],
+    "categories": ["adjective", "emotion", "relationship"],
+    "popularityIndex": 7.4,
+    "tags": ["love", "warmth", "relationship"]
+  },
+  {
+    "word": "agile",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈædʒaɪl/",
+    "audio": "https://example.com/audio/agile.mp3",
+    "definitions": [
+      "Able to move quickly and easily.",
+      "Having a quick and resourceful mind."
+    ],
+    "urduMeaning": "چست، تیز",
+    "synonyms": ["nimble", "spry", "quick"],
+    "antonyms": ["clumsy", "slow", "awkward"],
+    "examples": [
+      "The agile dancer performed a series of intricate moves.",
+      "His agile thinking allowed him to solve the puzzle in minutes."
+    ],
+    "relatedWords": ["nimble", "dexterous", "adaptable"],
+    "usageNotes": "Can describe physical movement or mental sharpness.",
+    "frequency": 4.7,
+    "etymology": "From Latin agilis, meaning 'quick or nimble.'",
+    "origin": {
+      "language": "Latin",
+      "root": "agilis",
+      "meaning": "quick, nimble"
+    },
+    "derivedForms": [
+      {
+        "form": "agility",
+        "partOfSpeech": "noun",
+        "definition": "The ability to move quickly and easily."
+      },
+      {
+        "form": "agilely",
+        "partOfSpeech": "adverb",
+        "definition": "In an agile manner."
+      }
+    ],
+    "categories": ["adjective", "movement", "mind"],
+    "popularityIndex": 8.3,
+    "tags": ["quickness", "flexibility", "dexterity"]
+  },
+  {
+    "word": "alert",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈlɜːrt/",
+    "audio": "https://example.com/audio/alert.mp3",
+    "definitions": [
+      "Quick to notice any unusual and potentially dangerous or difficult circumstances.",
+      "Being watchful and prompt to meet danger."
+    ],
+    "urduMeaning": "چوکس، ہوشیار",
+    "synonyms": ["vigilant", "watchful", "attentive"],
+    "antonyms": ["oblivious", "distracted", "careless"],
+    "examples": [
+      "The guard was alert and quickly noticed the intruder.",
+      "Stay alert while crossing the busy street."
+    ],
+    "relatedWords": ["vigilant", "aware", "attentive"],
+    "usageNotes": "Used to describe a state of heightened awareness.",
+    "frequency": 4.9,
+    "etymology": "From Italian all'erta, meaning 'on the lookout.'",
+    "origin": {
+      "language": "Italian",
+      "root": "all'erta",
+      "meaning": "on the lookout"
+    },
+    "derivedForms": [
+      {
+        "form": "alertness",
+        "partOfSpeech": "noun",
+        "definition": "The state of being alert."
+      },
+      {
+        "form": "alertly",
+        "partOfSpeech": "adverb",
+        "definition": "In an alert manner."
+      }
+    ],
+    "categories": ["adjective", "awareness", "safety"],
+    "popularityIndex": 7.8,
+    "tags": ["awareness", "watchfulness", "safety"]
+  },
+  {
+    "word": "amazing",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈmeɪzɪŋ/",
+    "audio": "https://example.com/audio/amazing.mp3",
+    "definitions": [
+      "Causing great surprise or wonder.",
+      "Extremely good or impressive."
+    ],
+    "urduMeaning": "حیرت انگیز، شاندار",
+    "synonyms": ["astonishing", "incredible", "marvelous"],
+    "antonyms": ["ordinary", "unremarkable", "mundane"],
+    "examples": [
+      "The view from the top of the mountain was amazing.",
+      "She did an amazing job on the project."
+    ],
+    "relatedWords": ["astonishing", "wonderful", "fantastic"],
+    "usageNotes": "Used to describe something that inspires awe or admiration.",
+    "frequency": 5.0,
+    "etymology": "From Middle English 'amasen,' meaning 'to stun or bewilder.'",
+    "origin": {
+      "language": "Middle English",
+      "root": "amasen",
+      "meaning": "to bewilder"
+    },
+    "derivedForms": [
+      {
+        "form": "amazingly",
+        "partOfSpeech": "adverb",
+        "definition": "In an amazing manner."
+      }
+    ],
+    "categories": ["adjective", "emotion", "reaction"],
+    "popularityIndex": 8.9,
+    "tags": ["wonder", "impressive", "extraordinary"]
+  },
+  {
+    "word": "adaptable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈdæptəbl/",
+    "audio": "https://example.com/audio/adaptable.mp3",
+    "definitions": [
+      "Able to adjust to new conditions.",
+      "Capable of being modified for a new use or purpose."
+    ],
+    "urduMeaning": "لچکدار، حالات کے مطابق ڈھلنے والا",
+    "synonyms": ["flexible", "versatile", "adjustable"],
+    "antonyms": ["rigid", "inflexible", "unadaptable"],
+    "examples": [
+      "She is highly adaptable to changing work environments.",
+      "The software is adaptable to different operating systems."
+    ],
+    "relatedWords": ["flexible", "resilient", "adjustable"],
+    "usageNotes": "Often used to describe people, software, or systems capable of change.",
+    "frequency": 4.6,
+    "etymology": "From Latin adaptare, meaning 'to fit to.'",
+    "origin": {
+      "language": "Latin",
+      "root": "adaptare",
+      "meaning": "to fit to"
+    },
+    "derivedForms": [
+      {
+        "form": "adaptability",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being able to adjust to new conditions."
+      }
+    ],
+    "categories": ["adjective", "flexibility", "adjustment"],
+    "popularityIndex": 7.3,
+    "tags": ["flexibility", "resilience", "change"]
+  },
+  {
+    "word": "adventurous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ədˈvɛnʧərəs/",
+    "audio": "https://example.com/audio/adventurous.mp3",
+    "definitions": [
+      "Willing to take risks or try out new methods, ideas, or experiences.",
+      "Involving new or daring experiences."
+    ],
+    "urduMeaning": "مہم جو، جرات مند",
+    "synonyms": ["daring", "bold", "intrepid"],
+    "antonyms": ["cautious", "timid", "hesitant"],
+    "examples": [
+      "He had an adventurous spirit, always ready to explore unknown places.",
+      "The adventurous journey through the jungle was thrilling."
+    ],
+    "relatedWords": ["daring", "courageous", "bold"],
+    "usageNotes": "Often used to describe people or activities that involve exploration or risk-taking.",
+    "frequency": 4.8,
+    "etymology": "From Latin adventurus, meaning 'about to happen.'",
+    "origin": {
+      "language": "Latin",
+      "root": "adventurus",
+      "meaning": "about to happen"
+    },
+    "derivedForms": [
+      {
+        "form": "adventure",
+        "partOfSpeech": "noun",
+        "definition": "An unusual and exciting or daring experience."
+      },
+      {
+        "form": "adventurously",
+        "partOfSpeech": "adverb",
+        "definition": "In an adventurous manner."
+      }
+    ],
+    "categories": ["adjective", "personality", "risk-taking"],
+    "popularityIndex": 8.1,
+    "tags": ["exploration", "risk", "courage"]
+  },
+  {
+    "word": "abacus",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈabəkəs/",
+    "audio": "https://example.com/audio/abacus.mp3",
+    "definitions": [
+      "A mechanical device used for counting and performing arithmetic operations."
+    ],
+    "urduMeaning": "  چلیچ",
+    "synonyms": ["calculator", "counting frame"],
+    "antonyms": ["none"],
+    "examples": ["The merchant used an abacus to calculate the total."],
+    "relatedWords": ["calculation", "math"],
+    "usageNotes": "Abacus is an ancient tool for arithmetic.",
+    "frequency": 5.4,
+    "etymology": "From Latin 'abacus' meaning 'counting board'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abacus",
+      "meaning": "counting table"
+    },
+    "derivedForms": [
+      {
+        "form": "abacuses",
+        "partOfSpeech": "noun",
+        "definition": "Plural form of abacus"
+      }
+    ],
+    "categories": ["education", "history"],
+    "popularityIndex": 7.3,
+    "tags": ["tool", "mathematics"]
+  },
+  {
+    "word": "abrasive",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbreɪsɪv/",
+    "audio": "https://example.com/audio/abrasive.mp3",
+    "definitions": [
+      "Having a rough surface, often used to rub or scrape something."
+    ],
+    "urduMeaning": "  کھردرا",
+    "synonyms": ["rough", "scraping", "grating"],
+    "antonyms": ["smooth", "soft"],
+    "examples": [
+      "The abrasive surface of the sandpaper made it perfect for smoothing wood."
+    ],
+    "relatedWords": ["rough", "scratch"],
+    "usageNotes": "Used often in reference to surfaces or materials.",
+    "frequency": 4.2,
+    "etymology": "From Latin 'abrasus', past participle of 'abradere' meaning 'to scrape off'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abrasus",
+      "meaning": "scraped off"
+    },
+    "derivedForms": [
+      {
+        "form": "abrasively",
+        "partOfSpeech": "adverb",
+        "definition": "In a manner that is rough or harsh."
+      },
+      {
+        "form": "abrasiveness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being abrasive."
+      }
+    ],
+    "categories": ["materials", "descriptive"],
+    "popularityIndex": 6.4,
+    "tags": ["surface", "tool"]
+  },
+  {
+    "word": "absorbent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əbˈzɔːbənd/",
+    "audio": "https://example.com/audio/absorbent.mp3",
+    "definitions": ["Able to soak up liquids or other substances."],
+    "urduMeaning": "  جزب کرنے والا",
+    "synonyms": ["soaking", "spongy", "permeable"],
+    "antonyms": ["impermeable", "repellent"],
+    "examples": ["The absorbent towel dried my hands quickly."],
+    "relatedWords": ["sponge", "fabric"],
+    "usageNotes": "Commonly used in reference to materials like towels or cloths.",
+    "frequency": 6.3,
+    "etymology": "From Latin 'absorbere', meaning 'to suck in'.",
+    "origin": {
+      "language": "Latin",
+      "root": "absorbere",
+      "meaning": "to suck in"
+    },
+    "derivedForms": [
+      {
+        "form": "absorbency",
+        "partOfSpeech": "noun",
+        "definition": "The ability to absorb liquid."
+      }
+    ],
+    "categories": ["materials", "properties"],
+    "popularityIndex": 6.1,
+    "tags": ["material", "physics"]
+  },
+  {
+    "word": "adorable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈdɔːrəbəl/",
+    "audio": "https://example.com/audio/adorable.mp3",
+    "definitions": ["Inspiring affection or delight."],
+    "urduMeaning": "اردو مطلب: پیار کرنے کے قابل",
+    "synonyms": ["cute", "charming", "endearing"],
+    "antonyms": ["unattractive", "repulsive"],
+    "examples": ["The puppy was absolutely adorable and loved by everyone."],
+    "relatedWords": ["lovable", "affectionate"],
+    "usageNotes": "Often used to describe things that evoke love or fondness.",
+    "frequency": 8.1,
+    "etymology": "From Latin 'adorabilis', meaning 'worthy of being loved'.",
+    "origin": {
+      "language": "Latin",
+      "root": "adorabilis",
+      "meaning": "worthy of being loved"
+    },
+    "derivedForms": [
+      {
+        "form": "adorably",
+        "partOfSpeech": "adverb",
+        "definition": "In an adorable manner."
+      }
+    ],
+    "categories": ["emotion", "appearance"],
+    "popularityIndex": 8.4,
+    "tags": ["affection", "charm"]
+  },
+  {
+    "word": "agnostic",
+    "partOfSpeech": "noun",
+    "pronunciation": "/æɡˈnɒstɪk/",
+    "audio": "https://example.com/audio/agnostic.mp3",
+    "definitions": [
+      "A person who believes that nothing is known or can be known about the existence of God or anything beyond material phenomena."
+    ],
+    "urduMeaning": "اردو مطلب: غیر جانبدار",
+    "synonyms": ["skeptic", "doubter", "nonbeliever"],
+    "antonyms": ["believer", "theist"],
+    "examples": [
+      "He considered himself an agnostic, unsure of the existence of a higher power."
+    ],
+    "relatedWords": ["skepticism", "philosophy"],
+    "usageNotes": "Agnosticism is often associated with uncertainty about religious beliefs.",
+    "frequency": 6.2,
+    "etymology": "From Greek 'agnostos', meaning 'unknown'.",
+    "origin": {
+      "language": "Greek",
+      "root": "agnostos",
+      "meaning": "unknown"
+    },
+    "derivedForms": [
+      {
+        "form": "agnosticism",
+        "partOfSpeech": "noun",
+        "definition": "The belief that the existence of God or other spiritual phenomena is unknowable."
+      }
+    ],
+    "categories": ["philosophy", "belief"],
+    "popularityIndex": 6.8,
+    "tags": ["belief", "uncertainty"]
+  },
+  {
+    "word": "altruism",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæltruːɪzəm/",
+    "audio": "https://example.com/audio/altruism.mp3",
+    "definitions": [
+      "The belief in or practice of selfless concern for the well-being of others."
+    ],
+    "urduMeaning": "اردو مطلب: خود غرضی سے آزاد",
+    "synonyms": ["selflessness", "generosity", "compassion"],
+    "antonyms": ["selfishness", "egoism"],
+    "examples": [
+      "Her altruism was evident in the way she helped the less fortunate."
+    ],
+    "relatedWords": ["kindness", "charity"],
+    "usageNotes": "Altruism is often viewed as a moral quality or virtue.",
+    "frequency": 5.9,
+    "etymology": "From Latin 'alter', meaning 'other'.",
+    "origin": {
+      "language": "Latin",
+      "root": "alter",
+      "meaning": "other"
+    },
+    "derivedForms": [
+      {
+        "form": "altruistic",
+        "partOfSpeech": "adjective",
+        "definition": "Concerned with the well-being of others."
+      }
+    ],
+    "categories": ["philosophy", "behavior"],
+    "popularityIndex": 7.6,
+    "tags": ["kindness", "generosity"]
+  },
+  {
+    "word": "anomaly",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈnɒməli/",
+    "audio": "https://example.com/audio/anomaly.mp3",
+    "definitions": [
+      "Something that deviates from what is standard, normal, or expected."
+    ],
+    "urduMeaning": "اردو مطلب: غیر معمولی",
+    "synonyms": ["abnormality", "irregularity", "outlier"],
+    "antonyms": ["normality", "regularity"],
+    "examples": [
+      "The sudden drop in temperature was an anomaly in the forecast."
+    ],
+    "relatedWords": ["exception", "irregularity"],
+    "usageNotes": "Used to describe events, behaviors, or phenomena that are unusual or unexpected.",
+    "frequency": 6.5,
+    "etymology": "From Greek 'anomalos', meaning 'uneven'.",
+    "origin": {
+      "language": "Greek",
+      "root": "anomalos",
+      "meaning": "uneven"
+    },
+    "derivedForms": [
+      {
+        "form": "anomalous",
+        "partOfSpeech": "adjective",
+        "definition": "Deviating from what is normal."
+      }
+    ],
+    "categories": ["science", "phenomena"],
+    "popularityIndex": 7.2,
+    "tags": ["exception", "irregularity"]
+  },
+  {
+    "word": "allegory",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæləɡɔːri/",
+    "audio": "https://example.com/audio/allegory.mp3",
+    "definitions": [
+      "A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one."
+    ],
+    "urduMeaning": "اردو مطلب: تمثیل",
+    "synonyms": ["parable", "symbolism", "metaphor"],
+    "antonyms": ["literalism", "concreteness"],
+    "examples": [
+      "George Orwell’s 'Animal Farm' is a famous allegory about political systems."
+    ],
+    "relatedWords": ["metaphor", "symbolism"],
+    "usageNotes": "Common in literature, often used to convey moral lessons.",
+    "frequency": 7.1,
+    "etymology": "From Greek 'allēgoria', meaning 'speaking otherwise'.",
+    "origin": {
+      "language": "Greek",
+      "root": "allēgoria",
+      "meaning": "speaking otherwise"
+    },
+    "derivedForms": [
+      {
+        "form": "allegorical",
+        "partOfSpeech": "adjective",
+        "definition": "Relating to or characteristic of an allegory."
+      }
+    ],
+    "categories": ["literature", "art"],
+    "popularityIndex": 7.4,
+    "tags": ["literature", "symbolism"]
+  },
+  {
+    "word": "amplify",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈæmplɪfaɪ/",
+    "audio": "https://example.com/audio/amplify.mp3",
+    "definitions": ["To make something louder, stronger, or more intense."],
+    "urduMeaning": "اردو مطلب: بڑھانا",
+    "synonyms": ["enhance", "boost", "magnify"],
+    "antonyms": ["diminish", "reduce"],
+    "examples": [
+      "The speaker used a microphone to amplify his voice during the presentation."
+    ],
+    "relatedWords": ["increase", "intensify"],
+    "usageNotes": "Commonly used in the context of sound or influence.",
+    "frequency": 6.7,
+    "etymology": "From Latin 'amplificare', meaning 'to make larger'.",
+    "origin": {
+      "language": "Latin",
+      "root": "amplificare",
+      "meaning": "to make larger"
+    },
+    "derivedForms": [
+      {
+        "form": "amplification",
+        "partOfSpeech": "noun",
+        "definition": "The act or process of amplifying something."
+      }
+    ],
+    "categories": ["sound", "communication"],
+    "popularityIndex": 7.1,
+    "tags": ["increase", "sound"]
+  },
+  {
+    "word": "analyze",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈænəlaɪz/",
+    "audio": "https://example.com/audio/analyze.mp3",
+    "definitions": [
+      "To examine something in detail in order to understand it better or discover more information."
+    ],
+    "urduMeaning": "اردو مطلب: تجزیہ کرنا",
+    "synonyms": ["examine", "assess", "scrutinize"],
+    "antonyms": ["ignore", "overlook"],
+    "examples": ["The scientist will analyze the data to draw conclusions."],
+    "relatedWords": ["evaluate", "inspect"],
+    "usageNotes": "Often used in scientific and academic contexts.",
+    "frequency": 7.5,
+    "etymology": "From Greek 'analusis', meaning 'a breaking up'.",
+    "origin": {
+      "language": "Greek",
+      "root": "analusis",
+      "meaning": "a breaking up"
+    },
+    "derivedForms": [
+      {
+        "form": "analysis",
+        "partOfSpeech": "noun",
+        "definition": "The detailed examination of something."
+      }
+    ],
+    "categories": ["science", "investigation"],
+    "popularityIndex": 7.8,
+    "tags": ["examine", "investigate"]
+  },
+  {
+    "word": "aptitude",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæptɪtjuːd/",
+    "audio": "https://example.com/audio/aptitude.mp3",
+    "definitions": ["A natural ability to do something."],
+    "urduMeaning": "اردو مطلب: فطری صلاحیت",
+    "synonyms": ["talent", "ability", "skill"],
+    "antonyms": ["inability", "incapacity"],
+    "examples": ["She has a natural aptitude for learning languages."],
+    "relatedWords": ["proficiency", "competence"],
+    "usageNotes": "Often used in the context of natural skills or talents.",
+    "frequency": 6.3,
+    "etymology": "From Latin 'aptitudo', meaning 'fitness'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aptitudo",
+      "meaning": "fitness"
+    },
+    "derivedForms": [
+      {
+        "form": "apt",
+        "partOfSpeech": "adjective",
+        "definition": "Having a natural ability or talent."
+      }
+    ],
+    "categories": ["education", "skills"],
+    "popularityIndex": 6.9,
+    "tags": ["talent", "ability"]
+  },
+  {
+    "word": "articulate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɑːˈtɪkjʊlət/",
+    "audio": "https://example.com/audio/articulate.mp3",
+    "definitions": ["Having the ability to speak fluently and coherently."],
+    "urduMeaning": "اردو مطلب: صاف گو",
+    "synonyms": ["eloquent", "clear", "expressive"],
+    "antonyms": ["inarticulate", "unclear"],
+    "examples": [
+      "He is an articulate speaker who can express his ideas clearly."
+    ],
+    "relatedWords": ["fluent", "eloquent"],
+    "usageNotes": "Used to describe someone who speaks in an organized and clear way.",
+    "frequency": 6.8,
+    "etymology": "From Latin 'articulatus', meaning 'distinctly pronounced'.",
+    "origin": {
+      "language": "Latin",
+      "root": "articulatus",
+      "meaning": "distinctly pronounced"
+    },
+    "derivedForms": [
+      {
+        "form": "articulate",
+        "partOfSpeech": "verb",
+        "definition": "To express something clearly in speech."
+      }
+    ],
+    "categories": ["communication", "language"],
+    "popularityIndex": 7.4,
+    "tags": ["clear", "eloquent"]
+  },
+  {
+    "word": "audible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɔːdəbl/",
+    "audio": "https://example.com/audio/audible.mp3",
+    "definitions": ["Able to be heard."],
+    "urduMeaning": "اردو مطلب: سننے کے قابل",
+    "synonyms": ["hearable", "perceptible", "loud"],
+    "antonyms": ["inaudible", "silent"],
+    "examples": ["The sound was barely audible from the other room."],
+    "relatedWords": ["hear", "sound"],
+    "usageNotes": "Typically used in relation to sounds that can be heard by the human ear.",
+    "frequency": 5.6,
+    "etymology": "From Latin 'audibilis', meaning 'that can be heard'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audibilis",
+      "meaning": "that can be heard"
+    },
+    "derivedForms": [
+      {
+        "form": "audibility",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being able to be heard."
+      }
+    ],
+    "categories": ["sound", "communication"],
+    "popularityIndex": 6.3,
+    "tags": ["sound", "hearable"]
+  },
+  {
+    "word": "absence",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæbsəns/",
+    "audio": "https://example.com/audio/absence.mp3",
+    "definitions": ["The state of being absent or not present."],
+    "urduMeaning": "اردو مطلب: غیر موجودگی",
+    "synonyms": ["nonattendance", "lack", "deficiency"],
+    "antonyms": ["presence", "attendance"],
+    "examples": ["Her absence from the meeting was noted by everyone."],
+    "relatedWords": ["missing", "vacancy"],
+    "usageNotes": "Used to describe the lack of presence in a place or situation.",
+    "frequency": 6.5,
+    "etymology": "From Latin 'absentia', meaning 'a being away'.",
+    "origin": {
+      "language": "Latin",
+      "root": "absentia",
+      "meaning": "a being away"
+    },
+    "derivedForms": [
+      {
+        "form": "absent",
+        "partOfSpeech": "adjective",
+        "definition": "Not present in a place or situation."
+      }
+    ],
+    "categories": ["absence", "state"],
+    "popularityIndex": 6.2,
+    "tags": ["missing", "lack"]
+  },
+  {
+    "word": "adversity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ədˈvɜːsɪti/",
+    "audio": "https://example.com/audio/adversity.mp3",
+    "definitions": ["A difficult or unpleasant situation."],
+    "urduMeaning": "اردو مطلب: مصیبت",
+    "synonyms": ["hardship", "misfortune", "difficulty"],
+    "antonyms": ["prosperity", "success"],
+    "examples": ["He showed great courage in the face of adversity."],
+    "relatedWords": ["struggle", "trouble"],
+    "usageNotes": "Commonly used to describe challenges or hardships in life.",
+    "frequency": 7.0,
+    "etymology": "From Latin 'adversitas', meaning 'unfavorable conditions'.",
+    "origin": {
+      "language": "Latin",
+      "root": "adversitas",
+      "meaning": "unfavorable conditions"
+    },
+    "derivedForms": [
+      {
+        "form": "adverse",
+        "partOfSpeech": "adjective",
+        "definition": "Harmful or unfavorable."
+      }
+    ],
+    "categories": ["challenges", "difficulty"],
+    "popularityIndex": 7.4,
+    "tags": ["hardship", "struggle"]
+  },
+  {
+    "word": "allocate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈæləkeɪt/",
+    "audio": "https://example.com/audio/allocate.mp3",
+    "definitions": [
+      "To distribute resources or duties for a particular purpose."
+    ],
+    "urduMeaning": "اردو مطلب: مختص کرنا",
+    "synonyms": ["assign", "distribute", "apportion"],
+    "antonyms": ["withhold", "retain"],
+    "examples": [
+      "The teacher will allocate the assignments based on student ability."
+    ],
+    "relatedWords": ["distribute", "assign"],
+    "usageNotes": "Often used in contexts involving the distribution of tasks or resources.",
+    "frequency": 6.9,
+    "etymology": "From Latin 'allocare', meaning 'to assign'.",
+    "origin": {
+      "language": "Latin",
+      "root": "allocare",
+      "meaning": "to assign"
+    },
+    "derivedForms": [
+      {
+        "form": "allocation",
+        "partOfSpeech": "noun",
+        "definition": "The action or process of allocating something."
+      }
+    ],
+    "categories": ["distribution", "organization"],
+    "popularityIndex": 7.2,
+    "tags": ["assign", "distribute"]
+  },
+  {
+    "word": "artificial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌɑːtɪˈfɪʃəl/",
+    "audio": "https://example.com/audio/artificial.mp3",
+    "definitions": [
+      "Made or produced by human beings rather than occurring naturally."
+    ],
+    "urduMeaning": "اردو مطلب: مصنوعی",
+    "synonyms": ["man-made", "synthetic", "unnatural"],
+    "antonyms": ["natural", "genuine"],
+    "examples": ["The artificial flowers looked very realistic."],
+    "relatedWords": ["man-made", "synthetic"],
+    "usageNotes": "Commonly used to describe things that are imitation or not natural.",
+    "frequency": 7.1,
+    "etymology": "From Latin 'artificialis', meaning 'made by art'.",
+    "origin": {
+      "language": "Latin",
+      "root": "artificialis",
+      "meaning": "made by art"
+    },
+    "derivedForms": [
+      {
+        "form": "artifice",
+        "partOfSpeech": "noun",
+        "definition": "A clever trick or device."
+      }
+    ],
+    "categories": ["technology", "manufacturing"],
+    "popularityIndex": 7.5,
+    "tags": ["man-made", "synthetic"]
+  },
+  {
+    "word": "augment",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ɔːɡˈmɛnt/",
+    "audio": "https://example.com/audio/augment.mp3",
+    "definitions": ["To make something greater or more intense."],
+    "urduMeaning": "اردو مطلب: بڑھانا",
+    "synonyms": ["increase", "enhance", "expand"],
+    "antonyms": ["diminish", "decrease"],
+    "examples": [
+      "The company plans to augment its workforce by hiring more employees."
+    ],
+    "relatedWords": ["expand", "improve"],
+    "usageNotes": "Commonly used in business or technology contexts to describe improvements or increases.",
+    "frequency": 6.8,
+    "etymology": "From Latin 'augmentare', meaning 'to increase'.",
+    "origin": {
+      "language": "Latin",
+      "root": "augmentare",
+      "meaning": "to increase"
+    },
+    "derivedForms": [
+      {
+        "form": "augmentation",
+        "partOfSpeech": "noun",
+        "definition": "The process of increasing or improving something."
+      }
+    ],
+    "categories": ["growth", "improvement"],
+    "popularityIndex": 7.3,
+    "tags": ["increase", "enhance"]
+  },
+  {
+    "word": "amend",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈmɛnd/",
+    "audio": "https://example.com/audio/amend.mp3",
+    "definitions": ["To make changes to a document, law, or agreement."],
+    "urduMeaning": "اردو مطلب: ترمیم کرنا",
+    "synonyms": ["modify", "alter", "revise"],
+    "antonyms": ["preserve", "maintain"],
+    "examples": ["The law was amended to include stricter regulations."],
+    "relatedWords": ["revise", "modify"],
+    "usageNotes": "Often used in legal or formal contexts to describe making changes to official documents.",
+    "frequency": 6.4,
+    "etymology": "From Latin 'emendare', meaning 'to correct'.",
+    "origin": {
+      "language": "Latin",
+      "root": "emendare",
+      "meaning": "to correct"
+    },
+    "derivedForms": [
+      {
+        "form": "amendment",
+        "partOfSpeech": "noun",
+        "definition": "The act of making a change or improvement to something."
+      }
+    ],
+    "categories": ["legislation", "modification"],
+    "popularityIndex": 7.0,
+    "tags": ["revise", "modify"]
+  },
+  {
+    "word": "adopt",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈdɒpt/",
+    "audio": "https://example.com/audio/adopt.mp3",
+    "definitions": ["To take up or accept something as one's own."],
+    "urduMeaning": "اردو مطلب: اختیار کرنا",
+    "synonyms": ["embrace", "accept", "take on"],
+    "antonyms": ["reject", "refuse"],
+    "examples": [
+      "She decided to adopt a more positive attitude toward the project."
+    ],
+    "relatedWords": ["embrace", "accept"],
+    "usageNotes": "Used to describe adopting new practices, ideas, or even children.",
+    "frequency": 7.2,
+    "etymology": "From Latin 'adoptare', meaning 'to choose for oneself'.",
+    "origin": {
+      "language": "Latin",
+      "root": "adoptare",
+      "meaning": "to choose for oneself"
+    },
+    "derivedForms": [
+      {
+        "form": "adoption",
+        "partOfSpeech": "noun",
+        "definition": "The act of taking something or someone as one's own."
+      }
+    ],
+    "categories": ["change", "acceptance"],
+    "popularityIndex": 7.4,
+    "tags": ["embrace", "accept"]
+  },
+  {
+    "word": "attribute",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈætrɪbjuːt/",
+    "audio": "https://example.com/audio/attribute.mp3",
+    "definitions": [
+      "A quality or characteristic inherent in someone or something."
+    ],
+    "urduMeaning": "اردو مطلب: خصوصیت",
+    "synonyms": ["trait", "characteristic", "feature"],
+    "antonyms": ["flaw", "deficiency"],
+    "examples": ["Honesty is an important attribute for a leader."],
+    "relatedWords": ["feature", "trait"],
+    "usageNotes": "Often used to describe a defining quality or characteristic.",
+    "frequency": 7.0,
+    "etymology": "From Latin 'attribuere', meaning 'to assign or ascribe'.",
+    "origin": {
+      "language": "Latin",
+      "root": "attribuere",
+      "meaning": "to assign or ascribe"
+    },
+    "derivedForms": [
+      {
+        "form": "attribution",
+        "partOfSpeech": "noun",
+        "definition": "The action of ascribing a quality or characteristic."
+      }
+    ],
+    "categories": ["quality", "characteristic"],
+    "popularityIndex": 7.2,
+    "tags": ["trait", "characteristic"]
+  },
+  {
+    "word": "antagonist",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ænˈtæɡənɪst/",
+    "audio": "https://example.com/audio/antagonist.mp3",
+    "definitions": [
+      "A person who actively opposes or is hostile to someone or something.",
+      "A character in a story, play, or movie who opposes the main character.",
+      "An adversary in a conflict or struggle.",
+      "A person or group that challenges or competes with another in a contest."
+    ],
+    "urduMeaning": "اردو مطلب: مخالف",
+    "synonyms": ["opponent", "enemy", "rival", "adversary"],
+    "antonyms": ["proponent", "ally", "supporter"],
+    "examples": [
+      "The antagonist in the novel was a ruthless villain.",
+      "In many movies, the antagonist is a character who makes the hero's journey more difficult."
+    ],
+    "relatedWords": ["opposition", "conflict", "rivalry", "enemy"],
+    "usageNotes": "Typically used in literature, movies, or discussions about conflicts.",
+    "frequency": 6.2,
+    "etymology": "From Greek 'antagonistes', meaning 'opponent'.",
+    "origin": {
+      "language": "Greek",
+      "root": "antagonistes",
+      "meaning": "opponent"
+    },
+    "derivedForms": [
+      {
+        "form": "antagonistic",
+        "partOfSpeech": "adjective",
+        "definition": "Showing active opposition or hostility."
+      },
+      {
+        "form": "antagonistically",
+        "partOfSpeech": "adverb",
+        "definition": "In a manner that shows opposition."
+      }
+    ],
+    "categories": ["conflict", "opposition", "literature"],
+    "popularityIndex": 6.5,
+    "tags": ["opponent", "rival", "villain"]
+  },
+  {
+    "word": "assimilate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈsɪmɪleɪt/",
+    "audio": "https://example.com/audio/assimilate.mp3",
+    "definitions": [
+      "To take in and understand fully.",
+      "To absorb and integrate into a larger system or culture.",
+      "To adapt to a new environment, culture, or set of ideas.",
+      "To convert something into a form that can be used or incorporated."
+    ],
+    "urduMeaning": "اردو مطلب: جذب کرنا",
+    "synonyms": ["absorb", "integrate", "incorporate", "adapt"],
+    "antonyms": ["reject", "exclude", "disperse"],
+    "examples": [
+      "It took him a while to assimilate all the new information.",
+      "She struggled to assimilate into the new workplace culture."
+    ],
+    "relatedWords": ["incorporate", "adapt", "adjust", "understand"],
+    "usageNotes": "Used to describe understanding or integrating something new into existing knowledge.",
+    "frequency": 6.8,
+    "etymology": "From Latin 'assimilare', meaning 'to make similar'.",
+    "origin": {
+      "language": "Latin",
+      "root": "assimilare",
+      "meaning": "to make similar"
+    },
+    "derivedForms": [
+      {
+        "form": "assimilation",
+        "partOfSpeech": "noun",
+        "definition": "The process of absorbing and integrating."
+      },
+      {
+        "form": "assimilative",
+        "partOfSpeech": "adjective",
+        "definition": "Tending to assimilate or absorb."
+      }
+    ],
+    "categories": ["learning", "understanding", "culture"],
+    "popularityIndex": 7.0,
+    "tags": ["integrate", "absorb"]
+  },
+  {
+    "word": "audible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɔːdɪbəl/",
+    "audio": "https://example.com/audio/audible.mp3",
+    "definitions": [
+      "Able to be heard.",
+      "Referring to sound that can be detected by the ear.",
+      "Clear enough to be heard by others.",
+      "Perceptible in sound or speech."
+    ],
+    "urduMeaning": "اردو مطلب: سنا جا سکتا ہے",
+    "synonyms": ["hearable", "perceptible", "detectable", "auditory"],
+    "antonyms": ["inaudible", "silent", "mute"],
+    "examples": [
+      "The sound was barely audible over the noise of the crowd.",
+      "Her voice was barely audible in the noisy room."
+    ],
+    "relatedWords": ["sound", "hear", "listen", "detect"],
+    "usageNotes": "Commonly used to describe sounds that can be perceived by the human ear.",
+    "frequency": 6.3,
+    "etymology": "From Latin 'audibilis', meaning 'that can be heard'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audibilis",
+      "meaning": "that can be heard"
+    },
+    "derivedForms": [
+      {
+        "form": "audibly",
+        "partOfSpeech": "adverb",
+        "definition": "In a way that can be heard."
+      },
+      {
+        "form": "audibility",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being able to be heard."
+      }
+    ],
+    "categories": ["sound", "perception", "communication"],
+    "popularityIndex": 6.6,
+    "tags": ["hearable", "sound", "perceptible"]
+  },
+  {
+    "word": "acquire",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈkwaɪə/",
+    "audio": "https://example.com/audio/acquire.mp3",
+    "definitions": [
+      "To gain possession of something.",
+      "To obtain something through effort or by purchase.",
+      "To come into possession of an asset, skill, or knowledge.",
+      "To learn or develop something over time."
+    ],
+    "urduMeaning": "اردو مطلب: حاصل کرنا",
+    "synonyms": ["obtain", "gain", "attain", "collect"],
+    "antonyms": ["lose", "forfeit", "relinquish"],
+    "examples": [
+      "She acquired a lot of knowledge during her travels.",
+      "The company acquired several new technologies this year."
+    ],
+    "relatedWords": ["obtain", "gain", "attain", "secure", "collect"],
+    "usageNotes": "Used when referring to gaining skills, assets, or knowledge.",
+    "frequency": 7.1,
+    "etymology": "From Latin 'acquirere', meaning 'to seek to get'.",
+    "origin": {
+      "language": "Latin",
+      "root": "acquirere",
+      "meaning": "to seek to get"
+    },
+    "derivedForms": [
+      {
+        "form": "acquisition",
+        "partOfSpeech": "noun",
+        "definition": "The act of acquiring something."
+      },
+      {
+        "form": "acquisitive",
+        "partOfSpeech": "adjective",
+        "definition": "Having a strong desire to acquire or possess things."
+      }
+    ],
+    "categories": ["gaining", "learning", "ownership"],
+    "popularityIndex": 7.4,
+    "tags": ["obtain", "attain", "acquire"]
+  },
+  {
+    "word": "absorb",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əbˈzɔːrb/",
+    "audio": "https://example.com/audio/absorb.mp3",
+    "definitions": [
+      "To take in or soak up (energy, liquid, or another substance) by a surface or substance.",
+      "To fully engage the attention of someone.",
+      "To assimilate information or ideas.",
+      "To absorb knowledge, skills, or understanding from experiences."
+    ],
+    "urduMeaning": "اردو مطلب: جذب کرنا",
+    "synonyms": ["soak", "saturate", "take in", "engage"],
+    "antonyms": ["release", "emit", "discharge"],
+    "examples": [
+      "The paper towel absorbs water quickly.",
+      "He was absorbed in his book and didn't hear the phone ring."
+    ],
+    "relatedWords": ["saturate", "engage", "assimilate", "soak"],
+    "usageNotes": "Commonly used in both physical and metaphorical contexts.",
+    "frequency": 6.0,
+    "etymology": "From Latin 'absorbere', meaning 'to suck in'.",
+    "origin": {
+      "language": "Latin",
+      "root": "absorbere",
+      "meaning": "to suck in"
+    },
+    "derivedForms": [
+      {
+        "form": "absorption",
+        "partOfSpeech": "noun",
+        "definition": "The process of absorbing or being absorbed."
+      },
+      {
+        "form": "absorptive",
+        "partOfSpeech": "adjective",
+        "definition": "Capable of absorbing."
+      }
+    ],
+    "categories": ["learning", "physical", "engagement"],
+    "popularityIndex": 7.2,
+    "tags": ["absorb", "soak", "engage"]
+  },
+  {
+    "word": "acquiesce",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈakwēˌes/",
+    "audio": "https://example.com/audio/acquiesce.mp3",
+    "definitions": [
+      "To accept or agree to something reluctantly but without protest.",
+      "To give in to a situation or decision without objection.",
+      "To comply or submit quietly without showing strong resistance."
+    ],
+    "urduMeaning": "اردو مطلب: رضا مند ہونا",
+    "synonyms": ["agree", "consent", "yield", "submit"],
+    "antonyms": ["resist", "oppose", "reject"],
+    "examples": [
+      "She acquiesced to the decision, even though she disagreed with it.",
+      "They were reluctant to acquiesce, but eventually agreed."
+    ],
+    "relatedWords": ["agree", "submit", "yield", "consent"],
+    "usageNotes": "Often used when someone accepts something reluctantly or without protest.",
+    "frequency": 5.6,
+    "etymology": "From Latin 'acquiescere', meaning 'to rest or be at peace'.",
+    "origin": {
+      "language": "Latin",
+      "root": "acquiescere",
+      "meaning": "to rest or be at peace"
+    },
+    "derivedForms": [
+      {
+        "form": "acquiescence",
+        "partOfSpeech": "noun",
+        "definition": "The act of acquiescing, especially without protest."
+      },
+      {
+        "form": "acquiescent",
+        "partOfSpeech": "adjective",
+        "definition": "Willing to accept or submit."
+      }
+    ],
+    "categories": ["compliance", "agreement", "resistance"],
+    "popularityIndex": 6.3,
+    "tags": ["agree", "submit", "consent"]
+  },
+  {
+    "word": "abrasive",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbreɪsɪv/",
+    "audio": "https://example.com/audio/abrasive.mp3",
+    "definitions": [
+      "Having a rough surface, capable of polishing or cleaning by rubbing.",
+      "Causing irritation or damage through friction.",
+      "Harsh in manner or speech, often causing offense.",
+      "Used for cleaning, polishing, or grinding."
+    ],
+    "urduMeaning": "اردو مطلب: کھردرا",
+    "synonyms": ["rough", "grating", "harsh", "scraping"],
+    "antonyms": ["smooth", "gentle", "polished"],
+    "examples": [
+      "The abrasive surface of the stone helped smooth the metal.",
+      "His abrasive comments upset the team."
+    ],
+    "relatedWords": ["rough", "grating", "harsh", "scraping"],
+    "usageNotes": "Can be used literally to describe textures or figuratively to describe behavior.",
+    "frequency": 5.9,
+    "etymology": "From Latin 'abrasivus', meaning 'to scrape off'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abrasivus",
+      "meaning": "to scrape off"
+    },
+    "derivedForms": [
+      {
+        "form": "abrasiveness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being abrasive or harsh."
+      }
+    ],
+    "categories": ["texture", "behavior", "material"],
+    "popularityIndex": 6.1,
+    "tags": ["rough", "grating", "scraping"]
+  },
+  {
+    "word": "aptitude",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæptɪtjud/",
+    "audio": "https://example.com/audio/aptitude.mp3",
+    "definitions": [
+      "A natural ability to do something.",
+      "A talent or skill that someone is naturally good at.",
+      "An inclination or natural tendency to learn or acquire something.",
+      "A measure of someone's ability or proficiency in a certain area."
+    ],
+    "urduMeaning": "اردو مطلب: فطری صلاحیت",
+    "synonyms": ["ability", "talent", "skill", "proficiency"],
+    "antonyms": ["inability", "incompetence", "lack"],
+    "examples": [
+      "Her aptitude for languages made her a great translator.",
+      "He showed an aptitude for mathematics at an early age."
+    ],
+    "relatedWords": ["ability", "talent", "proficiency", "skill"],
+    "usageNotes": "Often used in educational contexts to describe someone's ability in a subject.",
+    "frequency": 6.2,
+    "etymology": "From Latin 'aptitudo', meaning 'fitness or suitability'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aptitudo",
+      "meaning": "fitness or suitability"
+    },
+    "derivedForms": [
+      {
+        "form": "apt",
+        "partOfSpeech": "adjective",
+        "definition": "Having a natural tendency or ability."
+      }
+    ],
+    "categories": ["skills", "learning", "education"],
+    "popularityIndex": 6.5,
+    "tags": ["ability", "talent", "skill"]
+  },
+  {
+    "word": "aggregate",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæɡrɪɡət/",
+    "audio": "https://example.com/audio/aggregate.mp3",
+    "definitions": [
+      "A whole formed by combining several elements.",
+      "A total amount or sum of individual parts.",
+      "A collection of things that are combined to form a whole.",
+      "The combined resources or assets of a group or organization."
+    ],
+    "urduMeaning": "اردو مطلب: مجموعہ",
+    "synonyms": ["total", "sum", "combination", "collection"],
+    "antonyms": ["individual", "part", "portion"],
+    "examples": [
+      "The aggregate of all the scores decided the winner.",
+      "The aggregate value of all the company's assets is quite high."
+    ],
+    "relatedWords": ["sum", "collection", "total", "whole"],
+    "usageNotes": "Often used in statistical, business, and sports contexts.",
+    "frequency": 6.1,
+    "etymology": "From Latin 'aggregatus', meaning 'to add to'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aggregatus",
+      "meaning": "to add to"
+    },
+    "derivedForms": [
+      {
+        "form": "aggregated",
+        "partOfSpeech": "adjective",
+        "definition": "Formed by the collection of many individual items."
+      },
+      {
+        "form": "aggregation",
+        "partOfSpeech": "noun",
+        "definition": "The action or process of collecting or combining things."
+      }
+    ],
+    "categories": ["sum", "collection", "statistics"],
+    "popularityIndex": 6.4,
+    "tags": ["total", "sum", "collection"]
+  },
+  {
+    "word": "adversary",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈædvərsɛri/",
+    "audio": "https://example.com/audio/adversary.mp3",
+    "definitions": [
+      "A person, group, or force that opposes or attacks.",
+      "An opponent in a contest, conflict, or competition.",
+      "An enemy or rival."
+    ],
+    "urduMeaning": "اردو مطلب: حریف",
+    "synonyms": ["opponent", "rival", "enemy", "foe"],
+    "antonyms": ["ally", "friend", "supporter"],
+    "examples": [
+      "The adversary team played a tough match.",
+      "In the courtroom, the lawyer faced a skilled adversary."
+    ],
+    "relatedWords": ["opponent", "rival", "enemy", "foe"],
+    "usageNotes": "Usually used in contexts of conflict or competition.",
+    "frequency": 5.8,
+    "etymology": "From Latin 'adversarius', meaning 'opponent'.",
+    "origin": {
+      "language": "Latin",
+      "root": "adversarius",
+      "meaning": "opponent"
+    },
+    "derivedForms": [
+      {
+        "form": "adversarial",
+        "partOfSpeech": "adjective",
+        "definition": "Relating to or involving conflict or opposition."
+      }
+    ],
+    "categories": ["competition", "opposition", "conflict"],
+    "popularityIndex": 6.0,
+    "tags": ["opponent", "rival", "enemy"]
+  },
+  {
+    "word": "altruistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌæltrʊˈɪstɪk/",
+    "audio": "https://example.com/audio/altruistic.mp3",
+    "definitions": [
+      "Unselfishly concerned for or devoted to the welfare of others.",
+      "Showing a selfless concern for the well-being of others.",
+      "Motivated by a desire to help others, rather than by personal gain."
+    ],
+    "urduMeaning": "اردو مطلب: فلاحی",
+    "synonyms": ["selfless", "unselfish", "compassionate", "benevolent"],
+    "antonyms": ["selfish", "egotistical", "self-centered"],
+    "examples": [
+      "Her altruistic actions helped many people in need.",
+      "The organization was founded on altruistic principles."
+    ],
+    "relatedWords": ["selfless", "compassionate", "benevolent", "generous"],
+    "usageNotes": "Used to describe behaviors or attitudes that prioritize others' well-being over one's own.",
+    "frequency": 5.7,
+    "etymology": "From Latin 'alter' (other) + 'ous' (having the qualities of).",
+    "origin": {
+      "language": "Latin",
+      "root": "alter",
+      "meaning": "other"
+    },
+    "derivedForms": [
+      {
+        "form": "altruism",
+        "partOfSpeech": "noun",
+        "definition": "The principle or practice of concern for the welfare of others."
+      }
+    ],
+    "categories": ["benevolence", "kindness", "behavior"],
+    "popularityIndex": 6.3,
+    "tags": ["selfless", "compassionate", "generous"]
+  },
+  {
+    "word": "affinity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈfɪnɪti/",
+    "audio": "https://example.com/audio/affinity.mp3",
+    "definitions": [
+      "A natural liking or sympathy for someone or something.",
+      "A close relationship or connection between things or people.",
+      "A similarity or connection in terms of traits, characteristics, or interests."
+    ],
+    "urduMeaning": "اردو مطلب: رغبت",
+    "synonyms": ["liking", "fondness", "sympathy", "connection"],
+    "antonyms": ["dislike", "aversion", "alienation"],
+    "examples": [
+      "She has an affinity for animals and volunteers at the shelter.",
+      "There is a strong affinity between the two cultures."
+    ],
+    "relatedWords": ["liking", "fondness", "sympathy", "connection"],
+    "usageNotes": "Can be used to describe both personal preferences and connections between things.",
+    "frequency": 6.3,
+    "etymology": "From Latin 'affinitas', meaning 'kinship or relationship'.",
+    "origin": {
+      "language": "Latin",
+      "root": "affinitas",
+      "meaning": "kinship or relationship"
+    },
+    "derivedForms": [
+      {
+        "form": "affine",
+        "partOfSpeech": "adjective",
+        "definition": "Related by marriage or kinship."
+      }
+    ],
+    "categories": ["relationship", "sympathy", "connection"],
+    "popularityIndex": 6.2,
+    "tags": ["liking", "fondness", "connection"]
+  },
+  {
+    "word": "benevolent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "audio": "https://example.com/audio/benevolent.mp3",
+    "definitions": [
+      "Well-meaning and kindly.",
+      "Expressing goodwill or charity.",
+      "Having a disposition to do good."
+    ],
+    "urduMeaning": "اردو مطلب: نیک دل",
+    "synonyms": ["kind", "generous", "compassionate", "charitable"],
+    "antonyms": ["selfish", "mean", "cruel"],
+    "examples": [
+      "The benevolent leader donated to several charities.",
+      "She was known for her benevolent acts towards the community.",
+      "His benevolent nature made him popular among his peers."
+    ],
+    "relatedWords": ["generous", "kind", "compassionate"],
+    "usageNotes": "Used to describe actions or people who show kindness and concern for others.",
+    "frequency": 6.2,
+    "etymology": "From Latin 'bene' (well) + 'volens' (wishing).",
+    "origin": {
+      "language": "Latin",
+      "root": "benevolens",
+      "meaning": "wishing well"
+    },
+    "derivedForms": [
+      {
+        "form": "benevolence",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being kind and charitable."
+      },
+      {
+        "form": "benevolently",
+        "partOfSpeech": "adverb",
+        "definition": "In a kind and charitable manner."
+      }
+    ],
+    "categories": ["kindness", "charity", "goodwill"],
+    "popularityIndex": 6.5,
+    "tags": ["kind", "generous", "compassionate"]
+  },
+  {
+    "word": "cacophony",
+    "partOfSpeech": "noun",
+    "pronunciation": "/kəˈkɒfəni/",
+    "audio": "https://example.com/audio/cacophony.mp3",
+    "definitions": [
+      "A harsh, discordant mixture of sounds.",
+      "A jarring, unpleasant noise.",
+      "An overwhelming and confusing sound."
+    ],
+    "urduMeaning": "اردو مطلب: شور شرابہ",
+    "synonyms": ["din", "clamor", "racket", "uproar"],
+    "antonyms": ["silence", "quiet", "calm"],
+    "examples": [
+      "The cacophony of car horns was unbearable during rush hour.",
+      "The city was filled with the cacophony of street vendors and traffic.",
+      "The classroom was filled with the cacophony of students chatting."
+    ],
+    "relatedWords": ["noise", "discord", "uproar"],
+    "usageNotes": "Often used to describe loud and unpleasant noise in urban environments.",
+    "frequency": 5.8,
+    "etymology": "From Greek 'kakophonia', from 'kakos' (bad) + 'phone' (sound).",
+    "origin": {
+      "language": "Greek",
+      "root": "kakophonia",
+      "meaning": "bad sound"
+    },
+    "derivedForms": [
+      {
+        "form": "cacophonous",
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by harsh or jarring sounds."
+      }
+    ],
+    "categories": ["noise", "sound", "disorder"],
+    "popularityIndex": 5.9,
+    "tags": ["loud", "unpleasant", "harsh"]
+  },
+  {
+    "word": "ephemeral",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈfɛmərəl/",
+    "audio": "https://example.com/audio/ephemeral.mp3",
+    "definitions": [
+      "Lasting for a very short time.",
+      "Temporary, fleeting, or short-lived.",
+      "Existing or occurring for a brief period."
+    ],
+    "urduMeaning": "اردو مطلب: عارضی، عجلت میں",
+    "synonyms": ["transient", "momentary", "short-lived", "fleeting"],
+    "antonyms": ["permanent", "eternal", "enduring"],
+    "examples": [
+      "The beauty of the sunset was ephemeral, disappearing as quickly as it arrived.",
+      "Her happiness was ephemeral, lasting only a few moments.",
+      "The ephemeral nature of fame makes it difficult to maintain."
+    ],
+    "relatedWords": ["short-lived", "fleeting", "temporary"],
+    "usageNotes": "Often used to describe things that are transient in nature, such as experiences or phenomena.",
+    "frequency": 4.5,
+    "etymology": "From Greek 'ephemeros', meaning 'lasting only one day'.",
+    "origin": {
+      "language": "Greek",
+      "root": "ephemeros",
+      "meaning": "lasting for a day"
+    },
+    "derivedForms": [
+      {
+        "form": "ephemerality",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being short-lived or fleeting."
+      },
+      {
+        "form": "ephemerally",
+        "partOfSpeech": "adverb",
+        "definition": "In a fleeting or short-lived manner."
+      }
+    ],
+    "categories": ["time", "transience", "temporality"],
+    "popularityIndex": 5.2,
+    "tags": ["temporary", "fleeting", "brief"]
+  },
+  {
+    "word": "flabbergasted",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈflæbəˌɡæstɪd/",
+    "audio": "https://example.com/audio/flabbergasted.mp3",
+    "definitions": [
+      "Extremely surprised or shocked.",
+      "Stunned, astonished, or dumbfounded.",
+      "Overcome with astonishment or amazement."
+    ],
+    "urduMeaning": "اردو مطلب: حیرت زدہ",
+    "synonyms": ["astonished", "dumbfounded", "amazed", "speechless"],
+    "antonyms": ["unimpressed", "indifferent", "unshocked"],
+    "examples": [
+      "She was flabbergasted when she received the unexpected news.",
+      "I was flabbergasted by the generosity of the gift.",
+      "He stood there, flabbergasted, unable to speak."
+    ],
+    "relatedWords": ["surprised", "shocked", "amazed"],
+    "usageNotes": "Used to express extreme surprise or shock, often in an unexpected or overwhelming situation.",
+    "frequency": 4.2,
+    "etymology": "From 'flabber' (flap) + 'gasted' (overcome with emotion).",
+    "origin": {
+      "language": "English",
+      "root": "flabber",
+      "meaning": "overcome"
+    },
+    "derivedForms": [
+      {
+        "form": "flabbergast",
+        "partOfSpeech": "verb",
+        "definition": "To shock or surprise greatly."
+      }
+    ],
+    "categories": ["emotion", "surprise", "shock"],
+    "popularityIndex": 4.7,
+    "tags": ["astonished", "amazed", "shocked"]
+  },
+  {
+    "word": "gregarious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɡrɪˈɡɛə.ri.əs/",
+    "audio": "https://example.com/audio/gregarious.mp3",
+    "definitions": [
+      "Fond of company; sociable.",
+      "Living in flocks or colonies.",
+      "Seeking the company of others."
+    ],
+    "urduMeaning": "اردو مطلب: معاشرتی، میل جول رکھنے والا",
+    "synonyms": ["sociable", "outgoing", "friendly", "affable"],
+    "antonyms": ["unsociable", "introverted", "antisocial"],
+    "examples": [
+      "He's a gregarious person who loves to spend time with friends.",
+      "The gregarious nature of the students made the class more lively.",
+      "She was always gregarious and loved meeting new people."
+    ],
+    "relatedWords": ["sociable", "friendly", "outgoing"],
+    "usageNotes": "Typically used to describe people who enjoy socializing and interacting with others.",
+    "frequency": 5.0,
+    "etymology": "From Latin 'gregarius', meaning 'belonging to a flock'.",
+    "origin": {
+      "language": "Latin",
+      "root": "gregarius",
+      "meaning": "of a flock"
+    },
+    "derivedForms": [
+      {
+        "form": "gregariously",
+        "partOfSpeech": "adverb",
+        "definition": "In a sociable or outgoing manner."
+      },
+      {
+        "form": "gregariousness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being sociable or outgoing."
+      }
+    ],
+    "categories": ["social", "personality", "behavior"],
+    "popularityIndex": 5.4,
+    "tags": ["sociable", "outgoing", "friendly"]
+  },
+  {
+    "word": "amiable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈeɪmiəbəl/",
+    "audio": "https://example.com/audio/amiable.mp3",
+    "definitions": [
+      "Having a friendly and pleasant manner.",
+      "Displaying warmth and kindness.",
+      "Being agreeable or easy to get along with."
+    ],
+    "urduMeaning": "دوستانہ، خوش اخلاق",
+    "synonyms": ["friendly", "kind", "agreeable", "good-natured"],
+    "antonyms": ["unfriendly", "hostile", "rude"],
+    "examples": [
+      "The amiable host made everyone feel welcome at the party.",
+      "Her amiable personality made her popular among her colleagues.",
+      "Despite the challenges, he remained calm and amiable."
+    ],
+    "relatedWords": ["friendly", "kind", "pleasant"],
+    "usageNotes": "Often used to describe people or their demeanor as approachable and kind.",
+    "frequency": 6.1,
+    "etymology": "From Latin 'amicabilis', meaning 'friendly'.",
+    "origin": {
+      "language": "Latin",
+      "root": "amicabilis",
+      "meaning": "friendly"
+    },
+    "derivedForms": [
+      {
+        "form": "amiability",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being friendly and pleasant."
+      },
+      {
+        "form": "amiably",
+        "partOfSpeech": "adverb",
+        "definition": "In a friendly and pleasant manner."
+      }
+    ],
+    "categories": ["personality", "kindness", "friendliness"],
+    "popularityIndex": 6.3,
+    "tags": ["friendly", "kind", "pleasant"]
+  },
+  {
+    "word": "arduous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɑːrdʒuəs/",
+    "audio": "https://example.com/audio/arduous.mp3",
+    "definitions": [
+      "Involving or requiring strenuous effort.",
+      "Difficult and tiring.",
+      "Demanding great physical or mental effort."
+    ],
+    "urduMeaning": "مشکل، محنت طلب",
+    "synonyms": ["difficult", "laborious", "challenging", "strenuous"],
+    "antonyms": ["easy", "effortless", "simple"],
+    "examples": [
+      "Climbing the mountain was an arduous task that tested their endurance.",
+      "The arduous journey through the desert left them exhausted.",
+      "Writing the book was an arduous but rewarding process."
+    ],
+    "relatedWords": ["challenging", "difficult", "strenuous"],
+    "usageNotes": "Often used to describe tasks or journeys that are physically or mentally taxing.",
+    "frequency": 5.8,
+    "etymology": "From Latin 'arduus', meaning 'high, steep'.",
+    "origin": {
+      "language": "Latin",
+      "root": "arduus",
+      "meaning": "high, steep"
+    },
+    "derivedForms": [
+      {
+        "form": "arduously",
+        "partOfSpeech": "adverb",
+        "definition": "In a difficult or laborious manner."
+      },
+      {
+        "form": "arduousness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being difficult or requiring effort."
+      }
+    ],
+    "categories": ["difficulty", "effort", "challenges"],
+    "popularityIndex": 5.9,
+    "tags": ["difficult", "challenging", "strenuous"]
+  },
+  {
+    "word": "astute",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈstuːt/",
+    "audio": "https://example.com/audio/astute.mp3",
+    "definitions": [
+      "Having or showing an ability to accurately assess situations or people.",
+      "Mentally sharp or clever.",
+      "Marked by practical intelligence and insight."
+    ],
+    "urduMeaning": "ذہین، تیز فہم",
+    "synonyms": ["shrewd", "perceptive", "clever", "insightful"],
+    "antonyms": ["naive", "foolish", "ignorant"],
+    "examples": [
+      "Her astute observations helped solve the mystery quickly.",
+      "He is an astute businessman who knows how to seize opportunities.",
+      "The lawyer's astute arguments persuaded the jury."
+    ],
+    "relatedWords": ["shrewd", "perceptive", "clever"],
+    "usageNotes": "Often used to describe individuals who are intelligent and quick to understand complex situations.",
+    "frequency": 6.2,
+    "etymology": "From Latin 'astutus', meaning 'clever, crafty'.",
+    "origin": {
+      "language": "Latin",
+      "root": "astutus",
+      "meaning": "clever, crafty"
+    },
+    "derivedForms": [
+      {
+        "form": "astutely",
+        "partOfSpeech": "adverb",
+        "definition": "In a clever or shrewd manner."
+      },
+      {
+        "form": "astuteness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being shrewd or perceptive."
+      }
+    ],
+    "categories": ["intelligence", "perception", "cleverness"],
+    "popularityIndex": 6.0,
+    "tags": ["shrewd", "clever", "insightful"]
+  },
+  {
+    "word": "alchemy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈæl.kə.mi/",
+    "audio": "https://example.com/audio/alchemy.mp3",
+    "definitions": [
+      "A medieval chemical science aimed at transmuting base metals into gold.",
+      "A seemingly magical process of transformation or creation.",
+      "A process of transforming something common into something special."
+    ],
+    "urduMeaning": "کیمیائی جادو، کیمیاء",
+    "synonyms": ["transmutation", "magic", "concoction", "sorcery"],
+    "antonyms": ["science", "logic"],
+    "examples": [
+      "He was fascinated by the study of alchemy and ancient texts.",
+      "The artist's creativity was an alchemy that turned ordinary materials into art.",
+      "Alchemy was once a precursor to modern chemistry."
+    ],
+    "relatedWords": ["chemistry", "transformation", "magic"],
+    "usageNotes": "Often used metaphorically to describe any process of turning something mundane into something extraordinary.",
+    "frequency": 3.7,
+    "etymology": "From Arabic 'al-kīmiyā', meaning 'the art of transformation'.",
+    "origin": {
+      "language": "Arabic",
+      "root": "kīmiyā",
+      "meaning": "the art of transformation"
+    },
+    "derivedForms": [
+      {
+        "form": "alchemist",
+        "partOfSpeech": "noun",
+        "definition": "A person who practices alchemy."
+      }
+    ],
+    "categories": ["science", "mysticism", "history"],
+    "popularityIndex": 4.1,
+    "tags": ["magic", "transformation", "alchemy"]
+  },
+  {
+    "word": "aggrandize",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈɡræn.daɪz/",
+    "audio": "https://example.com/audio/aggrandize.mp3",
+    "definitions": [
+      "To increase the power, status, or wealth of someone or something.",
+      "To make something seem greater or more important than it really is.",
+      "To exaggerate the importance of something."
+    ],
+    "urduMeaning": "عظمت میں اضافہ کرنا، بڑھا چڑھا کر پیش کرنا",
+    "synonyms": ["exaggerate", "magnify", "elevate", "enhance"],
+    "antonyms": ["belittle", "degrade", "diminish"],
+    "examples": [
+      "He used his wealth to aggrandize his status in society.",
+      "The politician tried to aggrandize his role in the success of the project.",
+      "The media often aggrandize the achievements of celebrities."
+    ],
+    "relatedWords": ["promote", "exalt", "magnify"],
+    "usageNotes": "Typically used in contexts involving individuals or groups trying to elevate their status or importance.",
+    "frequency": 3.9,
+    "etymology": "From Latin 'aggrandire', meaning 'to make greater'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aggrandire",
+      "meaning": "to make greater"
+    },
+    "derivedForms": [
+      {
+        "form": "aggrandizement",
+        "partOfSpeech": "noun",
+        "definition": "The act of making something greater in power, influence, or importance."
+      }
+    ],
+    "categories": ["power", "status", "exaggeration"],
+    "popularityIndex": 3.6,
+    "tags": ["exaggerate", "enhance", "promote"]
+  },
+  {
+    "word": "antagonistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ænˌtæɡəˈnɪstɪk/",
+    "audio": "https://example.com/audio/antagonistic.mp3",
+    "definitions": [
+      "Showing or feeling active opposition or hostility.",
+      "Being in conflict or competition with something or someone.",
+      "Characterized by antagonism or hostility."
+    ],
+    "urduMeaning": "مخالف، دشمنی پر مبنی",
+    "synonyms": ["hostile", "oppositional", "adverse", "combative"],
+    "antonyms": ["friendly", "cooperative", "supportive"],
+    "examples": [
+      "They had an antagonistic relationship, always arguing.",
+      "His antagonistic attitude toward the project led to its failure.",
+      "The two countries have an antagonistic history."
+    ],
+    "relatedWords": ["hostile", "adverse", "conflict"],
+    "usageNotes": "Often used to describe people or groups in opposition to each other.",
+    "frequency": 3.8,
+    "etymology": "From Greek 'antagonistikos', meaning 'pertaining to opposition'.",
+    "origin": {
+      "language": "Greek",
+      "root": "antagonistikos",
+      "meaning": "pertaining to opposition"
+    },
+    "derivedForms": [
+      {
+        "form": "antagonism",
+        "partOfSpeech": "noun",
+        "definition": "Active hostility or opposition."
+      }
+    ],
+    "categories": ["conflict", "hostility", "opposition"],
+    "popularityIndex": 3.5,
+    "tags": ["hostile", "opposition", "conflict"]
+  },
+  {
+    "word": "ascendancy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/əˈsɛndənsi/",
+    "audio": "https://example.com/audio/ascendancy.mp3",
+    "definitions": [
+      "Occupation of a dominant or controlling position.",
+      "The state of being in a more powerful or influential position.",
+      "The rise to power or influence."
+    ],
+    "urduMeaning": "غلبہ، قیادت",
+    "synonyms": ["dominance", "control", "supremacy", "command"],
+    "antonyms": ["subordination", "inferiority", "weakness"],
+    "examples": [
+      "The company gained ascendancy in the market after acquiring a competitor.",
+      "He was in a position of ascendancy over the others in the group.",
+      "The nation achieved political ascendancy during the 19th century."
+    ],
+    "relatedWords": ["dominance", "power", "control"],
+    "usageNotes": "Used to describe situations or people in positions of power or influence.",
+    "frequency": 3.6,
+    "etymology": "From Latin 'ascendens', meaning 'rising'.",
+    "origin": {
+      "language": "Latin",
+      "root": "ascendens",
+      "meaning": "rising"
+    },
+    "derivedForms": [
+      {
+        "form": "ascendant",
+        "partOfSpeech": "noun",
+        "definition": "A person or thing in a dominant or leading position."
+      }
+    ],
+    "categories": ["power", "influence", "control"],
+    "popularityIndex": 4.0,
+    "tags": ["dominance", "power", "control"]
+  },
+  {
+    "word": "audacious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɔːˈdeɪʃəs/",
+    "audio": "https://example.com/audio/audacious.mp3",
+    "definitions": [
+      "Showing a willingness to take bold risks.",
+      "Fearlessly daring or bold.",
+      "Recklessly bold in behavior or actions."
+    ],
+    "urduMeaning": "جرأت مندانہ، بے باک",
+    "synonyms": ["bold", "daring", "brave", "intrepid"],
+    "antonyms": ["timid", "cautious", "meek"],
+    "examples": [
+      "The audacious plan surprised everyone, but it worked.",
+      "He made an audacious leap into the unknown.",
+      "Her audacious decision to invest in the startup paid off."
+    ],
+    "relatedWords": ["bold", "brave", "fearless"],
+    "usageNotes": "Used to describe actions or people who are bold, fearless, and willing to take risks.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'audax', meaning 'bold or daring'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audax",
+      "meaning": "bold or daring"
+    },
+    "derivedForms": [
+      {
+        "form": "audacity",
+        "partOfSpeech": "noun",
+        "definition": "The willingness to take bold risks."
+      }
+    ],
+    "categories": ["risk", "bravery", "courage"],
+    "popularityIndex": 4.2,
+    "tags": ["bold", "daring", "brave"]
+  },
+  {
+    "word": "aberration",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌæbəˈreɪʃən/",
+    "audio": "https://example.com/audio/aberration.mp3",
+    "definitions": [
+      "A departure from what is normal, usual, or expected.",
+      "A deviation from the normal or typical course.",
+      "A flaw or defect in a pattern or behavior."
+    ],
+    "urduMeaning": "انحراف، غلطی",
+    "synonyms": ["anomaly", "deviation", "irregularity", "exception"],
+    "antonyms": ["normality", "regularity", "conformity"],
+    "examples": [
+      "The sudden drop in sales was considered an aberration from the usual trend.",
+      "His behavior was an aberration from his usual calm demeanor.",
+      "The researchers discovered an aberration in the experiment's results."
+    ],
+    "relatedWords": ["deviation", "irregularity", "exception"],
+    "usageNotes": "Typically used to describe something that deviates from the expected or usual pattern.",
+    "frequency": 3.6,
+    "etymology": "From Latin 'aberratio', meaning 'a wandering from the right way'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aberratio",
+      "meaning": "a wandering from the right way"
+    },
+    "derivedForms": [
+      {
+        "form": "aberrant",
+        "partOfSpeech": "adjective",
+        "definition": "Deviating from the normal or expected course."
+      }
+    ],
+    "categories": ["deviation", "error", "abnormality"],
+    "popularityIndex": 3.8,
+    "tags": ["deviation", "anomaly", "error"]
+  },
+  {
+    "word": "agile",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈædʒaɪl/",
+    "audio": "https://example.com/audio/agile.mp3",
+    "definitions": [
+      "Able to move quickly and easily.",
+      "Having a quick and light way of moving.",
+      "Able to think and understand quickly."
+    ],
+    "urduMeaning": "چابک، پھرتیلا",
+    "synonyms": ["nimble", "quick", "dexterous", "spry"],
+    "antonyms": ["clumsy", "slow", "awkward"],
+    "examples": [
+      "The athlete's agile movements helped her win the race.",
+      "He was agile enough to dodge the ball during the game.",
+      "Her agile mind quickly grasped the new concepts."
+    ],
+    "relatedWords": ["quick", "nimble", "dexterous"],
+    "usageNotes": "Used to describe both physical agility and mental quickness.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'agilis', meaning 'quick or nimble'.",
+    "origin": {
+      "language": "Latin",
+      "root": "agilis",
+      "meaning": "quick or nimble"
+    },
+    "derivedForms": [
+      {
+        "form": "agility",
+        "partOfSpeech": "noun",
+        "definition": "The ability to move quickly and easily."
+      }
+    ],
+    "categories": ["movement", "speed", "quickness"],
+    "popularityIndex": 4.1,
+    "tags": ["quick", "nimble", "dexterous"]
+  },
+  {
+    "word": "altruistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌæltruˈɪstɪk/",
+    "audio": "https://example.com/audio/altruistic.mp3",
+    "definitions": [
+      "Showing a selfless concern for the well-being of others.",
+      "Unselfishly concerned for or devoted to the welfare of others.",
+      "Having a sense of responsibility for others' happiness and well-being."
+    ],
+    "urduMeaning": "غیر خود غرض، دوسروں کے فائدے کے لیے",
+    "synonyms": ["selfless", "unselfish", "benevolent", "compassionate"],
+    "antonyms": ["selfish", "egotistical", "narcissistic"],
+    "examples": [
+      "Her altruistic actions made a big difference in the community.",
+      "He is known for his altruistic nature, always helping those in need.",
+      "The charity is founded on altruistic principles."
+    ],
+    "relatedWords": ["benevolent", "selfless", "compassionate"],
+    "usageNotes": "Often used to describe people who act for the benefit of others without expecting anything in return.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'alter', meaning 'other', and 'us', meaning 'pertaining to'.",
+    "origin": {
+      "language": "Latin",
+      "root": "alter",
+      "meaning": "other"
+    },
+    "derivedForms": [
+      {
+        "form": "altruism",
+        "partOfSpeech": "noun",
+        "definition": "The principle or practice of unselfish concern for the welfare of others."
+      }
+    ],
+    "categories": ["compassion", "benevolence", "selflessness"],
+    "popularityIndex": 4.3,
+    "tags": ["selfless", "compassionate", "benevolent"]
+  },
+  {
+    "word": "ascertain",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˌæsərˈteɪn/",
+    "audio": "https://example.com/audio/ascertain.mp3",
+    "definitions": [
+      "To find out or learn something with certainty.",
+      "To make sure of something.",
+      "To determine or verify information."
+    ],
+    "urduMeaning": "پتہ لگانا، معلوم کرنا",
+    "synonyms": ["determine", "discover", "verify", "confirm"],
+    "antonyms": ["ignore", "overlook", "miss"],
+    "examples": [
+      "The detective was able to ascertain the truth from the evidence.",
+      "I need to ascertain the exact time of the meeting.",
+      "She could not ascertain the cause of the problem."
+    ],
+    "relatedWords": ["verify", "determine", "confirm"],
+    "usageNotes": "Used when ensuring that something is known or confirmed.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'certus', meaning 'certain'.",
+    "origin": {
+      "language": "Latin",
+      "root": "certus",
+      "meaning": "certain"
+    },
+    "derivedForms": [
+      {
+        "form": "ascertainable",
+        "partOfSpeech": "adjective",
+        "definition": "Able to be determined or verified."
+      }
+    ],
+    "categories": ["certainty", "verification", "investigation"],
+    "popularityIndex": 3.9,
+    "tags": ["verify", "determine", "confirm"]
+  },
+  {
+    "word": "audible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɔːdɪbəl/",
+    "audio": "https://example.com/audio/audible.mp3",
+    "definitions": [
+      "Able to be heard.",
+      "Loud enough to be heard clearly.",
+      "Referring to sound that can be perceived by the ear."
+    ],
+    "urduMeaning": "سنائی دینے والا، سنا جا سکنے والا",
+    "synonyms": ["hearable", "loud", "perceptible", "auditory"],
+    "antonyms": ["inaudible", "silent", "unheard"],
+    "examples": [
+      "The sound was barely audible over the noise.",
+      "Her voice became audible above the crowd.",
+      "The alarm was not audible in the next room."
+    ],
+    "relatedWords": ["hearable", "perceptible", "loud"],
+    "usageNotes": "Usually used to describe sounds that can be perceived by the human ear.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'audibilis', meaning 'that can be heard'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audibilis",
+      "meaning": "that can be heard"
+    },
+    "derivedForms": [
+      {
+        "form": "audibility",
+        "partOfSpeech": "noun",
+        "definition": "The ability to be heard."
+      }
+    ],
+    "categories": ["sound", "hearing", "audio"],
+    "popularityIndex": 4.0,
+    "tags": ["hearable", "auditory", "sound"]
+  },
+  {
+    "word": "abundant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbʌndənt/",
+    "audio": "https://example.com/audio/abundant.mp3",
+    "definitions": [
+      "Existing or available in large quantities.",
+      "More than enough; plentiful.",
+      "Richly supplied or filled with something."
+    ],
+    "urduMeaning": "کثیر، وافر",
+    "synonyms": ["plentiful", "ample", "copious", "profuse"],
+    "antonyms": ["scarce", "insufficient", "limited"],
+    "examples": [
+      "The farm had an abundant harvest this year.",
+      "There was an abundant supply of food at the event.",
+      "The region is abundant in natural resources."
+    ],
+    "relatedWords": ["plentiful", "ample", "copious"],
+    "usageNotes": "Used to describe something that is in great quantity or more than enough.",
+    "frequency": 3.9,
+    "etymology": "From Latin 'abundare', meaning 'to overflow'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abundare",
+      "meaning": "to overflow"
+    },
+    "derivedForms": [
+      {
+        "form": "abundance",
+        "partOfSpeech": "noun",
+        "definition": "A large quantity of something."
+      }
+    ],
+    "categories": ["quantity", "plenty", "resources"],
+    "popularityIndex": 4.1,
+    "tags": ["plentiful", "ample", "rich"]
+  },
+  {
+    "word": "adversary",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈædvərˌseri/",
+    "audio": "https://example.com/audio/adversary.mp3",
+    "definitions": [
+      "An opponent in a contest or conflict.",
+      "A person, group, or force that opposes or attacks.",
+      "A rival or enemy."
+    ],
+    "urduMeaning": "مخالف، دشمن",
+    "synonyms": ["enemy", "opponent", "rival", "foe"],
+    "antonyms": ["ally", "friend", "supporter"],
+    "examples": [
+      "The boxer faced a tough adversary in the ring.",
+      "The two teams were fierce adversaries in the championship match.",
+      "The lawyer had to defeat her adversary in court."
+    ],
+    "relatedWords": ["opponent", "enemy", "rival"],
+    "usageNotes": "Commonly used to refer to someone who opposes or competes with someone else.",
+    "frequency": 3.5,
+    "etymology": "From Latin 'adversarius', meaning 'opponent'.",
+    "origin": {
+      "language": "Latin",
+      "root": "adversarius",
+      "meaning": "opponent"
+    },
+    "derivedForms": [
+      {
+        "form": "adversarial",
+        "partOfSpeech": "adjective",
+        "definition": "Related to or involving opposition or conflict."
+      }
+    ],
+    "categories": ["competition", "conflict", "opposition"],
+    "popularityIndex": 4.0,
+    "tags": ["enemy", "opponent", "rival"]
+  },
+  {
+    "word": "ascend",
+    "partOfSpeech": "verb",
+    "pronunciation": "/əˈsɛnd/",
+    "audio": "https://example.com/audio/ascend.mp3",
+    "definitions": [
+      "To move upward; to rise.",
+      "To climb or go up.",
+      "To increase or elevate in position or rank."
+    ],
+    "urduMeaning": "چڑھنا، بلند ہونا",
+    "synonyms": ["rise", "climb", "elevate", "mount"],
+    "antonyms": ["descend", "fall", "decline"],
+    "examples": [
+      "The hiker began to ascend the mountain at dawn.",
+      "He ascended to the top of the corporate ladder.",
+      "The plane started to ascend as soon as it took off."
+    ],
+    "relatedWords": ["rise", "climb", "elevate"],
+    "usageNotes": "Used to describe physical or metaphorical upward movement.",
+    "frequency": 3.6,
+    "etymology": "From Latin 'ascendere', meaning 'to climb up'.",
+    "origin": {
+      "language": "Latin",
+      "root": "ascendere",
+      "meaning": "to climb up"
+    },
+    "derivedForms": [
+      {
+        "form": "ascension",
+        "partOfSpeech": "noun",
+        "definition": "The act of rising or climbing upward."
+      }
+    ],
+    "categories": ["movement", "climbing", "progress"],
+    "popularityIndex": 3.9,
+    "tags": ["rise", "climb", "elevate"]
+  },
+  {
+    "word": "affable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈæfəbl/",
+    "audio": "https://example.com/audio/affable.mp3",
+    "definitions": [
+      "Friendly, good-natured, or easy to talk to.",
+      "Showing a pleasant or approachable manner.",
+      "Sociable and amiable in nature."
+    ],
+    "urduMeaning": "خوش اخلاق، دوستانہ",
+    "synonyms": ["friendly", "approachable", "pleasant", "sociable"],
+    "antonyms": ["unfriendly", "hostile", "aloof"],
+    "examples": [
+      "She was an affable person who made everyone feel welcome.",
+      "His affable personality made him popular among his colleagues.",
+      "The teacher was affable and always ready to help students."
+    ],
+    "relatedWords": ["friendly", "sociable", "pleasant"],
+    "usageNotes": "Used to describe people who are easy to talk to and make others feel comfortable.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'affabilis', meaning 'easy to speak to'.",
+    "origin": {
+      "language": "Latin",
+      "root": "affabilis",
+      "meaning": "easy to speak to"
+    },
+    "derivedForms": [
+      {
+        "form": "affability",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being friendly and approachable."
+      }
+    ],
+    "categories": ["personality", "friendliness", "sociability"],
+    "popularityIndex": 4.0,
+    "tags": ["friendly", "sociable", "pleasant"]
+  },
+  {
+    "word": "audacious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɔːˈdeɪʃəs/",
+    "audio": "https://example.com/audio/audacious.mp3",
+    "definitions": [
+      "Showing a willingness to take bold risks.",
+      "Extremely bold, daring, or fearless.",
+      "Shamelessly bold or disrespectful."
+    ],
+    "urduMeaning": "دلیر، بے خوف، جرات مندانہ",
+    "synonyms": ["bold", "daring", "brave", "fearless"],
+    "antonyms": ["timid", "cautious", "cowardly"],
+    "examples": [
+      "The audacious decision to start a new business during a recession paid off.",
+      "He made an audacious attempt to climb the mountain without proper equipment.",
+      "Her audacious remarks stunned the audience."
+    ],
+    "relatedWords": ["bold", "daring", "brave"],
+    "usageNotes": "Used to describe people or actions that are bold, fearless, or show a lack of concern for consequences.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'audacia', meaning 'boldness'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audacia",
+      "meaning": "boldness"
+    },
+    "derivedForms": [
+      {
+        "form": "audacity",
+        "partOfSpeech": "noun",
+        "definition": "The willingness to take bold risks."
+      }
+    ],
+    "categories": ["courage", "bravery", "boldness"],
+    "popularityIndex": 4.2,
+    "tags": ["bold", "daring", "brave"]
+  },
+  {
+    "word": "affluent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈæfluənt/",
+    "audio": "https://example.com/audio/affluent.mp3",
+    "definitions": [
+      "Having a great deal of money or wealth.",
+      "Rich in resources or plentiful in abundance.",
+      "Characterized by material wealth and abundance."
+    ],
+    "urduMeaning": "مالدار، خوشحال",
+    "synonyms": ["wealthy", "prosperous", "rich", "opulent"],
+    "antonyms": ["poor", "impoverished", "needy"],
+    "examples": [
+      "The affluent businessman donated millions to charity.",
+      "They live in an affluent neighborhood with luxurious homes.",
+      "She comes from an affluent family and enjoys a comfortable lifestyle."
+    ],
+    "relatedWords": ["wealthy", "prosperous", "rich"],
+    "usageNotes": "Used to describe individuals, families, or communities that have significant wealth.",
+    "frequency": 3.6,
+    "etymology": "From Latin 'affluere', meaning 'to flow towards'.",
+    "origin": {
+      "language": "Latin",
+      "root": "affluere",
+      "meaning": "to flow towards"
+    },
+    "derivedForms": [
+      {
+        "form": "affluence",
+        "partOfSpeech": "noun",
+        "definition": "The state of having a great deal of wealth or resources."
+      }
+    ],
+    "categories": ["wealth", "richness", "economy"],
+    "popularityIndex": 4.0,
+    "tags": ["wealthy", "rich", "prosperous"]
+  },
+  {
+    "word": "altruistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌæltruˈɪstɪk/",
+    "audio": "https://example.com/audio/altruistic.mp3",
+    "definitions": [
+      "Showing a selfless concern for the well-being of others.",
+      "Unselfishly concerned for or devoted to the welfare of others.",
+      "Displaying a genuine desire to help others without expecting anything in return."
+    ],
+    "urduMeaning": "خود غرضی سے آزاد، دوسروں کی فلاح و بہبود کی خواہش رکھنے والا",
+    "synonyms": ["selfless", "compassionate", "benevolent", "generous"],
+    "antonyms": ["selfish", "egoistic", "greedy"],
+    "examples": [
+      "Her altruistic nature led her to volunteer at the shelter.",
+      "He made an altruistic decision to donate all of his savings to the charity.",
+      "The organization is known for its altruistic efforts to help the needy."
+    ],
+    "relatedWords": ["selfless", "compassionate", "generous"],
+    "usageNotes": "Often used to describe people or actions motivated by the desire to help others.",
+    "frequency": 3.5,
+    "etymology": "From Latin 'alter', meaning 'other', and 'ic', forming an adjective meaning 'concerned for others'.",
+    "origin": {
+      "language": "Latin",
+      "root": "alter",
+      "meaning": "other"
+    },
+    "derivedForms": [
+      {
+        "form": "altruism",
+        "partOfSpeech": "noun",
+        "definition": "The practice of selfless concern for the well-being of others."
+      }
+    ],
+    "categories": ["compassion", "helping", "generosity"],
+    "popularityIndex": 4.2,
+    "tags": ["selfless", "benevolent", "compassionate"]
+  },
+  {
+    "word": "ardent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɑːrdənt/",
+    "audio": "https://example.com/audio/ardent.mp3",
+    "definitions": [
+      "Having or showing strong feelings of enthusiasm or passion.",
+      "Characterized by intense feelings or devotion.",
+      "Eager or enthusiastic in support or belief."
+    ],
+    "urduMeaning": "جذبے سے بھرا، پرجوش",
+    "synonyms": ["passionate", "fervent", "zealous", "enthusiastic"],
+    "antonyms": ["apathetic", "indifferent", "cold"],
+    "examples": [
+      "She is an ardent supporter of the charity and volunteers regularly.",
+      "His ardent love for music is evident in his performances.",
+      "The team gave an ardent effort in the final match of the season."
+    ],
+    "relatedWords": ["passionate", "zealous", "enthusiastic"],
+    "usageNotes": "Used to describe someone who shows intense emotion, enthusiasm, or dedication towards something.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'ardere', meaning 'to burn'.",
+    "origin": {
+      "language": "Latin",
+      "root": "ardere",
+      "meaning": "to burn"
+    },
+    "derivedForms": [
+      {
+        "form": "ardor",
+        "partOfSpeech": "noun",
+        "definition": "Intense passion or enthusiasm."
+      }
+    ],
+    "categories": ["emotion", "enthusiasm", "passion"],
+    "popularityIndex": 4.1,
+    "tags": ["passionate", "enthusiastic", "devoted"]
+  },
+  {
+    "word": "averse",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈvɜːrs/",
+    "audio": "https://example.com/audio/averse.mp3",
+    "definitions": [
+      "Having a strong dislike or opposition to something.",
+      "Reluctant or opposed to something.",
+      "Not willing to engage in or with something."
+    ],
+    "urduMeaning": "ناپسند، مخالف",
+    "synonyms": ["opposed", "hostile", "unwilling", "averse"],
+    "antonyms": ["favorable", "willing", "approving"],
+    "examples": [
+      "She was averse to the idea of moving to a new city.",
+      "He is averse to taking risks in business.",
+      "They were averse to working with people they didn't trust."
+    ],
+    "relatedWords": ["opposed", "unwilling", "reluctant"],
+    "usageNotes": "Used to describe someone who has a strong dislike or is opposed to something.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'aversus', meaning 'turned away from'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aversus",
+      "meaning": "turned away from"
+    },
+    "derivedForms": [
+      {
+        "form": "aversion",
+        "partOfSpeech": "noun",
+        "definition": "A strong feeling of dislike or opposition."
+      }
+    ],
+    "categories": ["dislike", "opposition", "emotion"],
+    "popularityIndex": 3.8,
+    "tags": ["opposed", "unwilling", "hostile"]
+  },
+  {
+    "word": "audible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɔːdɪbəl/",
+    "audio": "https://example.com/audio/audible.mp3",
+    "definitions": [
+      "Able to be heard.",
+      "Loud enough to be heard or perceived.",
+      "Capable of being heard by the ear."
+    ],
+    "urduMeaning": "سننے کے قابل، سنی جانے والی",
+    "synonyms": ["hearable", "perceptible", "discernible", "loud"],
+    "antonyms": ["inaudible", "silent", "mute"],
+    "examples": [
+      "The sound of the bell was barely audible from the back of the room.",
+      "Her voice was so soft it was barely audible over the noise.",
+      "There was an audible gasp from the audience when the surprise was revealed."
+    ],
+    "relatedWords": ["hearable", "perceptible", "discernible"],
+    "usageNotes": "Often used to describe sounds that are loud enough to be heard clearly.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'audibilis', meaning 'able to be heard'.",
+    "origin": {
+      "language": "Latin",
+      "root": "audibilis",
+      "meaning": "able to be heard"
+    },
+    "derivedForms": [
+      {
+        "form": "audibility",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being able to be heard."
+      }
+    ],
+    "categories": ["sound", "hearing", "audibility"],
+    "popularityIndex": 4.0,
+    "tags": ["hearable", "perceptible", "loud"]
+  },
+  {
+    "word": "abrasive",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbreɪsɪv/",
+    "audio": "https://example.com/audio/abrasive.mp3",
+    "definitions": [
+      "Rough or harsh in manner or behavior.",
+      "Having a coarse surface capable of polishing or cleaning by rubbing.",
+      "Characterized by a lack of concern for others' feelings."
+    ],
+    "urduMeaning": "کھردرا، سخت",
+    "synonyms": ["rough", "harsh", "scratching", "coarse"],
+    "antonyms": ["smooth", "gentle", "polished"],
+    "examples": [
+      "His abrasive comments offended everyone in the meeting.",
+      "The abrasive surface of the stone was perfect for cleaning.",
+      "She has an abrasive personality that makes it hard to work with her."
+    ],
+    "relatedWords": ["rough", "coarse", "harsh"],
+    "usageNotes": "Typically used to describe a harsh manner or a rough surface.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'abrasus', meaning 'to scrape off'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abrazus",
+      "meaning": "to scrape off"
+    },
+    "derivedForms": [
+      {
+        "form": "abrasion",
+        "partOfSpeech": "noun",
+        "definition": "A scrape or rub that damages the skin or surface."
+      }
+    ],
+    "categories": ["personality", "behavior", "surface"],
+    "popularityIndex": 3.5,
+    "tags": ["rough", "harsh", "coarse"]
+  },
+  {
+    "word": "animosity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌænɪˈmɒsɪti/",
+    "audio": "https://example.com/audio/animosity.mp3",
+    "definitions": [
+      "Strong hostility or resentment towards someone or something.",
+      "Active dislike or ill will.",
+      "A feeling of anger or hatred towards someone."
+    ],
+    "urduMeaning": "دشمنی، نفرت",
+    "synonyms": ["hostility", "antagonism", "hatred", "resentment"],
+    "antonyms": ["friendship", "affection", "amity"],
+    "examples": [
+      "There was a deep animosity between the two families.",
+      "His animosity towards his colleague was evident in every interaction.",
+      "The long-standing animosity between the nations led to war."
+    ],
+    "relatedWords": ["hostility", "hatred", "resentment"],
+    "usageNotes": "Often used to describe a deep-seated feeling of hostility or hatred.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'animositas', meaning 'spirit, courage, anger'.",
+    "origin": {
+      "language": "Latin",
+      "root": "animosus",
+      "meaning": "spirit, anger"
+    },
+    "derivedForms": [
+      {
+        "form": "animus",
+        "partOfSpeech": "noun",
+        "definition": "Hostile feeling or spirit."
+      }
+    ],
+    "categories": ["emotion", "hostility", "conflict"],
+    "popularityIndex": 4.0,
+    "tags": ["hatred", "resentment", "hostility"]
+  },
+  {
+    "word": "antiquated",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈæntɪkweɪtɪd/",
+    "audio": "https://example.com/audio/antiquated.mp3",
+    "definitions": [
+      "Old-fashioned, outdated, or no longer in use.",
+      "Belonging to an earlier period and now considered obsolete.",
+      "Having characteristics of a past time period."
+    ],
+    "urduMeaning": "قدیم، فرسودہ",
+    "synonyms": ["obsolete", "outdated", "archaic", "old-fashioned"],
+    "antonyms": ["modern", "contemporary", "current"],
+    "examples": [
+      "The antiquated machinery was replaced with more efficient equipment.",
+      "His ideas seemed antiquated and out of touch with the current trends.",
+      "She was wearing an antiquated dress style from the 1960s."
+    ],
+    "relatedWords": ["outdated", "obsolete", "archaic"],
+    "usageNotes": "Used to describe something that is no longer in use or is out of date.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'antiquatus', meaning 'made old'.",
+    "origin": {
+      "language": "Latin",
+      "root": "antiquus",
+      "meaning": "old, ancient"
+    },
+    "derivedForms": [
+      {
+        "form": "antiquity",
+        "partOfSpeech": "noun",
+        "definition": "The ancient past, especially the period before the Middle Ages."
+      }
+    ],
+    "categories": ["time", "history", "obsolescence"],
+    "popularityIndex": 3.6,
+    "tags": ["outdated", "obsolete", "old-fashioned"]
+  },
+  {
+    "word": "arbitrary",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɑːrbɪtrɛri/",
+    "audio": "https://example.com/audio/arbitrary.mp3",
+    "definitions": [
+      "Based on random choice or personal whim, rather than reason or system.",
+      "Done without any particular plan, method, or pattern.",
+      "Not limited by rules or laws."
+    ],
+    "urduMeaning": "من مانا، بے ترتیب",
+    "synonyms": ["random", "haphazard", "unpredictable", "capricious"],
+    "antonyms": ["systematic", "ordered", "rational"],
+    "examples": [
+      "The decision to fire him was arbitrary and lacked any clear reasoning.",
+      "The rules seemed arbitrary and changed without notice.",
+      "An arbitrary selection process led to confusion among the candidates."
+    ],
+    "relatedWords": ["random", "unpredictable", "capricious"],
+    "usageNotes": "Typically used to describe actions or decisions that lack consistency or fairness.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'arbitrarius', meaning 'dependent on the judgment of a master'.",
+    "origin": {
+      "language": "Latin",
+      "root": "arbitrare",
+      "meaning": "to judge, decide"
+    },
+    "derivedForms": [
+      {
+        "form": "arbitrate",
+        "partOfSpeech": "verb",
+        "definition": "To make a decision or judgment about something."
+      }
+    ],
+    "categories": ["decision", "randomness", "irrationality"],
+    "popularityIndex": 3.9,
+    "tags": ["random", "unpredictable", "haphazard"]
+  },
+  {
+    "word": "assiduous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈsɪdjuəs/",
+    "audio": "https://example.com/audio/assiduous.mp3",
+    "definitions": [
+      "Showing great care, attention, and effort.",
+      "Marked by persistent, hardworking effort.",
+      "Constant and diligent in performing tasks."
+    ],
+    "urduMeaning": "محنتی، جفاکش",
+    "synonyms": ["diligent", "hardworking", "persistent", "indefatigable"],
+    "antonyms": ["lazy", "negligent", "careless"],
+    "examples": [
+      "He was assiduous in his efforts to finish the project on time.",
+      "Her assiduous study habits helped her achieve top grades.",
+      "The assiduous worker was always the first to arrive and the last to leave."
+    ],
+    "relatedWords": ["diligent", "persistent", "hardworking"],
+    "usageNotes": "Used to describe someone who works diligently and with great attention to detail.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'assiduus', meaning 'constant, persistent'.",
+    "origin": {
+      "language": "Latin",
+      "root": "assiduus",
+      "meaning": "constant, persistent"
+    },
+    "derivedForms": [
+      {
+        "form": "assiduity",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being constant and diligent in work."
+      }
+    ],
+    "categories": ["effort", "work", "perseverance"],
+    "popularityIndex": 4.1,
+    "tags": ["diligent", "persistent", "hardworking"]
+  },
+  {
+    "word": "acquiesce",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˌakwēˈes/",
+    "audio": "https://example.com/audio/acquiesce.mp3",
+    "definitions": [
+      "To accept or agree to something reluctantly but without protest.",
+      "To consent or comply without argument.",
+      "To yield or submit passively."
+    ],
+    "urduMeaning": "رضا مندی سے تسلیم کرنا",
+    "synonyms": ["agree", "consent", "submit", "yield"],
+    "antonyms": ["resist", "oppose", "refuse"],
+    "examples": [
+      "She acquiesced to his request after some persuasion.",
+      "He acquiesced to the decision, though he had reservations.",
+      "The team acquiesced to the new rules set by the coach."
+    ],
+    "relatedWords": ["agree", "yield", "comply"],
+    "usageNotes": "Typically used when someone accepts something, not out of desire, but because they feel they must.",
+    "frequency": 2.8,
+    "etymology": "From Latin 'acquiescere', meaning 'to remain at rest'.",
+    "origin": {
+      "language": "Latin",
+      "root": "acquiescere",
+      "meaning": "to rest, to be quiet"
+    },
+    "derivedForms": [
+      {
+        "form": "acquiescence",
+        "partOfSpeech": "noun",
+        "definition": "The act of agreeing or consenting without protest."
+      }
+    ],
+    "categories": ["agreement", "passivity", "consent"],
+    "popularityIndex": 3.1,
+    "tags": ["agree", "consent", "submit"]
+  },
+  {
+    "word": "aberration",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌabəˈreɪʃən/",
+    "audio": "https://example.com/audio/aberration.mp3",
+    "definitions": [
+      "A deviation from the normal or expected course.",
+      "A departure from what is typical or usual.",
+      "A temporary change from the regular pattern."
+    ],
+    "urduMeaning": "انحراف، غلطی",
+    "synonyms": ["anomaly", "irregularity", "deviation", "abnormality"],
+    "antonyms": ["normality", "regularity", "standard"],
+    "examples": [
+      "The sudden drop in temperature was an aberration from the usual weather pattern.",
+      "His outburst was seen as an aberration of his normally calm demeanor.",
+      "The data showed an aberration that required further investigation."
+    ],
+    "relatedWords": ["deviation", "anomaly", "irregularity"],
+    "usageNotes": "Used to describe something unusual or unexpected in a particular situation.",
+    "frequency": 3.0,
+    "etymology": "From Latin 'aberratio', meaning 'a wandering, deviation'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aberratio",
+      "meaning": "a deviation"
+    },
+    "derivedForms": [
+      {
+        "form": "aberrant",
+        "partOfSpeech": "adjective",
+        "definition": "Deviating from the normal course or standard."
+      }
+    ],
+    "categories": ["irregularity", "behavior", "nature"],
+    "popularityIndex": 3.4,
+    "tags": ["deviation", "anomaly", "irregularity"]
+  },
+  {
+    "word": "acrimonious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌakrəˈmōnēəs/",
+    "audio": "https://example.com/audio/acrimonious.mp3",
+    "definitions": [
+      "Full of anger, bitterness, or resentment.",
+      "Marked by sharpness or harshness in speech or behavior.",
+      "Characterized by strong hostility or disagreement."
+    ],
+    "urduMeaning": "تلخ، کڑوا",
+    "synonyms": ["bitter", "hostile", "angry", "sharp"],
+    "antonyms": ["amicable", "friendly", "cordial"],
+    "examples": [
+      "The meeting ended in an acrimonious dispute over the budget.",
+      "Their divorce was acrimonious and full of hostility.",
+      "An acrimonious argument broke out during the family reunion."
+    ],
+    "relatedWords": ["bitter", "hostile", "angry"],
+    "usageNotes": "Used to describe something filled with anger or bitterness, often in relation to conflicts or disputes.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'acrimonia', meaning 'sharpness or bitterness'.",
+    "origin": {
+      "language": "Latin",
+      "root": "acrimonia",
+      "meaning": "bitterness"
+    },
+    "derivedForms": [
+      {
+        "form": "acrimony",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being acrimonious, especially in speech or attitude."
+      }
+    ],
+    "categories": ["emotion", "conflict", "hostility"],
+    "popularityIndex": 3.6,
+    "tags": ["bitter", "sharp", "hostile"]
+  },
+  {
+    "word": "altruistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌaltruˈɪstɪk/",
+    "audio": "https://example.com/audio/altruistic.mp3",
+    "definitions": [
+      "Showing selfless concern for the well-being of others.",
+      "Unselfishly devoted to helping others.",
+      "Behaving in a way that benefits others at one's own expense."
+    ],
+    "urduMeaning": "فلاحی، دوسروں کے لیے بے لوث",
+    "synonyms": ["selfless", "compassionate", "generous", "benevolent"],
+    "antonyms": ["selfish", "egotistical", "greedy"],
+    "examples": [
+      "Her altruistic nature led her to volunteer at the shelter every weekend.",
+      "The billionaire made an altruistic donation to build a school.",
+      "He showed his altruistic side by helping the homeless without expecting anything in return."
+    ],
+    "relatedWords": ["selfless", "generous", "benevolent"],
+    "usageNotes": "Used to describe someone who acts in the best interest of others, often at their own expense.",
+    "frequency": 3.5,
+    "etymology": "From Latin 'alteri huic', meaning 'for the other'.",
+    "origin": {
+      "language": "Latin",
+      "root": "alter",
+      "meaning": "other"
+    },
+    "derivedForms": [
+      {
+        "form": "altruism",
+        "partOfSpeech": "noun",
+        "definition": "The principle or practice of concern for the welfare of others."
+      }
+    ],
+    "categories": ["compassion", "generosity", "kindness"],
+    "popularityIndex": 4.0,
+    "tags": ["selfless", "generous", "compassionate"]
+  },
+  {
+    "word": "arrogant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈarəɡənt/",
+    "audio": "https://example.com/audio/arrogant.mp3",
+    "definitions": [
+      "Having an exaggerated sense of one's own importance.",
+      "Showing a lack of respect for others due to a sense of superiority.",
+      "Displaying overbearing pride or self-importance."
+    ],
+    "urduMeaning": "متکبر، گھمنڈی",
+    "synonyms": ["conceited", "proud", "overbearing", "haughty"],
+    "antonyms": ["humble", "modest", "respectful"],
+    "examples": [
+      "His arrogant behavior made him unpopular among his colleagues.",
+      "She was so arrogant that she refused to listen to anyone's opinion.",
+      "The arrogant CEO ignored the concerns of his employees."
+    ],
+    "relatedWords": ["conceited", "proud", "overbearing"],
+    "usageNotes": "Often used to describe a person who acts as if they are better than others.",
+    "frequency": 3.9,
+    "etymology": "From Latin 'arrogare', meaning 'to claim for oneself'.",
+    "origin": {
+      "language": "Latin",
+      "root": "arrogare",
+      "meaning": "to claim, to demand"
+    },
+    "derivedForms": [
+      {
+        "form": "arrogance",
+        "partOfSpeech": "noun",
+        "definition": "An attitude of superiority manifested by an overbearing manner."
+      }
+    ],
+    "categories": ["attitude", "behavior", "pride"],
+    "popularityIndex": 4.2,
+    "tags": ["conceited", "proud", "superior"]
+  },
+  {
+    "word": "auspicious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɔːˈspɪʃəs/",
+    "audio": "https://example.com/audio/auspicious.mp3",
+    "definitions": [
+      "Conducive to success; favorable.",
+      "Indicating a positive or successful future.",
+      "Marked by signs of future success."
+    ],
+    "urduMeaning": "خوش کن، کامیاب ہونے کا اشارہ دینے والا",
+    "synonyms": ["favorable", "fortunate", "lucky", "promising"],
+    "antonyms": ["unfavorable", "ominous", "ill-omened"],
+    "examples": [
+      "The sunny weather was an auspicious start to their wedding day.",
+      "His auspicious career began with an incredible first job.",
+      "The new business received an auspicious reception from the community."
+    ],
+    "relatedWords": ["fortunate", "lucky", "promising"],
+    "usageNotes": "Used to describe an event or situation that seems likely to lead to success.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'auspicius', meaning 'from taking the auspices, favorable'.",
+    "origin": {
+      "language": "Latin",
+      "root": "auspicius",
+      "meaning": "favorable"
+    },
+    "derivedForms": [
+      {
+        "form": "auspice",
+        "partOfSpeech": "noun",
+        "definition": "A sign or omen, typically one that predicts good fortune."
+      }
+    ],
+    "categories": ["success", "luck", "future"],
+    "popularityIndex": 4.1,
+    "tags": ["lucky", "fortunate", "favorable"]
+  },
+  {
+    "word": "abundant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/əˈbʌndənt/",
+    "audio": "https://example.com/audio/abundant.mp3",
+    "definitions": [
+      "Existing or available in large quantities; plentiful.",
+      "Characterized by abundance or a great deal.",
+      "More than enough; overflowing."
+    ],
+    "urduMeaning": "کثیر، وافر",
+    "synonyms": ["plentiful", "ample", "bountiful", "profuse"],
+    "antonyms": ["scarce", "insufficient", "limited"],
+    "examples": [
+      "The region is abundant in natural resources.",
+      "They had an abundant supply of food for the celebration.",
+      "The farm was abundant with crops this season."
+    ],
+    "relatedWords": ["plentiful", "bountiful", "overflowing"],
+    "usageNotes": "Used to describe something that is available in large or plentiful quantities.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'abundantia', meaning 'fullness, overflowing'.",
+    "origin": {
+      "language": "Latin",
+      "root": "abundare",
+      "meaning": "to overflow"
+    },
+    "derivedForms": [
+      {
+        "form": "abundance",
+        "partOfSpeech": "noun",
+        "definition": "A large quantity of something."
+      }
+    ],
+    "categories": ["quantity", "resources", "supply"],
+    "popularityIndex": 4.0,
+    "tags": ["plentiful", "ample", "bountiful"]
+  },
+  {
+    "word": "affluent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈæfluənt/",
+    "audio": "https://example.com/audio/affluent.mp3",
+    "definitions": [
+      "Having a great deal of money, wealth, or resources.",
+      "Wealthy, prosperous, and comfortable.",
+      "Abundant in resources or riches."
+    ],
+    "urduMeaning": "امیر، مالدار",
+    "synonyms": ["wealthy", "prosperous", "rich", "opulent"],
+    "antonyms": ["poor", "impoverished", "needy"],
+    "examples": [
+      "The affluent neighborhood was known for its mansions and luxury cars.",
+      "She came from an affluent family with a long history of wealth.",
+      "The city is home to a growing affluent class of tech entrepreneurs."
+    ],
+    "relatedWords": ["wealthy", "prosperous", "rich"],
+    "usageNotes": "Often used to describe individuals or communities that have considerable wealth or resources.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'affluens', meaning 'flowing toward, abundant'.",
+    "origin": {
+      "language": "Latin",
+      "root": "affluere",
+      "meaning": "to flow toward"
+    },
+    "derivedForms": [
+      {
+        "form": "affluence",
+        "partOfSpeech": "noun",
+        "definition": "The state of having a great deal of money, wealth, or resources."
+      }
+    ],
+    "categories": ["wealth", "prosperity", "luxury"],
+    "popularityIndex": 3.8,
+    "tags": ["wealthy", "prosperous", "rich"]
+  },
+  {
+    "word": "antagonistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ænˌtæɡəˈnɪstɪk/",
+    "audio": "https://example.com/audio/antagonistic.mp3",
+    "definitions": [
+      "Showing or feeling active opposition or hostility.",
+      "Characterized by antagonism or resistance.",
+      "Hostile, opposed, or combative."
+    ],
+    "urduMeaning": "دشمن، مخالف",
+    "synonyms": ["hostile", "opposed", "adverse", "confrontational"],
+    "antonyms": ["friendly", "cooperative", "harmonious"],
+    "examples": [
+      "The antagonist in the novel was a highly antagonistic figure.",
+      "Their antagonistic attitudes made the negotiation difficult.",
+      "She had an antagonistic reaction to the proposal, rejecting it immediately."
+    ],
+    "relatedWords": ["hostile", "opposed", "adverse"],
+    "usageNotes": "Used to describe a person or attitude that is openly hostile or combative.",
+    "frequency": 3.6,
+    "etymology": "From Greek 'antagonistes', meaning 'rival, opponent'.",
+    "origin": {
+      "language": "Greek",
+      "root": "antagonistes",
+      "meaning": "rival"
+    },
+    "derivedForms": [
+      {
+        "form": "antagonism",
+        "partOfSpeech": "noun",
+        "definition": "Active opposition or hostility."
+      }
+    ],
+    "categories": ["conflict", "hostility", "competition"],
+    "popularityIndex": 3.9,
+    "tags": ["hostile", "opposed", "adverse"]
+  },
+  {
+    "word": "august",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɔːˈɡʌst/",
+    "audio": "https://example.com/audio/august.mp3",
+    "definitions": [
+      "Having a formal and impressive quality; dignified.",
+      "Marked by grandeur or solemnity.",
+      "Respected and admired for their position or achievements."
+    ],
+    "urduMeaning": "عظیم، باوقار",
+    "synonyms": ["dignified", "impressive", "majestic", "noble"],
+    "antonyms": ["humble", "insignificant", "unimpressive"],
+    "examples": [
+      "The august procession moved through the streets, followed by a crowd of spectators.",
+      "The president delivered an august speech at the ceremony.",
+      "She entered the room with an august presence that commanded respect."
+    ],
+    "relatedWords": ["impressive", "dignified", "majestic"],
+    "usageNotes": "Used to describe a person or thing that is respected and has an air of dignity or grandeur.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'augustus', meaning 'venerable, dignified'.",
+    "origin": {
+      "language": "Latin",
+      "root": "augustus",
+      "meaning": "venerable"
+    },
+    "derivedForms": [
+      {
+        "form": "augustness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being august, dignified, or impressive."
+      }
+    ],
+    "categories": ["respect", "dignity", "honor"],
+    "popularityIndex": 4.2,
+    "tags": ["dignified", "majestic", "impressive"]
+  },
+  {
+    "word": "benevolent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "audio": "https://example.com/audio/benevolent.mp3",
+    "definitions": [
+      "Showing kindness and goodwill.",
+      "Characterized by a desire to help others and do good."
+    ],
+    "urduMeaning": "مہربان، خیرات دینے والا",
+    "synonyms": ["kind", "generous", "compassionate", "altruistic"],
+    "antonyms": ["selfish", "cruel", "unkind"],
+    "examples": [
+      "The benevolent leader provided for the needs of the community.",
+      "Her benevolent nature made her beloved by all who knew her.",
+      "They started a benevolent foundation to help the poor."
+    ],
+    "relatedWords": ["compassionate", "generous", "kind-hearted"],
+    "usageNotes": "Used to describe someone who is charitable and concerned about the well-being of others.",
+    "frequency": 4.1,
+    "etymology": "From Latin 'benevolentia', meaning 'goodwill'.",
+    "origin": {
+      "language": "Latin",
+      "root": "benevolentia",
+      "meaning": "goodwill"
+    },
+    "derivedForms": [
+      {
+        "form": "benevolence",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being benevolent."
+      }
+    ],
+    "categories": ["kindness", "charity", "generosity"],
+    "popularityIndex": 4.4,
+    "tags": ["kind", "generous", "altruistic"]
+  },
+  {
+    "word": "bizarre",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bɪˈzɑːr/",
+    "audio": "https://example.com/audio/bizarre.mp3",
+    "definitions": [
+      "Very strange or unusual, often in an unsettling way.",
+      "Markedly odd or eccentric in appearance, style, or behavior."
+    ],
+    "urduMeaning": "عجیب، نرالا",
+    "synonyms": ["strange", "odd", "unusual", "peculiar"],
+    "antonyms": ["normal", "usual", "ordinary"],
+    "examples": [
+      "The bizarre dress she wore at the party caught everyone's attention.",
+      "His bizarre behavior made people wonder if he was okay.",
+      "The movie had a bizarre plot that left many people confused."
+    ],
+    "relatedWords": ["eccentric", "peculiar", "odd"],
+    "usageNotes": "Often used to describe things or events that are unexpected and out of the ordinary.",
+    "frequency": 3.8,
+    "etymology": "From French 'bizarre', meaning 'odd, strange'.",
+    "origin": {
+      "language": "French",
+      "root": "bizarre",
+      "meaning": "odd, strange"
+    },
+    "derivedForms": [
+      {
+        "form": "bizarro",
+        "partOfSpeech": "noun",
+        "definition": "A character or situation that is strange or unconventional."
+      }
+    ],
+    "categories": ["strangeness", "eccentricity", "oddities"],
+    "popularityIndex": 3.9,
+    "tags": ["strange", "odd", "peculiar"]
+  },
+  {
+    "word": "belligerent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bəˈlɪdʒərənt/",
+    "audio": "https://example.com/audio/belligerent.mp3",
+    "definitions": [
+      "Hostile and aggressive.",
+      "Engaged in a conflict or war.",
+      "Displaying a readiness to fight or argue."
+    ],
+    "urduMeaning": "جنگجو، جارح",
+    "synonyms": ["aggressive", "hostile", "combative", "contentious"],
+    "antonyms": ["peaceful", "calm", "friendly"],
+    "examples": [
+      "His belligerent attitude towards others made him unpopular.",
+      "The belligerent nations were in a constant state of conflict.",
+      "She gave a belligerent response to the accusation."
+    ],
+    "relatedWords": ["aggressive", "hostile", "combative"],
+    "usageNotes": "Used to describe a person or behavior that is combative, angry, or eager to fight.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'belligerare', meaning 'to wage war'.",
+    "origin": {
+      "language": "Latin",
+      "root": "belligerare",
+      "meaning": "to wage war"
+    },
+    "derivedForms": [
+      {
+        "form": "belligerence",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being hostile or aggressive."
+      }
+    ],
+    "categories": ["aggression", "conflict", "warfare"],
+    "popularityIndex": 3.5,
+    "tags": ["hostile", "aggressive", "combative"]
+  },
+  {
+    "word": "blissful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈblɪsfl/",
+    "audio": "https://example.com/audio/blissful.mp3",
+    "definitions": [
+      "Filled with happiness or joy.",
+      "Experiencing or displaying great happiness or contentment."
+    ],
+    "urduMeaning": "خوشی سے بھرا ہوا",
+    "synonyms": ["happy", "content", "joyful", "elated"],
+    "antonyms": ["unhappy", "miserable", "sorrowful"],
+    "examples": [
+      "They enjoyed a blissful vacation on a tropical island.",
+      "The couple had a blissful marriage and loved each other deeply.",
+      "Her blissful smile showed how happy she was."
+    ],
+    "relatedWords": ["joyful", "content", "ecstatic"],
+    "usageNotes": "Often used to describe a state of peaceful happiness and contentment.",
+    "frequency": 3.7,
+    "etymology": "From Old English 'bliss', meaning 'joy'.",
+    "origin": {
+      "language": "Old English",
+      "root": "bliss",
+      "meaning": "joy"
+    },
+    "derivedForms": [
+      {
+        "form": "bliss",
+        "partOfSpeech": "noun",
+        "definition": "A state of perfect happiness or joy."
+      }
+    ],
+    "categories": ["happiness", "contentment", "peace"],
+    "popularityIndex": 4.0,
+    "tags": ["happy", "content", "joyful"]
+  },
+  {
+    "word": "bucolic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bjuːˈkɒlɪk/",
+    "audio": "https://example.com/audio/bucolic.mp3",
+    "definitions": [
+      "Relating to the pleasant aspects of the countryside and country life.",
+      "Rural or rustic in nature, often idealized."
+    ],
+    "urduMeaning": "دیہی، گاؤں کے زندگی سے متعلق",
+    "synonyms": ["rural", "pastoral", "country", "rustic"],
+    "antonyms": ["urban", "city", "metropolitan"],
+    "examples": [
+      "They moved to a bucolic farmhouse in the countryside.",
+      "The poem depicted a bucolic scene of rolling hills and calm lakes.",
+      "The bucolic lifestyle is often seen as simpler and more peaceful."
+    ],
+    "relatedWords": ["pastoral", "rural", "country"],
+    "usageNotes": "Often used to describe idealized rural life, free from the stresses of city living.",
+    "frequency": 3.0,
+    "etymology": "From Greek 'boukólos', meaning 'herdsman'.",
+    "origin": {
+      "language": "Greek",
+      "root": "boukólos",
+      "meaning": "herdsman"
+    },
+    "derivedForms": [
+      {
+        "form": "bucolicity",
+        "partOfSpeech": "noun",
+        "definition": "The quality or state of being bucolic."
+      }
+    ],
+    "categories": ["countryside", "nature", "rural life"],
+    "popularityIndex": 3.2,
+    "tags": ["rural", "rustic", "pastoral"]
+  },
+  {
+    "word": "brusque",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/brʌsk/",
+    "audio": "https://example.com/audio/brusque.mp3",
+    "definitions": [
+      "Abrupt or curt in manner, often perceived as rude or unfriendly.",
+      "Blunt in speech or behavior, especially in a way that can seem impolite."
+    ],
+    "urduMeaning": "جلدی، بے تکلف، بے ادب",
+    "synonyms": ["blunt", "curt", "abrupt", "short"],
+    "antonyms": ["polite", "friendly", "considerate"],
+    "examples": [
+      "His brusque reply left me unsure of how to respond.",
+      "She gave a brusque nod before walking away.",
+      "The waiter’s brusque service made us feel uncomfortable."
+    ],
+    "relatedWords": ["abrupt", "curt", "blunt"],
+    "usageNotes": "Describes a manner that is often perceived as rude or dismissive due to its bluntness.",
+    "frequency": 2.9,
+    "etymology": "From French 'brusque', meaning 'rough'.",
+    "origin": {
+      "language": "French",
+      "root": "brusque",
+      "meaning": "rough"
+    },
+    "derivedForms": [
+      {
+        "form": "brusqueness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being brusque."
+      }
+    ],
+    "categories": ["rudeness", "abruptness", "impoliteness"],
+    "popularityIndex": 3.0,
+    "tags": ["blunt", "curt", "abrupt"]
+  },
+  {
+    "word": "bombastic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/bɒmˈbæstɪk/",
+    "audio": "https://example.com/audio/bombastic.mp3",
+    "definitions": [
+      "Using inflated or pretentious language, typically to impress others.",
+      "Characterized by speech or writing that is pompous or grandiose."
+    ],
+    "urduMeaning": "غصہ یا بڑائی سے بولنا",
+    "synonyms": ["pompous", "pretentious", "grandiloquent", "inflated"],
+    "antonyms": ["modest", "humble", "simple"],
+    "examples": [
+      "The politician’s bombastic speech failed to win over the crowd.",
+      "Her bombastic claims were hard to take seriously.",
+      "The author’s bombastic writing style didn’t resonate with the readers."
+    ],
+    "relatedWords": ["pompous", "pretentious", "grandiose"],
+    "usageNotes": "Often used in a negative context to describe speech or writing that is meant to sound impressive but lacks real substance.",
+    "frequency": 3.3,
+    "etymology": "From 'bombast', meaning inflated speech, from Latin 'bombus' meaning 'buzzing'.",
+    "origin": {
+      "language": "Latin",
+      "root": "bombus",
+      "meaning": "buzzing"
+    },
+    "derivedForms": [
+      {
+        "form": "bombastically",
+        "partOfSpeech": "adverb",
+        "definition": "In a pompous or inflated manner."
+      }
+    ],
+    "categories": ["speech", "writing", "inflation"],
+    "popularityIndex": 3.6,
+    "tags": ["pretentious", "pompous", "grandiose"]
+  },
+  {
+    "word": "blatant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈbleɪtənt/",
+    "audio": "https://example.com/audio/blatant.mp3",
+    "definitions": [
+      "Obvious, conspicuous, and often offensive.",
+      "Done in a way that is loud, showy, or unashamed."
+    ],
+    "urduMeaning": "کھلا، واضح",
+    "synonyms": ["obvious", "flagrant", "overt", "conspicuous"],
+    "antonyms": ["subtle", "discreet", "hidden"],
+    "examples": [
+      "His blatant disregard for the rules was shocking.",
+      "The blatant display of wealth made everyone uncomfortable.",
+      "Her blatant lie was quickly exposed."
+    ],
+    "relatedWords": ["obvious", "conspicuous", "flagrant"],
+    "usageNotes": "Describes actions or behaviors that are done in a very obvious or shameless way.",
+    "frequency": 4.0,
+    "etymology": "From Latin 'blatantem', meaning 'loud, clattering'.",
+    "origin": {
+      "language": "Latin",
+      "root": "blatantem",
+      "meaning": "loud, clattering"
+    },
+    "derivedForms": [
+      {
+        "form": "blatantly",
+        "partOfSpeech": "adverb",
+        "definition": "In an obvious or conspicuous manner."
+      }
+    ],
+    "categories": ["obviousness", "overt actions", "shamelessness"],
+    "popularityIndex": 4.2,
+    "tags": ["obvious", "overt", "flagrant"]
+  },
+  {
+    "word": "candid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈkændɪd/",
+    "audio": "https://example.com/audio/candid.mp3",
+    "definitions": [
+      "Honest and straightforward, without any attempt to hide feelings or opinions.",
+      "Taken without the subject's knowledge or posing."
+    ],
+    "urduMeaning": "کھرا، سچا",
+    "synonyms": ["honest", "forthright", "open", "blunt"],
+    "antonyms": ["deceptive", "evasive", "guarded"],
+    "examples": [
+      "She gave a candid answer to the interviewer’s question.",
+      "His candid remarks shocked the audience.",
+      "The candid photos captured the true essence of the moment."
+    ],
+    "relatedWords": ["honest", "open", "truthful"],
+    "usageNotes": "Often used to describe people who are blunt but genuine.",
+    "frequency": 4.2,
+    "etymology": "From Latin 'candidus', meaning 'bright, clear'.",
+    "origin": {
+      "language": "Latin",
+      "root": "candidus",
+      "meaning": "bright, clear"
+    },
+    "derivedForms": [
+      {
+        "form": "candor",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being open and honest."
+      }
+    ],
+    "categories": ["honesty", "transparency"],
+    "popularityIndex": 4.0,
+    "tags": ["honest", "open", "truthful"]
+  },
+  {
+    "word": "cogent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈkəʊdʒənt/",
+    "audio": "https://example.com/audio/cogent.mp3",
+    "definitions": [
+      "Clear, logical, and convincing.",
+      "Appealing to reason or judgment."
+    ],
+    "urduMeaning": "قائل کرنے والا",
+    "synonyms": ["compelling", "convincing", "persuasive", "strong"],
+    "antonyms": ["weak", "unconvincing", "unpersuasive"],
+    "examples": [
+      "The lawyer presented a cogent argument that won the case.",
+      "Her cogent analysis of the issue was well-received.",
+      "The article provided a cogent explanation of the complex topic."
+    ],
+    "relatedWords": ["persuasive", "compelling", "logical"],
+    "usageNotes": "Used to describe arguments or reasoning that is clear and strong.",
+    "frequency": 3.5,
+    "etymology": "From Latin 'cogens', meaning 'compelling'.",
+    "origin": {
+      "language": "Latin",
+      "root": "cogens",
+      "meaning": "compelling"
+    },
+    "derivedForms": [
+      {
+        "form": "cogency",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being convincing or persuasive."
+      }
+    ],
+    "categories": ["logic", "persuasion"],
+    "popularityIndex": 3.8,
+    "tags": ["logical", "persuasive", "convincing"]
+  },
+  {
+    "word": "compassionate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kəmˈpæʃənət/",
+    "audio": "https://example.com/audio/compassionate.mp3",
+    "definitions": [
+      "Feeling or showing sympathy and concern for others.",
+      "Characterized by a desire to help others in need."
+    ],
+    "urduMeaning": "رحم دل",
+    "synonyms": ["empathetic", "caring", "kind", "considerate"],
+    "antonyms": ["indifferent", "apathetic", "cold"],
+    "examples": [
+      "She was compassionate toward the homeless and volunteered often.",
+      "His compassionate nature made him a favorite among his friends.",
+      "The compassionate doctor took extra time to listen to his patient's concerns."
+    ],
+    "relatedWords": ["empathetic", "caring", "kind"],
+    "usageNotes": "Describes people who are sensitive to the suffering of others and want to help.",
+    "frequency": 4.0,
+    "etymology": "From Latin 'compassio', meaning 'to suffer with'.",
+    "origin": {
+      "language": "Latin",
+      "root": "compassio",
+      "meaning": "to suffer with"
+    },
+    "derivedForms": [
+      {
+        "form": "compassion",
+        "partOfSpeech": "noun",
+        "definition": "Sympathy and concern for the suffering of others."
+      }
+    ],
+    "categories": ["empathy", "kindness"],
+    "popularityIndex": 4.1,
+    "tags": ["empathetic", "caring", "kind"]
+  },
+  {
+    "word": "contrite",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/kənˈtraɪt/",
+    "audio": "https://example.com/audio/contrite.mp3",
+    "definitions": [
+      "Feeling or expressing remorse or penitence.",
+      "Repentant for wrongdoings."
+    ],
+    "urduMeaning": "پچھتاوا کرنے والا",
+    "synonyms": ["remorseful", "sorry", "repentant", "penitent"],
+    "antonyms": ["unrepentant", "shameless", "proud"],
+    "examples": [
+      "After his mistake, he gave a contrite apology.",
+      "She was contrite for her harsh words and immediately regretted them.",
+      "His contrite attitude showed that he truly understood the gravity of the situation."
+    ],
+    "relatedWords": ["remorseful", "repentant", "sorry"],
+    "usageNotes": "Often used to describe someone who is genuinely sorry for their actions and seeks to make amends.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'contritus', meaning 'worn down, ground to pieces'.",
+    "origin": {
+      "language": "Latin",
+      "root": "contritus",
+      "meaning": "worn down, ground to pieces"
+    },
+    "derivedForms": [
+      {
+        "form": "contrition",
+        "partOfSpeech": "noun",
+        "definition": "The state of feeling remorseful for one's actions."
+      }
+    ],
+    "categories": ["remorse", "repentance"],
+    "popularityIndex": 3.6,
+    "tags": ["remorseful", "repentant", "sorry"]
+  },
+  {
+    "word": "cursory",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈkɜːsəri/",
+    "audio": "https://example.com/audio/cursory.mp3",
+    "definitions": [
+      "Hasty and therefore not thorough or detailed.",
+      "Done quickly without paying much attention to detail."
+    ],
+    "urduMeaning": "جلدی سے کیا گیا",
+    "synonyms": ["superficial", "hasty", "brief", "sketchy"],
+    "antonyms": ["thorough", "detailed", "careful"],
+    "examples": [
+      "He gave a cursory glance at the report before submitting it.",
+      "Her cursory examination of the patient missed the underlying issue.",
+      "The teacher made a cursory review of the assignments, missing many errors."
+    ],
+    "relatedWords": ["superficial", "hasty", "quick"],
+    "usageNotes": "Describes something done quickly and without sufficient attention to detail, often resulting in a lack of thoroughness.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'cursor', meaning 'runner'.",
+    "origin": {
+      "language": "Latin",
+      "root": "cursor",
+      "meaning": "runner"
+    },
+    "derivedForms": [
+      {
+        "form": "cursorily",
+        "partOfSpeech": "adverb",
+        "definition": "In a hasty or superficial manner."
+      }
+    ],
+    "categories": ["speed", "superficiality"],
+    "popularityIndex": 3.5,
+    "tags": ["superficial", "hasty", "quick"]
+  },
+  {
+    "word": "dauntless",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdɔːntləs/",
+    "audio": "https://example.com/audio/dauntless.mp3",
+    "definitions": [
+      "Showing fearlessness and determination.",
+      "Not intimidated or discouraged."
+    ],
+    "urduMeaning": "بہادر، بے خوف",
+    "synonyms": ["fearless", "unflinching", "undaunted", "brave"],
+    "antonyms": ["fearful", "timid", "daunted"],
+    "examples": [
+      "The dauntless explorer ventured into the uncharted wilderness.",
+      "She showed a dauntless spirit in the face of adversity.",
+      "His dauntless attitude inspired the team to keep fighting."
+    ],
+    "relatedWords": ["brave", "courageous", "resolute"],
+    "usageNotes": "Used to describe someone who is not afraid to face challenges and dangers.",
+    "frequency": 3.4,
+    "etymology": "From Old French 'danter', meaning 'to intimidate'.",
+    "origin": {
+      "language": "Old French",
+      "root": "danter",
+      "meaning": "to intimidate"
+    },
+    "derivedForms": [
+      {
+        "form": "dauntlessly",
+        "partOfSpeech": "adverb",
+        "definition": "In a manner that shows fearlessness."
+      }
+    ],
+    "categories": ["courage", "bravery"],
+    "popularityIndex": 3.6,
+    "tags": ["brave", "fearless", "resolute"]
+  },
+  {
+    "word": "deft",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/dɛft/",
+    "audio": "https://example.com/audio/deft.mp3",
+    "definitions": [
+      "Quick and skillful in movement or action.",
+      "Demonstrating skill or proficiency."
+    ],
+    "urduMeaning": "ماہر، چالاک",
+    "synonyms": ["skillful", "adept", "nimble", "dexterous"],
+    "antonyms": ["clumsy", "awkward", "inept"],
+    "examples": [
+      "The deft movements of the artist created a beautiful sculpture.",
+      "She is a deft negotiator who can get the best deal.",
+      "His deft handling of the situation impressed everyone."
+    ],
+    "relatedWords": ["skillful", "nimble", "dexterous"],
+    "usageNotes": "Often used to describe someone who performs tasks with great skill and agility.",
+    "frequency": 3.2,
+    "etymology": "From Old English 'deaft', meaning 'quick, ready'.",
+    "origin": {
+      "language": "Old English",
+      "root": "deaft",
+      "meaning": "quick, ready"
+    },
+    "derivedForms": [
+      {
+        "form": "deftly",
+        "partOfSpeech": "adverb",
+        "definition": "In a skillful or agile manner."
+      }
+    ],
+    "categories": ["skill", "agility"],
+    "popularityIndex": 3.4,
+    "tags": ["skillful", "nimble", "dexterous"]
+  },
+  {
+    "word": "dormant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdɔːmənt/",
+    "audio": "https://example.com/audio/dormant.mp3",
+    "definitions": [
+      "In a state of rest or inactivity.",
+      "Not active but capable of becoming active later."
+    ],
+    "urduMeaning": "سست، بے حرکت",
+    "synonyms": ["inactive", "sleeping", "latent", "resting"],
+    "antonyms": ["active", "vibrant", "awake"],
+    "examples": [
+      "The volcano had been dormant for centuries before it erupted.",
+      "Her talents lay dormant until she found the right opportunity.",
+      "The seeds remained dormant in the soil until the spring rains arrived."
+    ],
+    "relatedWords": ["inactive", "sleeping", "latent"],
+    "usageNotes": "Often used to describe something that is not currently active but may become so in the future.",
+    "frequency": 3.1,
+    "etymology": "From Latin 'dormire', meaning 'to sleep'.",
+    "origin": {
+      "language": "Latin",
+      "root": "dormire",
+      "meaning": "to sleep"
+    },
+    "derivedForms": [
+      {
+        "form": "dormancy",
+        "partOfSpeech": "noun",
+        "definition": "The state of being dormant or inactive."
+      }
+    ],
+    "categories": ["inactivity", "sleep"],
+    "popularityIndex": 3.3,
+    "tags": ["inactive", "sleeping", "latent"]
+  },
+  {
+    "word": "dubious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈdjuːbɪəs/",
+    "audio": "https://example.com/audio/dubious.mp3",
+    "definitions": [
+      "Hesitant or doubtful about the truth or reliability of something.",
+      "Not to be relied upon; suspicious."
+    ],
+    "urduMeaning": "مشکوک",
+    "synonyms": ["doubtful", "uncertain", "suspicious", "questionable"],
+    "antonyms": ["certain", "trustworthy", "reliable"],
+    "examples": [
+      "He gave a dubious answer when asked about his involvement.",
+      "The company's dubious financial practices raised red flags.",
+      "She had a dubious expression on her face when she heard the news."
+    ],
+    "relatedWords": ["suspicious", "doubtful", "questionable"],
+    "usageNotes": "Describes something or someone that is questionable or untrustworthy.",
+    "frequency": 3.0,
+    "etymology": "From Latin 'dubius', meaning 'doubtful'.",
+    "origin": {
+      "language": "Latin",
+      "root": "dubius",
+      "meaning": "doubtful"
+    },
+    "derivedForms": [
+      {
+        "form": "dubiousness",
+        "partOfSpeech": "noun",
+        "definition": "The state of being dubious or doubtful."
+      }
+    ],
+    "categories": ["doubt", "suspicion"],
+    "popularityIndex": 3.2,
+    "tags": ["doubtful", "suspicious", "questionable"]
+  },
+  {
+    "word": "dynamo",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈdaɪnəʊməʊ/",
+    "audio": "https://example.com/audio/dynamo.mp3",
+    "definitions": [
+      "A machine for converting mechanical energy into electrical energy.",
+      "A person with great energy and drive."
+    ],
+    "urduMeaning": "طاقتور شخص، توانائی پیدا کرنے والا آلہ",
+    "synonyms": ["powerhouse", "go-getter", "energizer", "force"],
+    "antonyms": ["slacker", "weakling", "inactive"],
+    "examples": [
+      "She was the dynamo behind the success of the project.",
+      "The factory's power supply was dependent on a large dynamo.",
+      "The team worked like a well-oiled dynamo, achieving great success."
+    ],
+    "relatedWords": ["powerhouse", "go-getter", "energizer"],
+    "usageNotes": "Can describe a person with boundless energy or a machine that generates electricity.",
+    "frequency": 3.3,
+    "etymology": "From Greek 'dunamis', meaning 'power'.",
+    "origin": {
+      "language": "Greek",
+      "root": "dunamis",
+      "meaning": "power"
+    },
+    "derivedForms": [
+      {
+        "form": "dynamoism",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being energetic or powerful."
+      }
+    ],
+    "categories": ["energy", "power"],
+    "popularityIndex": 3.5,
+    "tags": ["powerhouse", "go-getter", "energizer"]
+  },
+  {
+    "word": "eclectic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈklɛktɪk/",
+    "audio": "https://example.com/audio/eclectic.mp3",
+    "definitions": [
+      "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+      "Composed of elements drawn from various sources."
+    ],
+    "urduMeaning": "مختلف ذرائع سے اخذ کردہ",
+    "synonyms": ["diverse", "varied", "assorted", "wide-ranging"],
+    "antonyms": ["uniform", "homogeneous", "narrow"],
+    "examples": [
+      "Her eclectic taste in music includes jazz, classical, and rock.",
+      "The restaurant offers an eclectic mix of international dishes.",
+      "His eclectic approach to problem-solving made him highly innovative."
+    ],
+    "relatedWords": ["diverse", "varied", "assorted"],
+    "usageNotes": "Describes something that draws inspiration from a wide variety of sources.",
+    "frequency": 3.6,
+    "etymology": "From Greek 'eklektikos', meaning 'selective'.",
+    "origin": {
+      "language": "Greek",
+      "root": "eklektikos",
+      "meaning": "selective"
+    },
+    "derivedForms": [
+      {
+        "form": "eclecticism",
+        "partOfSpeech": "noun",
+        "definition": "The practice or philosophy of drawing ideas, style, or taste from a broad and diverse range."
+      }
+    ],
+    "categories": ["diversity", "creativity"],
+    "popularityIndex": 3.7,
+    "tags": ["diverse", "varied", "assorted"]
+  },
+  {
+    "word": "elusive",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈluːsɪv/",
+    "audio": "https://example.com/audio/elusive.mp3",
+    "definitions": [
+      "Difficult to find, catch, or achieve.",
+      "Tending to evade or escape detection or understanding."
+    ],
+    "urduMeaning": "چالاک، مشکل سے پکڑنے والا",
+    "synonyms": ["evasive", "slippery", "intangible", "hard-to-get"],
+    "antonyms": ["obvious", "apparent", "accessible"],
+    "examples": [
+      "The solution to the problem remained elusive despite our best efforts.",
+      "The elusive thief managed to escape the police for weeks.",
+      "Her elusive nature made it hard to understand her true feelings."
+    ],
+    "relatedWords": ["evasive", "slippery", "intangible"],
+    "usageNotes": "Often used to describe things or people that are hard to grasp or define.",
+    "frequency": 3.5,
+    "etymology": "From Latin 'eludere', meaning 'to evade'.",
+    "origin": {
+      "language": "Latin",
+      "root": "eludere",
+      "meaning": "to evade"
+    },
+    "derivedForms": [
+      {
+        "form": "elusiveness",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being elusive or hard to catch."
+      }
+    ],
+    "categories": ["difficulty", "uncertainty"],
+    "popularityIndex": 3.8,
+    "tags": ["evasive", "slippery", "hard-to-get"]
+  },
+  {
+    "word": "empirical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪmˈpɪrɪkəl/",
+    "audio": "https://example.com/audio/empirical.mp3",
+    "definitions": [
+      "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+      "Derived from experiment and observation rather than theory."
+    ],
+    "urduMeaning": "مشاہدے اور تجربے پر مبنی",
+    "synonyms": ["observational", "experimental", "factual", "evidence-based"],
+    "antonyms": ["theoretical", "speculative", "unproven"],
+    "examples": [
+      "The research was based on empirical evidence gathered from experiments.",
+      "His conclusions were empirical, relying on data rather than assumptions.",
+      "The empirical approach to solving the problem was highly effective."
+    ],
+    "relatedWords": ["observational", "experimental", "factual"],
+    "usageNotes": "Commonly used in scientific and academic contexts to refer to data or methods based on real-world observations.",
+    "frequency": 3.9,
+    "etymology": "From Greek 'empeirikos', meaning 'experienced'.",
+    "origin": {
+      "language": "Greek",
+      "root": "empeirikos",
+      "meaning": "experienced"
+    },
+    "derivedForms": [
+      {
+        "form": "empiricism",
+        "partOfSpeech": "noun",
+        "definition": "The theory that all knowledge is derived from sense-experience."
+      }
+    ],
+    "categories": ["science", "knowledge"],
+    "popularityIndex": 4.0,
+    "tags": ["observational", "factual", "evidence-based"]
+  },
+  {
+    "word": "enervate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɛnəveɪt/",
+    "audio": "https://example.com/audio/enervate.mp3",
+    "definitions": [
+      "To drain someone or something of energy or vitality.",
+      "To weaken or exhaust physically, mentally, or morally."
+    ],
+    "urduMeaning": "کمزور کرنا، توانائی ختم کرنا",
+    "synonyms": ["weaken", "exhaust", "drain", "fatigue"],
+    "antonyms": ["energize", "strengthen", "revitalize"],
+    "examples": [
+      "The hot sun enervated us, making it difficult to continue.",
+      "Long hours of work can enervate even the most determined person.",
+      "The illness enervated her to the point of complete exhaustion."
+    ],
+    "relatedWords": ["weaken", "exhaust", "drain"],
+    "usageNotes": "Usually used to describe a situation or condition that causes someone to feel weak or drained of energy.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'enervare', meaning 'to weaken'.",
+    "origin": {
+      "language": "Latin",
+      "root": "enervare",
+      "meaning": "to weaken"
+    },
+    "derivedForms": [
+      {
+        "form": "enervating",
+        "partOfSpeech": "adjective",
+        "definition": "Causing someone to feel weak or drained of energy."
+      }
+    ],
+    "categories": ["weakness", "exhaustion"],
+    "popularityIndex": 3.3,
+    "tags": ["weak", "drain", "exhaust"]
+  },
+  {
+    "word": "ephemeral",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ɪˈfɛmərəl/",
+    "audio": "https://example.com/audio/ephemeral.mp3",
+    "definitions": [
+      "Lasting for a very short time.",
+      "Existing or popular for only a brief period."
+    ],
+    "urduMeaning": "عارضی، چند لمحوں کا",
+    "synonyms": ["temporary", "fleeting", "short-lived", "transitory"],
+    "antonyms": ["permanent", "lasting", "eternal"],
+    "examples": [
+      "The beauty of the sunset was ephemeral, fading as quickly as it arrived.",
+      "Fame in the digital age is often ephemeral, disappearing as quickly as it appears.",
+      "Her joy was ephemeral, vanishing as soon as the news was broken."
+    ],
+    "relatedWords": ["temporary", "fleeting", "transitory"],
+    "usageNotes": "Often used to describe things that don't last long, such as moments or experiences.",
+    "frequency": 3.4,
+    "etymology": "From Greek 'ephemeros', meaning 'lasting a day'.",
+    "origin": {
+      "language": "Greek",
+      "root": "ephemeros",
+      "meaning": "lasting a day"
+    },
+    "derivedForms": [
+      {
+        "form": "ephemerality",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being ephemeral or short-lived."
+      }
+    ],
+    "categories": ["time", "impermanence"],
+    "popularityIndex": 3.6,
+    "tags": ["temporary", "fleeting", "transitory"]
+  },
+  {
+    "word": "equanimity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌekwəˈnɪmɪti/",
+    "audio": "https://example.com/audio/equanimity.mp3",
+    "definitions": [
+      "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+      "The state of being undisturbed by emotion, stress, or adversity."
+    ],
+    "urduMeaning": "ذہنی سکون، سکون قلب",
+    "synonyms": ["composure", "calmness", "serenity", "tranquility"],
+    "antonyms": ["agitation", "anxiety", "disturbance"],
+    "examples": [
+      "She faced the crisis with equanimity, remaining calm under pressure.",
+      "His equanimity in stressful situations earned him the respect of his colleagues.",
+      "Meditation can help you cultivate greater equanimity in your life."
+    ],
+    "relatedWords": ["composure", "calmness", "serenity"],
+    "usageNotes": "Equanimity is often admired in individuals who can maintain emotional balance in challenging circumstances.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'aequanimitas', meaning 'even mind'.",
+    "origin": {
+      "language": "Latin",
+      "root": "aequanimitas",
+      "meaning": "even mind"
+    },
+    "derivedForms": [
+      {
+        "form": "equanimous",
+        "partOfSpeech": "adjective",
+        "definition": "Having or exhibiting equanimity."
+      }
+    ],
+    "categories": ["emotional balance", "mental strength"],
+    "popularityIndex": 3.6,
+    "tags": ["calm", "composed", "serene"]
+  },
+  {
+    "word": "exacerbate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ɪɡˈzæsərbeɪt/",
+    "audio": "https://example.com/audio/exacerbate.mp3",
+    "definitions": [
+      "To make a problem, situation, or feeling worse.",
+      "To intensify or worsen an existing negative condition."
+    ],
+    "urduMeaning": "بگڑنا، شدت پیدا کرنا",
+    "synonyms": ["aggravate", "worsen", "intensify", "compound"],
+    "antonyms": ["ameliorate", "improve", "alleviate"],
+    "examples": [
+      "The new law may exacerbate the economic challenges faced by small businesses.",
+      "His harsh words only served to exacerbate the situation.",
+      "Ignoring the issue will only exacerbate the problem in the long run."
+    ],
+    "relatedWords": ["aggravate", "worsen", "intensify"],
+    "usageNotes": "Exacerbate is used when something makes an already bad situation worse.",
+    "frequency": 3.7,
+    "etymology": "From Latin 'exacerbatus', meaning 'to make more bitter'.",
+    "origin": {
+      "language": "Latin",
+      "root": "exacerbatus",
+      "meaning": "to make more bitter"
+    },
+    "derivedForms": [
+      {
+        "form": "exacerbation",
+        "partOfSpeech": "noun",
+        "definition": "The act or process of making a problem worse."
+      }
+    ],
+    "categories": ["problems", "challenges"],
+    "popularityIndex": 3.8,
+    "tags": ["worsen", "aggravate", "intensify"]
+  },
+  {
+    "word": "expedite",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈɛkspɪdaɪt/",
+    "audio": "https://example.com/audio/expedite.mp3",
+    "definitions": [
+      "To make an action or process happen sooner or more quickly.",
+      "To speed up or facilitate the progress of something."
+    ],
+    "urduMeaning": "جلدی کرنا، تیز کرنا",
+    "synonyms": ["accelerate", "hasten", "quick", "facilitate"],
+    "antonyms": ["delay", "hinder", "slow down"],
+    "examples": [
+      "We need to expedite the processing of these documents.",
+      "The company worked hard to expedite the shipment of the new products.",
+      "The manager took steps to expedite the decision-making process."
+    ],
+    "relatedWords": ["accelerate", "hasten", "facilitate"],
+    "usageNotes": "Often used in business or formal contexts when referring to speeding up a process.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'expeditus', meaning 'unimpeded'.",
+    "origin": {
+      "language": "Latin",
+      "root": "expeditus",
+      "meaning": "unimpeded"
+    },
+    "derivedForms": [
+      {
+        "form": "expeditious",
+        "partOfSpeech": "adjective",
+        "definition": "Done with speed and efficiency."
+      }
+    ],
+    "categories": ["efficiency", "business"],
+    "popularityIndex": 3.5,
+    "tags": ["accelerate", "hasten", "facilitate"]
+  },
+  {
+    "word": "facilitate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/fəˈsɪlɪteɪt/",
+    "audio": "https://example.com/audio/facilitate.mp3",
+    "definitions": [
+      "To make an action or process easier or smoother.",
+      "To assist or help the progress of something."
+    ],
+    "urduMeaning": "آسان بنانا، مدد کرنا",
+    "synonyms": ["assist", "help", "ease", "enable"],
+    "antonyms": ["hinder", "impede", "obstruct"],
+    "examples": [
+      "The new software will facilitate communication between the departments.",
+      "The team worked together to facilitate the smooth running of the event.",
+      "Good leadership can facilitate the achievement of the organization's goals."
+    ],
+    "relatedWords": ["assist", "help", "ease"],
+    "usageNotes": "Used when something or someone makes a task or process easier to perform.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'facilitare', meaning 'to make easy'.",
+    "origin": {
+      "language": "Latin",
+      "root": "facilitare",
+      "meaning": "to make easy"
+    },
+    "derivedForms": [
+      {
+        "form": "facilitator",
+        "partOfSpeech": "noun",
+        "definition": "A person who helps facilitate a process or discussion."
+      }
+    ],
+    "categories": ["assistance", "processes"],
+    "popularityIndex": 4.0,
+    "tags": ["assist", "enable", "ease"]
+  },
+  {
+    "word": "feasible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈfiːzɪbəl/",
+    "audio": "https://example.com/audio/feasible.mp3",
+    "definitions": [
+      "Possible to do easily or conveniently.",
+      "Capable of being done or achieved."
+    ],
+    "urduMeaning": "ممکن، قابل عمل",
+    "synonyms": ["possible", "practical", "achievable", "workable"],
+    "antonyms": ["impossible", "unfeasible", "unachievable"],
+    "examples": [
+      "The project is feasible with the resources we have available.",
+      "It's not feasible to complete the task within the given time frame.",
+      "We need to assess whether this plan is financially feasible."
+    ],
+    "relatedWords": ["possible", "practical", "achievable"],
+    "usageNotes": "Used to describe a plan, task, or action that can be realistically accomplished.",
+    "frequency": 3.9,
+    "etymology": "From Latin 'facilis', meaning 'easy'.",
+    "origin": {
+      "language": "Latin",
+      "root": "facilis",
+      "meaning": "easy"
+    },
+    "derivedForms": [
+      {
+        "form": "feasibility",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being feasible or possible."
+      }
+    ],
+    "categories": ["possibility", "planning"],
+    "popularityIndex": 4.2,
+    "tags": ["possible", "practical", "workable"]
+  },
+  {
+    "word": "fortuitous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/fɔːˈtjuːɪtəs/",
+    "audio": "https://example.com/audio/fortuitous.mp3",
+    "definitions": [
+      "Happening by chance or accident rather than by design.",
+      "Occurring unexpectedly and often with a positive outcome."
+    ],
+    "urduMeaning": "اتفاقی، اچانک",
+    "synonyms": ["chance", "accidental", "serendipitous", "unexpected"],
+    "antonyms": ["intentional", "planned", "deliberate"],
+    "examples": [
+      "It was a fortuitous meeting that led to a successful partnership.",
+      "His fortuitous discovery of the rare book made him very happy.",
+      "The company's success was partly due to a fortuitous turn of events."
+    ],
+    "relatedWords": ["serendipitous", "unexpected", "accidental"],
+    "usageNotes": "Often used to describe events that happen by chance but have a positive result.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'fortuitus', meaning 'chance' or 'accidental'.",
+    "origin": {
+      "language": "Latin",
+      "root": "fortuitus",
+      "meaning": "chance"
+    },
+    "derivedForms": [
+      {
+        "form": "fortuitously",
+        "partOfSpeech": "adverb",
+        "definition": "By chance or accident."
+      }
+    ],
+    "categories": ["chance", "accidents"],
+    "popularityIndex": 3.5,
+    "tags": ["chance", "serendipity", "accidental"]
+  },
+  {
+    "word": "garrulous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈɡærələs/",
+    "audio": "https://example.com/audio/garrulous.mp3",
+    "definitions": [
+      "Excessively talkative, especially on trivial matters.",
+      "Given to rambling or lengthy conversations."
+    ],
+    "urduMeaning": "بکواس کرنے والا، باتوں کا رسیا",
+    "synonyms": ["talkative", "loquacious", "chatty", "verbose"],
+    "antonyms": ["reserved", "quiet", "taciturn"],
+    "examples": [
+      "He was garrulous and could talk for hours about anything.",
+      "The garrulous woman at the party kept everyone entertained with her stories.",
+      "Her garrulous nature often made it hard to get a word in edgewise."
+    ],
+    "relatedWords": ["loquacious", "talkative", "verbose"],
+    "usageNotes": "Garrulous often has a slightly negative connotation, implying excessive or unnecessary talking.",
+    "frequency": 3.0,
+    "etymology": "From Latin 'garrulus', meaning 'talkative'.",
+    "origin": {
+      "language": "Latin",
+      "root": "garrulus",
+      "meaning": "talkative"
+    },
+    "derivedForms": [
+      {
+        "form": "garrulity",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being garrulous."
+      }
+    ],
+    "categories": ["communication", "personality"],
+    "popularityIndex": 3.3,
+    "tags": ["talkative", "loquacious", "verbose"]
+  },
+  {
+    "word": "hinder",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈhɪndər/",
+    "audio": "https://example.com/audio/hinder.mp3",
+    "definitions": [
+      "To create difficulties for someone or something, resulting in delay or obstruction.",
+      "To prevent or slow down progress."
+    ],
+    "urduMeaning": "رکاوٹ ڈالنا، روکنا",
+    "synonyms": ["impede", "delay", "obstruct", "prevent"],
+    "antonyms": ["help", "facilitate", "assist"],
+    "examples": [
+      "The heavy rain will hinder our ability to complete the project on time.",
+      "Lack of resources has hindered the company's growth.",
+      "Her illness has hindered her from participating in the competition."
+    ],
+    "relatedWords": ["impede", "obstruct", "delay"],
+    "usageNotes": "Hinder is often used when something or someone slows down or delays progress or action.",
+    "frequency": 3.1,
+    "etymology": "From Old English 'hindrian', meaning 'to delay or impede'.",
+    "origin": {
+      "language": "Old English",
+      "root": "hindrian",
+      "meaning": "to delay"
+    },
+    "derivedForms": [
+      {
+        "form": "hinderance",
+        "partOfSpeech": "noun",
+        "definition": "An obstacle or something that hinders progress."
+      }
+    ],
+    "categories": ["obstruction", "delay"],
+    "popularityIndex": 3.4,
+    "tags": ["obstruct", "delay", "impede"]
+  },
+  {
+    "word": "harbinger",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhɑːbɪndʒər/",
+    "audio": "https://example.com/audio/harbinger.mp3",
+    "definitions": [
+      "A person or thing that announces or signals the approach of another.",
+      "A forerunner or precursor to something."
+    ],
+    "urduMeaning": "آگاہ کرنے والا، پیش خیمہ",
+    "synonyms": ["herald", "precursor", "signal", "omen"],
+    "antonyms": ["consequence", "result", "aftermath"],
+    "examples": [
+      "The robin is a harbinger of spring.",
+      "The dark clouds were a harbinger of the coming storm.",
+      "The defeat in the first game was a harbinger of the team's poor performance this season."
+    ],
+    "relatedWords": ["precursor", "herald", "omen"],
+    "usageNotes": "Harbinger is often used in a figurative sense to describe a warning or indication of something to come.",
+    "frequency": 3.6,
+    "etymology": "From Old French 'herbergeor', meaning 'one who provides shelter'.",
+    "origin": {
+      "language": "Old French",
+      "root": "herbergeor",
+      "meaning": "one who provides shelter"
+    },
+    "derivedForms": [
+      {
+        "form": "harbingered",
+        "partOfSpeech": "verb",
+        "definition": "To announce or signal the approach of something."
+      }
+    ],
+    "categories": ["sign", "warning"],
+    "popularityIndex": 3.7,
+    "tags": ["precursor", "signal", "forerunner"]
+  },
+  {
+    "word": "hypothetical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌhaɪpəˈθɛtɪkəl/",
+    "audio": "https://example.com/audio/hypothetical.mp3",
+    "definitions": [
+      "Based on or involving an assumption or a supposition.",
+      "Imagined or proposed as a possibility, not necessarily real or true."
+    ],
+    "urduMeaning": "مفروضہ، قیاس",
+    "synonyms": ["theoretical", "supposed", "imaginary", "assumed"],
+    "antonyms": ["real", "actual", "factual"],
+    "examples": [
+      "In a hypothetical situation, how would you react to such a challenge?",
+      "The scientist proposed a hypothetical experiment to test the theory.",
+      "They discussed hypothetical scenarios about the future of the planet."
+    ],
+    "relatedWords": ["theoretical", "supposed", "assumed"],
+    "usageNotes": "Hypothetical is used when referring to something imagined or assumed for the purpose of discussion or analysis.",
+    "frequency": 3.4,
+    "etymology": "From Greek 'hypothetikos', meaning 'pertaining to a hypothesis'.",
+    "origin": {
+      "language": "Greek",
+      "root": "hypothetikos",
+      "meaning": "pertaining to a hypothesis"
+    },
+    "derivedForms": [
+      {
+        "form": "hypothesis",
+        "partOfSpeech": "noun",
+        "definition": "A proposed explanation based on limited evidence."
+      }
+    ],
+    "categories": ["imagination", "theory"],
+    "popularityIndex": 3.5,
+    "tags": ["imaginary", "assumed", "theoretical"]
+  },
+  {
+    "word": "irrefutable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌɪrɪˈfjuːtəbl/",
+    "audio": "https://example.com/audio/irrefutable.mp3",
+    "definitions": [
+      "Impossible to deny or disprove.",
+      "Not able to be contradicted or proven wrong."
+    ],
+    "urduMeaning": "ناقابلِ تردید",
+    "synonyms": [
+      "indisputable",
+      "undeniable",
+      "incontrovertible",
+      "unquestionable"
+    ],
+    "antonyms": ["debateable", "refutable", "controversial"],
+    "examples": [
+      "The evidence presented in court was irrefutable.",
+      "Her irrefutable logic convinced everyone in the room.",
+      "The scientist made an irrefutable case for his hypothesis."
+    ],
+    "relatedWords": ["undeniable", "unassailable", "incontestable"],
+    "usageNotes": "Used to describe arguments or evidence that cannot be disputed or disproved.",
+    "frequency": 3.8,
+    "etymology": "From Latin 'irrefutabilis', meaning 'impossible to refute'.",
+    "origin": {
+      "language": "Latin",
+      "root": "irrefutabilis",
+      "meaning": "impossible to refute"
+    },
+    "derivedForms": [
+      {
+        "form": "irrefutability",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being irrefutable."
+      }
+    ],
+    "categories": ["proof", "evidence", "truth"],
+    "popularityIndex": 4.1,
+    "tags": ["undeniable", "incontrovertible", "unquestionable"]
+  },
+  {
+    "word": "juxtapose",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈdʒʌkstəˌpoʊz/",
+    "audio": "https://example.com/audio/juxtapose.mp3",
+    "definitions": [
+      "To place or deal with close together for contrasting effect.",
+      "To compare two things by placing them side by side."
+    ],
+    "urduMeaning": "ایک ساتھ رکھنا، ہم آہنگ کرنا",
+    "synonyms": ["compare", "contrast", "place side by side", "align"],
+    "antonyms": ["separate", "disjoint", "disconnect"],
+    "examples": [
+      "The artist chose to juxtapose light and dark colors in the painting.",
+      "They juxtaposed the old and new architecture to highlight the contrast.",
+      "The film juxtaposes scenes of war with moments of peace."
+    ],
+    "relatedWords": ["contrast", "compare", "place side by side"],
+    "usageNotes": "Juxtapose is commonly used in visual arts, literature, and discussions of contrasting ideas or elements.",
+    "frequency": 3.3,
+    "etymology": "From Latin 'juxta', meaning 'next to', and 'positus', meaning 'placed'.",
+    "origin": {
+      "language": "Latin",
+      "root": "juxta",
+      "meaning": "next to"
+    },
+    "derivedForms": [
+      {
+        "form": "juxtaposition",
+        "partOfSpeech": "noun",
+        "definition": "The act of placing two things together for comparison."
+      }
+    ],
+    "categories": ["comparison", "contrast", "art"],
+    "popularityIndex": 3.6,
+    "tags": ["compare", "contrast", "visual arts"]
+  },
+  {
+    "word": "laconic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ləˈkɒnɪk/",
+    "audio": "https://example.com/audio/laconic.mp3",
+    "definitions": [
+      "Using few words; brief and concise.",
+      "Expressed in a short and direct manner."
+    ],
+    "urduMeaning": "مختصر، کم گو",
+    "synonyms": ["concise", "brief", "terse", "succinct"],
+    "antonyms": ["verbose", "wordy", "loquacious"],
+    "examples": [
+      "His laconic reply left no room for further discussion.",
+      "The speaker was known for his laconic style, getting straight to the point.",
+      "Her laconic response to the question showed she wasn't interested in elaborating."
+    ],
+    "relatedWords": ["brief", "concise", "succinct"],
+    "usageNotes": "Laconic is often used to describe a person or style of communication that is terse or efficient.",
+    "frequency": 3.1,
+    "etymology": "From Greek 'lakonikos', meaning 'from Laconia', where the Spartans were known for their brief speech.",
+    "origin": {
+      "language": "Greek",
+      "root": "lakonikos",
+      "meaning": "from Laconia"
+    },
+    "derivedForms": [
+      {
+        "form": "laconically",
+        "partOfSpeech": "adverb",
+        "definition": "In a brief or concise manner."
+      }
+    ],
+    "categories": ["communication", "efficiency"],
+    "popularityIndex": 3.4,
+    "tags": ["brief", "concise", "efficient"]
+  },
+  {
+    "word": "mendacious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/mɛnˈdeɪʃəs/",
+    "audio": "https://example.com/audio/mendacious.mp3",
+    "definitions": [
+      "Not telling the truth; lying.",
+      "Characterized by falsehood or deception."
+    ],
+    "urduMeaning": "جھوٹا، دھوکہ دہی والا",
+    "synonyms": ["dishonest", "false", "deceptive", "untruthful"],
+    "antonyms": ["truthful", "honest", "sincere"],
+    "examples": [
+      "The mendacious politician was caught in a web of lies.",
+      "She gave a mendacious account of the events to avoid getting into trouble.",
+      "His mendacious statements were quickly debunked by the authorities."
+    ],
+    "relatedWords": ["deceptive", "dishonest", "untruthful"],
+    "usageNotes": "Mendacious is often used in formal or legal contexts to describe deceitful behavior.",
+    "frequency": 3.2,
+    "etymology": "From Latin 'mendacium', meaning 'lie'.",
+    "origin": {
+      "language": "Latin",
+      "root": "mendacium",
+      "meaning": "lie"
+    },
+    "derivedForms": [
+      {
+        "form": "mendacity",
+        "partOfSpeech": "noun",
+        "definition": "The quality of being mendacious."
+      }
+    ],
+    "categories": ["dishonesty", "deception"],
+    "popularityIndex": 3.5,
+    "tags": ["dishonest", "false", "deceptive"]
+  },
+  {
+    "word": "nefarious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/nɪˈfɛəɹɪəs/",
+    "audio": "https://example.com/audio/nefarious.mp3",
+    "definitions": [
+      "Wicked or criminal in nature.",
+      "Characterized by morally wrong or villainous actions."
+    ],
+    "urduMeaning": "بدنیتی، شرمناک",
+    "synonyms": ["evil", "wicked", "villainous", "corrupt"],
+    "antonyms": ["virtuous", "good", "noble"],
+    "examples": [
+      "The nefarious activities of the gang were uncovered by the police.",
+      "He was involved in nefarious dealings with underground criminals.",
+      "The nefarious scheme aimed at exploiting the most vulnerable people."
+    ],
+    "relatedWords": ["wicked", "evil", "villainous"],
+    "usageNotes": "Nefarious is often used to describe actions or people involved in serious moral wrongdoing.",
+    "frequency": 3.4,
+    "etymology": "From Latin 'nefarius', meaning 'wicked' or 'criminal'.",
+    "origin": {
+      "language": "Latin",
+      "root": "nefarius",
+      "meaning": "wicked or criminal"
+    },
+    "derivedForms": [
+      {
+        "form": "nefariously",
+        "partOfSpeech": "adverb",
+        "definition": "In a wicked or villainous manner."
+      }
+    ],
+    "categories": ["crime", "immorality"],
+    "popularityIndex": 3.6,
+    "tags": ["wicked", "evil", "villainous"]
+  }
+]

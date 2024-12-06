@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Soccer",
+    "name_urdu": "فٹ بال"
+  },
+  {
+    "name": "Basketball",
+    "name_urdu": "باسکٹ بال"
+  },
+  {
+    "name": "Cricket",
+    "name_urdu": "کرکٹ"
+  },
+  {
+    "name": "Tennis",
+    "name_urdu": "ٹینس"
+  },
+  {
+    "name": "Rugby",
+    "name_urdu": "رگبی"
+  },
+  {
+    "name": "Hockey",
+    "name_urdu": "ہاکی"
+  },
+  {
+    "name": "Baseball",
+    "name_urdu": "بیسبال"
+  },
+  {
+    "name": "Golf",
+    "name_urdu": "گالف"
+  },
+  {
+    "name": "Boxing",
+    "name_urdu": "مکہ بازی"
+  },
+  {
+    "name": "Swimming",
+    "name_urdu": "سوئمنگ"
+  },
+  {
+    "name": "Badminton",
+    "name_urdu": "بیڈ منٹن"
+  },
+  {
+    "name": "Cycling",
+    "name_urdu": "سائیکلنگ"
+  },
+  {
+    "name": "Athletics",
+    "name_urdu": "ایتھلیٹکس"
+  },
+  {
+    "name": "Table Tennis",
+    "name_urdu": "ٹیبل ٹینس"
+  },
+  {
+    "name": "Wrestling",
+    "name_urdu": "کشتی"
+  },
+  {
+    "name": "Gymnastics",
+    "name_urdu": "جمناسٹکس"
+  },
+  {
+    "name": "Volleyball",
+    "name_urdu": "والی بال"
+  },
+  {
+    "name": "Handball",
+    "name_urdu": "ہینڈ بال"
+  },
+  {
+    "name": "Archery",
+    "name_urdu": "کمان داری"
+  },
+  {
+    "name": "Rowing",
+    "name_urdu": "کشتی رانی"
+  },
+  {
+    "name": "Skiing",
+    "name_urdu": "سکیئنگ"
+  },
+  {
+    "name": "Snowboarding",
+    "name_urdu": "سنو بورڈنگ"
+  },
+  {
+    "name": "Surfing",
+    "name_urdu": "سرفنگ"
+  },
+  {
+    "name": "Fishing",
+    "name_urdu": "مچھلی پکڑنا"
+  },
+  {
+    "name": "Horseback Riding",
+    "name_urdu": "گھوڑ سواری"
+  },
+  {
+    "name": "MMA (Mixed Martial Arts)",
+    "name_urdu": "مکسڈ مارشل آرٹس"
+  }
+]

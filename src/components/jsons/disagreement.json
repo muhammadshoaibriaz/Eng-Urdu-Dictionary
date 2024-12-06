@@ -1,0 +1,72 @@
+[
+  {
+    "person": "Colleague 1",
+    "message": "I don’t think the report is ready for submission yet. We need to review it one more time.",
+    "message_urdu": "مجھے نہیں لگتا کہ رپورٹ ابھی جمع کروانے کے لئے تیار ہے۔ ہمیں اسے ایک اور بار جائزہ لینا چاہیے۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "I disagree. It’s already been reviewed several times. We can’t delay it any further.",
+    "message_urdu": "میں متفق نہیں ہوں۔ اس کا کئی بار جائزہ لیا جا چکا ہے۔ ہم اسے مزید تاخیر نہیں کر سکتے۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "But there are still some minor errors that need correction. We should make sure it’s perfect before sending it out.",
+    "message_urdu": "لیکن ابھی بھی کچھ معمولی غلطیاں ہیں جو درست کرنی ہیں۔ ہمیں یہ یقینی بنانا چاہیے کہ یہ بھیجنے سے پہلے بالکل درست ہو۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "I understand, but we don’t have the luxury of time. The deadline is tight, and we need to submit it now.",
+    "message_urdu": "مجھے سمجھ آتا ہے، لیکن ہمارے پاس وقت کی کمی ہے۔ ڈیڈ لائن بہت قریب ہے، اور ہمیں ابھی اسے جمع کروانا ہے۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "I get that, but rushing it could lead to bigger issues later. It’s better to be thorough now.",
+    "message_urdu": "مجھے سمجھ آتا ہے، لیکن جلدبازی کرنے سے بعد میں بڑے مسائل ہو سکتے ہیں۔ ابھی تفصیل سے کام کرنا بہتر ہے۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "We can’t be perfectionists all the time. Sometimes, we just need to accept it as it is.",
+    "message_urdu": "ہم ہر وقت پرفیکشنسٹ نہیں بن سکتے۔ کبھی کبھی ہمیں جیسے ہے ویسا ہی قبول کرنا پڑتا ہے۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "That’s true, but this report reflects the quality of our work. We can’t afford to send something that’s not up to standard.",
+    "message_urdu": "یہ سچ ہے، لیکن یہ رپورٹ ہمارے کام کے معیار کی عکاسی کرتی ہے۔ ہم کچھ بھیجنے کا خطرہ نہیں لے سکتے جو معیار کے مطابق نہ ہو۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "I see your point, but I still believe we need to submit it now. We can always make improvements for the next one.",
+    "message_urdu": "میں تمہاری بات سمجھتا ہوں، لیکن میں اب بھی یقین رکھتا ہوں کہ ہمیں اسے ابھی جمع کروا دینا چاہیے۔ ہم ہمیشہ اگلی بار کے لئے بہتری لا سکتے ہیں۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "Fine, but I’m not comfortable sending it without addressing the last few errors.",
+    "message_urdu": "ٹھیک ہے، لیکن مجھے آخری چند غلطیوں کو درست کئے بغیر اسے بھیجنے میں راحت نہیں ہے۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "I understand, but we’ll be held responsible for missing the deadline if we don’t submit it now.",
+    "message_urdu": "میں سمجھتا ہوں، لیکن اگر ہم اسے ابھی جمع نہیں کرواتے تو ہمیں ڈیڈ لائن مس کرنے کا ذمہ دار ٹھہرایا جائے گا۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "Alright, let’s compromise. We’ll submit it now but note down the errors to fix them later.",
+    "message_urdu": "ٹھیک ہے، آئیے سمجھوتہ کرتے ہیں۔ ہم اسے ابھی جمع کروا دیتے ہیں لیکن غلطیوں کو نوٹ کر لیتے ہیں تاکہ بعد میں ٹھیک کر سکیں۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "Deal! We’ll do that and then focus on improving the next report.",
+    "message_urdu": "معاہدہ! ہم یہ کریں گے اور پھر اگلی رپورٹ کو بہتر بنانے پر توجہ دیں گے۔"
+  },
+  {
+    "person": "Colleague 1",
+    "message": "Thanks for understanding. Let’s make sure we address the issues next time.",
+    "message_urdu": "سمجھنے کا شکریہ۔ اگلی بار مسائل کو حل کرنے کا یقین دہانی کر لیں۔"
+  },
+  {
+    "person": "Colleague 2",
+    "message": "No problem. We’ll get it right next time. Let’s submit this one.",
+    "message_urdu": "کوئی بات نہیں۔ اگلی بار ہم اسے صحیح کریں گے۔ آئیے اس رپورٹ کو جمع کروائیں۔"
+  }
+]

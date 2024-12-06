@@ -1,0 +1,52 @@
+[
+  {
+    "person": "Passenger 1",
+    "message": "Hi there! Is this seat taken?",
+    "message_urdu": "ہیلو! کیا یہ نشست خالی ہے؟"
+  },
+  {
+    "person": "Passenger 2",
+    "message": "No, it’s free. Please have a seat.",
+    "message_urdu": "نہیں، یہ خالی ہے۔ براہ کرم بیٹھ جائیں۔"
+  },
+  {
+    "person": "Passenger 1",
+    "message": "Thank you! Are you traveling far?",
+    "message_urdu": "شکریہ! کیا آپ دور سفر کر رہے ہیں؟"
+  },
+  {
+    "person": "Passenger 2",
+    "message": "Yes, I’m heading to Lahore. What about you?",
+    "message_urdu": "جی ہاں، میں لاہور جا رہا ہوں۔ آپ کہاں جا رہے ہیں؟"
+  },
+  {
+    "person": "Passenger 1",
+    "message": "I’m traveling to Islamabad for some work.",
+    "message_urdu": "میں کچھ کام کے لئے اسلام آباد جا رہا ہوں۔"
+  },
+  {
+    "person": "Passenger 2",
+    "message": "Oh, that’s nice. How long is your trip?",
+    "message_urdu": "اوہ، یہ اچھی بات ہے۔ آپ کا سفر کتنے دن کا ہے؟"
+  },
+  {
+    "person": "Passenger 1",
+    "message": "Just a couple of days. It’s a short business trip.",
+    "message_urdu": "صرف چند دن۔ یہ ایک مختصر کاروباری سفر ہے۔"
+  },
+  {
+    "person": "Passenger 2",
+    "message": "That’s good. I hope you have a productive trip!",
+    "message_urdu": "یہ اچھا ہے۔ امید ہے کہ آپ کا سفر مفید ہوگا!"
+  },
+  {
+    "person": "Passenger 1",
+    "message": "Thank you! I hope you enjoy your journey to Lahore.",
+    "message_urdu": "شکریہ! امید ہے کہ آپ لاہور کا سفر انجوائے کریں گے۔"
+  },
+  {
+    "person": "Passenger 2",
+    "message": "Thanks! Safe travels to you too.",
+    "message_urdu": "شکریہ! آپ کو بھی محفوظ سفر کی دعا۔"
+  }
+]

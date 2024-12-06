@@ -1,0 +1,112 @@
+[
+  {
+    "person": "Friend 1",
+    "message": "Hey! Long time no see. How have you been?",
+    "message_urdu": "ہیلو! کافی دنوں بعد ملاقات ہو رہی ہے۔ کیسے ہو؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "I’ve been good, just busy with work. What about you?",
+    "message_urdu": "میں ٹھیک ہوں، بس کام میں مصروف تھا۔ تم سناؤ؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Same here. Work has been hectic lately. I barely get time to relax.",
+    "message_urdu": "میرے ساتھ بھی یہی حال ہے۔ کام بہت زیادہ ہے آج کل۔ بمشکل آرام کا وقت ملتا ہے۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Yeah, tell me about it. By the way, do you still go to the gym?",
+    "message_urdu": "ہاں، مجھے پتہ ہے۔ ویسے کیا تم اب بھی جِم جاتے ہو؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Not really. I’ve been skipping it lately. What about you?",
+    "message_urdu": "نہیں، آج کل چھوڑ رکھا ہے۔ تمہارا کیا حال ہے؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Same here. I keep telling myself to go, but I never do.",
+    "message_urdu": "میرا بھی یہی حال ہے۔ خود سے کہتا ہوں کہ جاؤں، لیکن کبھی نہیں جاتا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Haha, it’s so hard to stay consistent! We should start going together.",
+    "message_urdu": "ہا ہا، مستقل مزاجی برقرار رکھنا بہت مشکل ہے! ہمیں ساتھ جانا شروع کرنا چاہیے۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "That’s a great idea! We can motivate each other.",
+    "message_urdu": "یہ تو زبردست خیال ہے! ہم ایک دوسرے کو حوصلہ دے سکتے ہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Cool! Let’s plan for next week. Which days are good for you?",
+    "message_urdu": "زبردست! اگلے ہفتے کا منصوبہ بناتے ہیں۔ کون سے دن تمہارے لیے ٹھیک ہیں؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Tuesday and Thursday work for me. What about you?",
+    "message_urdu": "منگل اور جمعرات میرے لیے ٹھیک ہیں۔ تمہارا کیا خیال ہے؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "That works perfectly. Let’s do it! Also, how’s your family?",
+    "message_urdu": "یہ بالکل ٹھیک ہے۔ چلو کرتے ہیں! ویسے تمہارے گھر والے کیسے ہیں؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "They’re good, thanks for asking. Mom keeps asking about you.",
+    "message_urdu": "سب ٹھیک ہیں، پوچھنے کا شکریہ۔ امی تمہارے بارے میں پوچھتی رہتی ہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Aww, that’s sweet. Tell her I said hello!",
+    "message_urdu": "اوہ، یہ تو بہت اچھا ہے۔ انہیں میرا سلام دینا!"
+  },
+  {
+    "person": "Friend 2",
+    "message": "I will. What about your family? How’s everyone doing?",
+    "message_urdu": "ضرور۔ تمہارے گھر والے کیسے ہیں؟ سب کیسے ہیں؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Everyone’s doing great, thanks. Dad’s been busy with his garden lately.",
+    "message_urdu": "سب بہت اچھے ہیں، شکریہ۔ ابو آج کل اپنے باغ میں مصروف ہیں۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "That’s nice! His garden must look amazing by now.",
+    "message_urdu": "یہ تو اچھا ہے! ان کا باغ اب تک شاندار لگ رہا ہوگا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "It really does. You should come over sometime and see it.",
+    "message_urdu": "واقعی ایسا ہی ہے۔ کبھی آنا اور دیکھنا۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "I’d love to. Let’s plan something soon.",
+    "message_urdu": "مجھے بہت خوشی ہوگی۔ جلدی کچھ منصوبہ بناتے ہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Definitely! It was great catching up with you.",
+    "message_urdu": "یقیناً! تم سے بات کر کے بہت اچھا لگا۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Same here! Let’s not wait so long to catch up next time.",
+    "message_urdu": "مجھے بھی! اگلی بار بات کرنے میں اتنی دیر نہ ہو۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Agreed. Take care and see you soon!",
+    "message_urdu": "بالکل۔ اپنا خیال رکھو اور جلد ملاقات ہوگی!"
+  },
+  {
+    "person": "Friend 2",
+    "message": "You too! Bye for now.",
+    "message_urdu": "تم بھی! فی الحال خدا حافظ۔"
+  }
+]

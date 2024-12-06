@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Father",
+    "name_urdu": "والد"
+  },
+  {
+    "name": "Mother",
+    "name_urdu": "والدہ"
+  },
+  {
+    "name": "Brother",
+    "name_urdu": "بھائی"
+  },
+  {
+    "name": "Sister",
+    "name_urdu": "بہن"
+  },
+  {
+    "name": "Son",
+    "name_urdu": "بیٹا"
+  },
+  {
+    "name": "Daughter",
+    "name_urdu": "بیٹی"
+  },
+  {
+    "name": "Grandfather",
+    "name_urdu": "دادا"
+  },
+  {
+    "name": "Grandmother",
+    "name_urdu": "دادی"
+  },
+  {
+    "name": "Uncle (paternal)",
+    "name_urdu": "چچا"
+  },
+  {
+    "name": "Aunt (paternal)",
+    "name_urdu": "چچی"
+  },
+  {
+    "name": "Uncle (maternal)",
+    "name_urdu": "ماموں"
+  },
+  {
+    "name": "Aunt (maternal)",
+    "name_urdu": "مامی"
+  },
+  {
+    "name": "Cousin (male)",
+    "name_urdu": "چچازاد بھائی / ماموں زاد بھائی"
+  },
+  {
+    "name": "Cousin (female)",
+    "name_urdu": "چچازاد بہن / ماموں زاد بہن"
+  },
+  {
+    "name": "Nephew",
+    "name_urdu": "بھتیجا / بھانجا"
+  },
+  {
+    "name": "Niece",
+    "name_urdu": "بھتیجی / بھانجی"
+  },
+  {
+    "name": "Husband",
+    "name_urdu": "شوہر"
+  },
+  {
+    "name": "Wife",
+    "name_urdu": "بیوی"
+  },
+  {
+    "name": "Father-in-law",
+    "name_urdu": "سسر"
+  },
+  {
+    "name": "Mother-in-law",
+    "name_urdu": "ساس"
+  },
+  {
+    "name": "Brother-in-law",
+    "name_urdu": "سالہ"
+  },
+  {
+    "name": "Sister-in-law",
+    "name_urdu": "سالہ"
+  },
+  {
+    "name": "Parents",
+    "name_urdu": "والدین"
+  },
+  {
+    "name": "Children",
+    "name_urdu": "بچے"
+  },
+  {
+    "name": "Relatives",
+    "name_urdu": "رشتہ دار"
+  },
+  {
+    "name": "Grandchildren",
+    "name_urdu": "پوتے پوتیاں / نواسے نواسیاں"
+  },
+  {
+    "name": "Stepfather",
+    "name_urdu": "سوتیلا والد"
+  },
+  {
+    "name": "Stepmother",
+    "name_urdu": "سوتیلی والدہ"
+  },
+  {
+    "name": "Stepson",
+    "name_urdu": "سوتیلا بیٹا"
+  },
+  {
+    "name": "Stepdaughter",
+    "name_urdu": "سوتیلی بیٹی"
+  }
+]

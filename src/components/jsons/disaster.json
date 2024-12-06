@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Earthquake",
+    "name_urdu": "زلزلہ"
+  },
+  {
+    "name": "Flood",
+    "name_urdu": "سیلاب"
+  },
+  {
+    "name": "Hurricane",
+    "name_urdu": "طوفان"
+  },
+  {
+    "name": "Tornado",
+    "name_urdu": "ٹورنیڈو"
+  },
+  {
+    "name": "Wildfire",
+    "name_urdu": "جنگلی آگ"
+  },
+  {
+    "name": "Drought",
+    "name_urdu": "خشک سالی"
+  },
+  {
+    "name": "Tsunami",
+    "name_urdu": "سونامی"
+  },
+  {
+    "name": "Landslide",
+    "name_urdu": "مٹی کا تودہ"
+  },
+  {
+    "name": "Volcanic Eruption",
+    "name_urdu": "آتش فشاں کا پھٹنا"
+  },
+  {
+    "name": "Avalanche",
+    "name_urdu": "برفانی تودہ"
+  },
+  {
+    "name": "Toxic Spill",
+    "name_urdu": "زہریلا مادہ کا رساؤ"
+  },
+  {
+    "name": "Oil Spill",
+    "name_urdu": " تیل کا رساؤ"
+  },
+  {
+    "name": "Famine",
+    "name_urdu": " قحط"
+  },
+  {
+    "name": "Terrorist Attack",
+    "name_urdu": " دہشت گرد حملہ"
+  },
+  {
+    "name": "Nuclear Disaster",
+    "name_urdu": " جوہری آفت"
+  },
+  {
+    "name": "Pandemic",
+    "name_urdu": "وبا"
+  },
+  {
+    "name": "Epidemic",
+    "name_urdu": " وبائی بیماری"
+  },
+  {
+    "name": "Blizzard",
+    "name_urdu": " برفانی طوفان"
+  },
+  {
+    "name": "Hailstorm",
+    "name_urdu": " اولے کا طوفان"
+  },
+  {
+    "name": "Sandstorm",
+    "name_urdu": " ریت کا طوفان"
+  },
+  {
+    "name": "Cyclone",
+    "name_urdu": " طوفان"
+  },
+  {
+    "name": "Heatwave",
+    "name_urdu": " گرمی کی لہر"
+  },
+  {
+    "name": "Nuclear Meltdown",
+    "name_urdu": " جوہری پگھلاؤ"
+  },
+  {
+    "name": "Bridge Collapse",
+    "name_urdu": " پل کا گرنا"
+  },
+  {
+    "name": "Building Collapse",
+    "name_urdu": " عمارت کا گرنا"
+  },
+  {
+    "name": "Gas Leak",
+    "name_urdu": "گیس کا رساؤ"
+  },
+  {
+    "name": "Lack of Clean Water",
+    "name_urdu": " صاف پانی کی کمی"
+  },
+  {
+    "name": "Forest Fire",
+    "name_urdu": "جنگل کی آگ"
+  },
+  {
+    "name": "Power Outage",
+    "name_urdu": "بجلی کا بند ہونا"
+  },
+  {
+    "name": "Hail",
+    "name_urdu": " اولے"
+  },
+  {
+    "name": "Mudslide",
+    "name_urdu": " کیچڑ کا تودہ"
+  },
+  {
+    "name": "Disease Outbreak",
+    "name_urdu": " بیماری کا پھیلنا"
+  }
+]

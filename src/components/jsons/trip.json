@@ -1,0 +1,102 @@
+[
+  {
+    "person": "Friend 1",
+    "message": "Hey, I was thinking, we should plan a vacation soon!",
+    "message_urdu": "ہیلو، میں سوچ رہا تھا کہ ہمیں جلد ہی ایک چھٹی کا منصوبہ بنانا چاہیے!"
+  },
+  {
+    "person": "Friend 2",
+    "message": "That’s a great idea! Where do you have in mind?",
+    "message_urdu": "یہ تو زبردست خیال ہے! تمہارے ذہن میں کون سی جگہ ہے؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "How about going to the mountains? Maybe somewhere like Murree or Naran.",
+    "message_urdu": "کیسا رہے گا اگر ہم پہاڑوں پر جائیں؟ شاید مری یا ناران جیسی کوئی جگہ۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "I love that! The weather there would be amazing this time of year.",
+    "message_urdu": "مجھے یہ پسند ہے! اس وقت سال کا موسم وہاں شاندار ہوگا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Exactly! We could go hiking, enjoy the scenic views, and relax.",
+    "message_urdu": "بالکل! ہم ہائیکنگ کر سکتے ہیں، خوبصورت مناظر کا لطف اٹھا سکتے ہیں اور آرام کر سکتے ہیں۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Do you think we should drive there or hire a tour service?",
+    "message_urdu": "کیا تمہیں لگتا ہے کہ ہمیں وہاں خود گاڑی چلانی چاہیے یا کوئی ٹور سروس لینی چاہیے؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "If we drive, it’ll be more flexible, but a tour service might be less stressful.",
+    "message_urdu": "اگر ہم خود گاڑی چلائیں تو یہ زیادہ لچکدار ہوگا، لیکن ٹور سروس کم پریشان کن ہو سکتی ہے۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "True. Let’s check the options and decide. When are you free?",
+    "message_urdu": "صحیح۔ چلو اختیارات دیکھتے ہیں اور فیصلہ کرتے ہیں۔ تم کب فارغ ہو؟"
+  },
+  {
+    "person": "Friend 1",
+    "message": "I’m free next weekend. What about you?",
+    "message_urdu": "میں اگلے ویک اینڈ پر فارغ ہوں۔ تمہارا کیا خیال ہے؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Same here! We can leave early Saturday morning and return Sunday evening.",
+    "message_urdu": "میں بھی فارغ ہوں! ہم ہفتہ کی صبح جلدی نکل سکتے ہیں اور اتوار کی شام واپس آ سکتے ہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Perfect! Let’s look for accommodations. Should we book a hotel or a guest house?",
+    "message_urdu": "بہترین! چلو رہائش کے لیے کچھ دیکھتے ہیں۔ کیا ہمیں ہوٹل بک کرنا چاہیے یا گیسٹ ہاؤس؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "A guest house might be cozier and more affordable. Let’s check reviews online.",
+    "message_urdu": "گیسٹ ہاؤس زیادہ آرام دہ اور سستا ہو سکتا ہے۔ چلو آن لائن جائزے دیکھتے ہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Good idea. And what about food? Should we cook or try local restaurants?",
+    "message_urdu": "اچھی تجویز۔ اور کھانے کا کیا؟ کیا ہمیں خود کھانا بنانا چاہیے یا مقامی ریستوران آزمانے چاہئیں؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Local restaurants for sure! Trying the local cuisine is part of the experience.",
+    "message_urdu": "یقیناً مقامی ریستوران! مقامی کھانے کو آزمانا تجربے کا حصہ ہے۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "You’re right. Let’s finalize the itinerary and book everything by tomorrow.",
+    "message_urdu": "تم بالکل صحیح ہو۔ چلو کل تک پورا منصوبہ اور بکنگ کر لیتے ہیں۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Sounds great! I’m already excited for this trip.",
+    "message_urdu": "زبردست لگ رہا ہے! میں اس سفر کے لیے پہلے ہی پرجوش ہوں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Me too! It’s going to be so much fun.",
+    "message_urdu": "میں بھی! یہ بہت مزے کا ہوگا۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Alright, let me know once you’ve checked the accommodations.",
+    "message_urdu": "ٹھیک ہے، مجھے بتاؤ جب تم نے رہائش دیکھ لی ہو۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Will do! And you check out the transportation options.",
+    "message_urdu": "ضرور! اور تم نقل و حمل کے اختیارات دیکھو۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "On it! This is going to be an unforgettable trip.",
+    "message_urdu": "یہ کر رہا ہوں! یہ ایک یادگار سفر ہوگا۔"
+  }
+]

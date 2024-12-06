@@ -1,0 +1,157 @@
+[
+  {
+    "person": "Girlfriend",
+    "message": "Hey love, how was your day?",
+    "message_urdu": "ہیلو پیارے، آپ کا دن کیسا گزرا؟"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "It was good, just a bit tiring. How about yours?",
+    "message_urdu": "اچھا تھا، بس تھوڑا تھکا دینے والا۔ آپ کا کیسا گزرا؟"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Pretty good! I missed you though.",
+    "message_urdu": "بہت اچھا! مگر میں نے تمہیں یاد کیا۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "I missed you too. Can’t wait to see you this weekend.",
+    "message_urdu": "میں نے بھی تمہیں یاد کیا۔ اس ویک اینڈ پر تم سے ملنے کا انتظار نہیں کر سکتا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Me neither! Do you have any plans in mind?",
+    "message_urdu": "میں بھی! کیا تمہارے ذہن میں کوئی پلان ہے؟"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Maybe a dinner date? Or a movie night?",
+    "message_urdu": "شاید ڈنر ڈیٹ؟ یا مووی نائٹ؟"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Sounds perfect! Let’s do both if we can.",
+    "message_urdu": "زبردست لگتا ہے! اگر ہو سکے تو دونوں کریں۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Absolutely! I’ll make the reservations.",
+    "message_urdu": "یقیناً! میں ریزرویشن کروا لوں گا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "You’re the best! What would I do without you?",
+    "message_urdu": "تم بہترین ہو! میں تمہارے بغیر کیا کروں گی؟"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "You’d still be amazing, but I’d be lost without you.",
+    "message_urdu": "تم پھر بھی شاندار ہو گی، مگر میں تمہارے بغیر کھویا ہوا ہوتا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Aww, you’re so sweet! Did you eat dinner yet?",
+    "message_urdu": "اوہ، تم بہت پیارے ہو! کیا تم نے ڈنر کر لیا؟"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Not yet. Was waiting to finish talking to you.",
+    "message_urdu": "ابھی نہیں۔ تم سے بات مکمل ہونے کا انتظار کر رہا تھا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "You should eat something! Don’t skip meals for me.",
+    "message_urdu": "تمہیں کچھ کھانا چاہیے! میرے لیے کھانے کو نہ چھوڑو۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Okay, I will. What about you?",
+    "message_urdu": "ٹھیک ہے، میں کھا لوں گا۔ تم نے کھایا؟"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "I did. Made some pasta today. Wish I could share it with you.",
+    "message_urdu": "ہاں، میں نے کھا لیا۔ آج پاستا بنایا۔ کاش میں تمہارے ساتھ شیئر کر سکتی۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Sounds delicious! Next time, I’m coming over.",
+    "message_urdu": "بہت مزیدار لگتا ہے! اگلی بار، میں آ رہا ہوں۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Deal! But you’ll have to help me cook.",
+    "message_urdu": "ٹھیک ہے! لیکن تمہیں مجھے کھانا بنانے میں مدد کرنی پڑے گی۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "I’d love to. Cooking with you would be fun.",
+    "message_urdu": "مجھے خوشی ہو گی۔ تمہارے ساتھ کھانا بنانا مزے کا ہو گا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "It’ll be amazing. By the way, I saw a cute puppy today!",
+    "message_urdu": "یہ حیرت انگیز ہوگا۔ ویسے، میں نے آج ایک پیارا سا کتا دیکھا!"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Really? Where? Did you take a picture?",
+    "message_urdu": "واقعی؟ کہاں؟ کیا تم نے تصویر لی؟"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Yes, I did! Sending it to you now.",
+    "message_urdu": "ہاں، لی تھی! ابھی تمہیں بھیج رہی ہوں۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Aww, so cute! We should get a puppy someday.",
+    "message_urdu": "اوہ، کتنا پیارا ہے! ہمیں کبھی کتا پالنا چاہیے۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "I’d love that! Let’s do it once we settle down.",
+    "message_urdu": "مجھے بہت پسند ہوگا! جب ہم سیٹل ہو جائیں گے تو یہ کریں۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Deal! I’m already excited.",
+    "message_urdu": "ٹھیک ہے! میں ابھی سے پرجوش ہوں۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "You’re adorable. Did you watch the show I recommended?",
+    "message_urdu": "تم بہت پیارے ہو۔ کیا تم نے وہ شو دیکھا جو میں نے تجویز کیا تھا؟"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "Not yet, but it’s on my list. I’ll watch it tonight.",
+    "message_urdu": "ابھی نہیں، لیکن یہ میری فہرست میں ہے۔ میں آج رات دیکھوں گا۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "You’ll love it! Let me know your thoughts.",
+    "message_urdu": "تمہیں یہ پسند آئے گا! مجھے اپنی رائے بتانا۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "I will, promise. Now, go rest. You’ve had a long day.",
+    "message_urdu": "میں بتاؤں گا، وعدہ۔ اب تم جاکر آرام کرو۔ تمہارا دن طویل رہا ہے۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Okay, but only if you promise to sleep early too.",
+    "message_urdu": "ٹھیک ہے، لیکن صرف اس صورت میں جب تم جلدی سونے کا وعدہ کرو۔"
+  },
+  {
+    "person": "Boyfriend",
+    "message": "I promise. Sweet dreams, love.",
+    "message_urdu": "میں وعدہ کرتا ہوں۔ پیارے خواب، جان۔"
+  },
+  {
+    "person": "Girlfriend",
+    "message": "Sweet dreams to you too. Goodnight!",
+    "message_urdu": "تمہیں بھی میٹھے خواب آئیں۔ شب بخیر!"
+  }
+]

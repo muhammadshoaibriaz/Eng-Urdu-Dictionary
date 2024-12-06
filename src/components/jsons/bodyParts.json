@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Head",
+    "name_urdu": "سر"
+  },
+  {
+    "name": "Face",
+    "name_urdu": "چہرہ"
+  },
+  {
+    "name": "Eye",
+    "name_urdu": "آنکھ"
+  },
+  {
+    "name": "Ear",
+    "name_urdu": "کان"
+  },
+  {
+    "name": "Nose",
+    "name_urdu": "ناک"
+  },
+  {
+    "name": "Mouth",
+    "name_urdu": "منہ"
+  },
+  {
+    "name": "Teeth",
+    "name_urdu": "دانت"
+  },
+  {
+    "name": "Tongue",
+    "name_urdu": "زبان"
+  },
+  {
+    "name": "Lips",
+    "name_urdu": "ہونٹ"
+  },
+  {
+    "name": "Cheeks",
+    "name_urdu": "گال"
+  },
+  {
+    "name": "Forehead",
+    "name_urdu": "پیشانی"
+  },
+  {
+    "name": "Chin",
+    "name_urdu": "ٹھوڑی"
+  },
+  {
+    "name": "Neck",
+    "name_urdu": "گردن"
+  },
+  {
+    "name": "Throat",
+    "name_urdu": "گلا"
+  },
+  {
+    "name": "Shoulder",
+    "name_urdu": "کندھا"
+  },
+  {
+    "name": "Arm",
+    "name_urdu": "بازو"
+  },
+  {
+    "name": "Elbow",
+    "name_urdu": "کہنی"
+  },
+  {
+    "name": "Hand",
+    "name_urdu": "ہاتھ"
+  },
+  {
+    "name": "Palm",
+    "name_urdu": "ہتھیلی"
+  },
+  {
+    "name": "Fingers",
+    "name_urdu": "انگلیاں"
+  },
+  {
+    "name": "Thumb",
+    "name_urdu": "انگوٹھا"
+  },
+  {
+    "name": "Chest",
+    "name_urdu": "چھاتی"
+  },
+  {
+    "name": "Ribs",
+    "name_urdu": "پسلیاں"
+  },
+  {
+    "name": "Abdomen",
+    "name_urdu": "پیٹ کا نچلا حصہ"
+  },
+  {
+    "name": "Stomach",
+    "name_urdu": "پیٹ"
+  },
+  {
+    "name": "Waist",
+    "name_urdu": "کمر"
+  },
+  {
+    "name": "Back",
+    "name_urdu": "پیٹھ"
+  },
+  {
+    "name": "Hip",
+    "name_urdu": "کولہا"
+  },
+  {
+    "name": "Leg",
+    "name_urdu": "ٹانگ"
+  },
+  {
+    "name": "Thigh",
+    "name_urdu": "ران"
+  },
+  {
+    "name": "Knee",
+    "name_urdu": "گھٹنا"
+  },
+  {
+    "name": "Calf",
+    "name_urdu": "پنڈلی"
+  },
+  {
+    "name": "Ankle",
+    "name_urdu": "ٹخنہ"
+  },
+  {
+    "name": "Foot",
+    "name_urdu": "پاؤں"
+  },
+  {
+    "name": "Heel",
+    "name_urdu": "ایڑی"
+  },
+  {
+    "name": "Toes",
+    "name_urdu": "پیر کی انگلیاں"
+  },
+  {
+    "name": "Hair",
+    "name_urdu": "بال"
+  },
+  {
+    "name": "Skull",
+    "name_urdu": "کھوپڑی"
+  },
+  {
+    "name": "Brain",
+    "name_urdu": "دماغ"
+  },
+  {
+    "name": "Heart",
+    "name_urdu": "دل"
+  },
+  {
+    "name": "Lungs",
+    "name_urdu": "پھیپھڑے"
+  },
+  {
+    "name": "Liver",
+    "name_urdu": "جگر"
+  },
+  {
+    "name": "Kidney",
+    "name_urdu": "گردہ"
+  },
+  {
+    "name": "Intestines",
+    "name_urdu": "آنتیں"
+  },
+  {
+    "name": "Nails",
+    "name_urdu": "ناخن"
+  },
+  {
+    "name": "Eyelashes",
+    "name_urdu": "پلکیں"
+  },
+  {
+    "name": "Eyebrows",
+    "name_urdu": "بھنویں"
+  },
+  {
+    "name": "Jaw",
+    "name_urdu": "جبڑا"
+  },
+  {
+    "name": "Bone",
+    "name_urdu": "ہڈی"
+  },
+  {
+    "name": "Skin",
+    "name_urdu": "جلد"
+  },
+  {
+    "name": "Muscle",
+    "name_urdu": "پٹھہ"
+  },
+  {
+    "name": "Veins",
+    "name_urdu": "رگیں"
+  },
+  {
+    "name": "Blood",
+    "name_urdu": "خون"
+  }
+]

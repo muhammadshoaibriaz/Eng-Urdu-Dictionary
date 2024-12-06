@@ -1,0 +1,573 @@
+{
+  "tenses": [
+    {
+      "tense": "Present Indefinite",
+      "urdu_name": "موجودہ سادہ",
+      "definition": "The Present Indefinite tense is used to describe actions that are regular, habitual, or universal truths. It talks about things that happen regularly or facts that are always true.",
+      "structure": {
+        "affirmative": "Subject + base verb (add 's' or 'es' for 3rd person singular)",
+        "negative": "Subject + do/does + not + base verb",
+        "interrogative": "Do/Does + subject + base verb?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I play football every day.",
+          "word_by_word": {
+            "I": "Subject",
+            "play": "Base verb (action)",
+            "football": "Object (what I play)",
+            "every day": "Frequency (when it happens)"
+          }
+        },
+        "negative": {
+          "sentence": "She does not like coffee.",
+          "word_by_word": {
+            "She": "Subject",
+            "does": "Auxiliary verb (helping verb for 3rd person singular)",
+            "not": "Negation (makes the sentence negative)",
+            "like": "Base verb (action)",
+            "coffee": "Object (what she does not like)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Do you work on weekends?",
+          "word_by_word": {
+            "Do": "Auxiliary verb (used to ask a question)",
+            "you": "Subject",
+            "work": "Base verb (action)",
+            "on weekends": "Time (when it happens)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں ہر روز فٹ بال کھیلتا ہوں۔",
+        "negative": "وہ کافی پسند نہیں کرتی۔",
+        "interrogative": "کیا آپ ویک اینڈ پر کام کرتے ہیں؟"
+      }
+    },
+    {
+      "tense": "Present Continuous",
+      "urdu_name": "موجودہ مسلسل",
+      "definition": "The Present Continuous tense is used to describe actions that are happening at the moment of speaking or around the present time. It is also used for temporary actions or situations.",
+      "structure": {
+        "affirmative": "Subject + am/are/is + base verb + ing",
+        "negative": "Subject + am/are/is + not + base verb + ing",
+        "interrogative": "Am/Are/Is + subject + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I am reading a book.",
+          "word_by_word": {
+            "I": "Subject",
+            "am": "Auxiliary verb (shows present continuous)",
+            "reading": "Base verb + ing (action happening now)",
+            "a book": "Object (what I am reading)"
+          }
+        },
+        "negative": {
+          "sentence": "They are not playing soccer.",
+          "word_by_word": {
+            "They": "Subject",
+            "are": "Auxiliary verb (shows present continuous)",
+            "not": "Negation (makes the sentence negative)",
+            "playing": "Base verb + ing (action happening now)",
+            "soccer": "Object (what they are playing)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Is she studying for the exam?",
+          "word_by_word": {
+            "Is": "Auxiliary verb (used to ask a question)",
+            "she": "Subject",
+            "studying": "Base verb + ing (action happening now)",
+            "for the exam": "Purpose (why she is studying)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں کتاب پڑھ رہا ہوں۔",
+        "negative": "وہ فٹ بال نہیں کھیل رہے ہیں۔",
+        "interrogative": "کیا وہ امتحان کے لیے پڑھ رہی ہے؟"
+      }
+    },
+    {
+      "tense": "Present Perfect",
+      "urdu_name": "موجودہ کامل",
+      "definition": "The Present Perfect tense is used to describe actions that were completed at some point in the past but are relevant to or have an impact on the present. It can also express experiences.",
+      "structure": {
+        "affirmative": "Subject + have/has + past participle",
+        "negative": "Subject + have/has + not + past participle",
+        "interrogative": "Have/Has + subject + past participle?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I have finished my homework.",
+          "word_by_word": {
+            "I": "Subject",
+            "have": "Auxiliary verb (shows present perfect)",
+            "finished": "Past participle (action completed)",
+            "my homework": "Object (what I have finished)"
+          }
+        },
+        "negative": {
+          "sentence": "She has not visited Paris.",
+          "word_by_word": {
+            "She": "Subject",
+            "has": "Auxiliary verb (used for 3rd person singular)",
+            "not": "Negation (makes the sentence negative)",
+            "visited": "Past participle (completed action)",
+            "Paris": "Object (where she has not visited)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Have they seen the movie?",
+          "word_by_word": {
+            "Have": "Auxiliary verb (used to ask a question)",
+            "they": "Subject",
+            "seen": "Past participle (action completed)",
+            "the movie": "Object (what they have seen)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں نے اپنا ہوم ورک مکمل کر لیا ہے۔",
+        "negative": "وہ پیرس نہیں گئی ہے۔",
+        "interrogative": "کیا انہوں نے فلم دیکھی ہے؟"
+      }
+    },
+    {
+      "tense": "Present Perfect Continuous",
+      "urdu_name": "موجودہ کامل مسلسل",
+      "definition": "The Present Perfect Continuous tense is used to describe actions that began in the past and are still continuing in the present. It emphasizes the duration of an action.",
+      "structure": {
+        "affirmative": "Subject + have/has + been + base verb + ing",
+        "negative": "Subject + have/has + not + been + base verb + ing",
+        "interrogative": "Have/Has + subject + been + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "They have been working on this project for hours.",
+          "word_by_word": {
+            "They": "Subject",
+            "have been": "Auxiliary verbs (show continuity in the present perfect tense)",
+            "working": "Base verb + ing (action happening over time)",
+            "on this project": "Object (what they are working on)",
+            "for hours": "Duration (how long the action has been happening)"
+          }
+        },
+        "negative": {
+          "sentence": "She has not been studying since morning.",
+          "word_by_word": {
+            "She": "Subject",
+            "has not been": "Auxiliary verbs + negation (makes the sentence negative)",
+            "studying": "Base verb + ing (action happening over time)",
+            "since morning": "Time (when the action started)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Have they been waiting for the bus?",
+          "word_by_word": {
+            "Have": "Auxiliary verb (used to ask a question)",
+            "they": "Subject",
+            "been": "Auxiliary verb (indicates continuity)",
+            "waiting": "Base verb + ing (action happening over time)",
+            "for the bus": "Object (what they are waiting for)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "وہ کئی گھنٹوں سے اس پروجیکٹ پر کام کر رہے ہیں۔",
+        "negative": "وہ صبح سے نہیں پڑھ رہی ہے۔",
+        "interrogative": "کیا وہ بس کا انتظار کر رہے ہیں؟"
+      }
+    },
+    {
+      "tense": "Past Indefinite",
+      "urdu_name": "ماضی سادہ",
+      "definition": "The Past Indefinite tense is used to describe actions that were completed in the past. It indicates a specific point in time.",
+      "structure": {
+        "affirmative": "Subject + past simple verb",
+        "negative": "Subject + did + not + base verb",
+        "interrogative": "Did + subject + base verb?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "He went to the market yesterday.",
+          "word_by_word": {
+            "He": "Subject",
+            "went": "Past simple verb (action completed in the past)",
+            "to the market": "Object (where he went)",
+            "yesterday": "Time (when it happened)"
+          }
+        },
+        "negative": {
+          "sentence": "They did not finish the work on time.",
+          "word_by_word": {
+            "They": "Subject",
+            "did not": "Auxiliary verb + negation (makes the sentence negative)",
+            "finish": "Base verb (action not completed)",
+            "the work": "Object (what they did not finish)",
+            "on time": "Time (when it should have been completed)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Did you see the movie last night?",
+          "word_by_word": {
+            "Did": "Auxiliary verb (used to ask a question)",
+            "you": "Subject",
+            "see": "Base verb (action done in the past)",
+            "the movie": "Object (what was seen)",
+            "last night": "Time (when it happened)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "وہ کل بازار گیا۔",
+        "negative": "انہوں نے وقت پر کام مکمل نہیں کیا۔",
+        "interrogative": "کیا آپ نے کل رات فلم دیکھی؟"
+      }
+    },
+    {
+      "tense": "Past Continuous",
+      "urdu_name": "ماضی مسلسل",
+      "definition": "The Past Continuous tense is used to describe actions that were ongoing at a specific point in the past. It indicates an action in progress.",
+      "structure": {
+        "affirmative": "Subject + was/were + base verb + ing",
+        "negative": "Subject + was/were + not + base verb + ing",
+        "interrogative": "Was/Were + subject + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "She was reading a novel at 8 PM.",
+          "word_by_word": {
+            "She": "Subject",
+            "was": "Auxiliary verb (shows past continuous)",
+            "reading": "Base verb + ing (action happening in the past)",
+            "a novel": "Object (what she was reading)",
+            "at 8 PM": "Time (when the action was happening)"
+          }
+        },
+        "negative": {
+          "sentence": "They were not playing in the park.",
+          "word_by_word": {
+            "They": "Subject",
+            "were not": "Auxiliary verb + negation (makes the sentence negative)",
+            "playing": "Base verb + ing (action not happening)",
+            "in the park": "Place (where it was not happening)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Was he watching TV when you called?",
+          "word_by_word": {
+            "Was": "Auxiliary verb (used to ask a question)",
+            "he": "Subject",
+            "watching": "Base verb + ing (action happening in the past)",
+            "TV": "Object (what he was watching)",
+            "when you called": "Time (another past action)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "وہ رات آٹھ بجے ناول پڑھ رہی تھی۔",
+        "negative": "وہ پارک میں کھیل نہیں رہے تھے۔",
+        "interrogative": "کیا وہ ٹی وی دیکھ رہا تھا جب آپ نے فون کیا؟"
+      }
+    },
+    {
+      "tense": "Past Perfect",
+      "urdu_name": "ماضی کامل",
+      "definition": "The Past Perfect tense is used to describe an action that was completed before another action in the past.",
+      "structure": {
+        "affirmative": "Subject + had + past participle",
+        "negative": "Subject + had + not + past participle",
+        "interrogative": "Had + subject + past participle?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "She had finished her homework before the teacher arrived.",
+          "word_by_word": {
+            "She": "Subject",
+            "had": "Auxiliary verb (shows past perfect)",
+            "finished": "Past participle (action completed)",
+            "her homework": "Object (what she finished)",
+            "before the teacher arrived": "Time clause (when it happened)"
+          }
+        },
+        "negative": {
+          "sentence": "They had not eaten breakfast by 9 AM.",
+          "word_by_word": {
+            "They": "Subject",
+            "had not": "Auxiliary verb + negation (makes the sentence negative)",
+            "eaten": "Past participle (action not completed)",
+            "breakfast": "Object (what they had not eaten)",
+            "by 9 AM": "Time (when it should have been completed)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Had you ever visited that museum before?",
+          "word_by_word": {
+            "Had": "Auxiliary verb (used to ask a question)",
+            "you": "Subject",
+            "ever visited": "Past participle (action in the past)",
+            "that museum": "Object (what was visited)",
+            "before": "Time (prior to another event)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "وہ اپنے استاد کے آنے سے پہلے اپنا ہوم ورک مکمل کر چکی تھی۔",
+        "negative": "انہوں نے صبح 9 بجے تک ناشتہ نہیں کیا تھا۔",
+        "interrogative": "کیا آپ نے کبھی اس میوزیم کا دورہ کیا تھا؟"
+      }
+    },
+    {
+      "tense": "Past Perfect Continuous",
+      "urdu_name": "ماضی کامل مسلسل",
+      "definition": "The Past Perfect Continuous tense is used to describe actions that were ongoing for a duration of time before another action in the past.",
+      "structure": {
+        "affirmative": "Subject + had + been + base verb + ing",
+        "negative": "Subject + had + not + been + base verb + ing",
+        "interrogative": "Had + subject + been + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I had been waiting for the bus for 30 minutes before it arrived.",
+          "word_by_word": {
+            "I": "Subject",
+            "had been": "Auxiliary verbs (show past perfect continuous)",
+            "waiting": "Base verb + ing (action ongoing)",
+            "for the bus": "Object (what I was waiting for)",
+            "for 30 minutes": "Duration (how long the action continued)",
+            "before it arrived": "Time clause (another past action)"
+          }
+        },
+        "negative": {
+          "sentence": "They had not been working on the project for a long time.",
+          "word_by_word": {
+            "They": "Subject",
+            "had not been": "Auxiliary verbs + negation (makes the sentence negative)",
+            "working": "Base verb + ing (action not ongoing)",
+            "on the project": "Object (what they were working on)",
+            "for a long time": "Duration (how long the action continued)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Had she been studying for hours before the exam?",
+          "word_by_word": {
+            "Had": "Auxiliary verb (used to ask a question)",
+            "she": "Subject",
+            "been": "Auxiliary verb (indicates continuity)",
+            "studying": "Base verb + ing (action ongoing)",
+            "for hours": "Duration (how long the action continued)",
+            "before the exam": "Time clause (another past event)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں بس کے آنے سے پہلے 30 منٹ سے انتظار کر رہا تھا۔",
+        "negative": "انہوں نے بہت زیادہ وقت تک پروجیکٹ پر کام نہیں کیا تھا۔",
+        "interrogative": "کیا وہ امتحان سے پہلے کئی گھنٹوں سے پڑھ رہی تھی؟"
+      }
+    },
+    {
+      "tense": "Future Indefinite",
+      "urdu_name": "مستقبل سادہ",
+      "definition": "The Future Indefinite tense is used to describe actions that will happen in the future. It indicates decisions or plans made at the moment of speaking.",
+      "structure": {
+        "affirmative": "Subject + will + base verb",
+        "negative": "Subject + will + not + base verb",
+        "interrogative": "Will + subject + base verb?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I will call you tomorrow.",
+          "word_by_word": {
+            "I": "Subject",
+            "will": "Auxiliary verb (shows future tense)",
+            "call": "Base verb (action to happen)",
+            "you": "Object (who will be called)",
+            "tomorrow": "Time (when it will happen)"
+          }
+        },
+        "negative": {
+          "sentence": "She will not attend the meeting.",
+          "word_by_word": {
+            "She": "Subject",
+            "will not": "Auxiliary verb + negation (makes the sentence negative)",
+            "attend": "Base verb (action not to happen)",
+            "the meeting": "Object (what she will not attend)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Will they complete the task by next week?",
+          "word_by_word": {
+            "Will": "Auxiliary verb (used to ask a question)",
+            "they": "Subject",
+            "complete": "Base verb (action to happen)",
+            "the task": "Object (what they will complete)",
+            "by next week": "Time (deadline for the action)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں آپ کو کل فون کروں گا۔",
+        "negative": "وہ میٹنگ میں شرکت نہیں کرے گی۔",
+        "interrogative": "کیا وہ اگلے ہفتے تک کام مکمل کر لیں گے؟"
+      }
+    },
+    {
+      "tense": "Future Continuous",
+      "urdu_name": "مستقبل مسلسل",
+      "definition": "The Future Continuous tense is used to describe actions that will be happening at a particular moment in the future. It emphasizes the ongoing nature of an event or action.",
+      "structure": {
+        "affirmative": "Subject + will + be + base verb + ing",
+        "negative": "Subject + will + not + be + base verb + ing",
+        "interrogative": "Will + subject + be + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "I will be reading a book at 8 PM.",
+          "word_by_word": {
+            "I": "Subject",
+            "will": "Auxiliary verb (shows future tense)",
+            "be": "Auxiliary verb (indicates continuous action)",
+            "reading": "Base verb + ing (ongoing action)",
+            "a book": "Object (what I will be reading)",
+            "at 8 PM": "Time (when it will happen)"
+          }
+        },
+        "negative": {
+          "sentence": "She will not be attending the party tomorrow.",
+          "word_by_word": {
+            "She": "Subject",
+            "will not": "Auxiliary verb + negation (makes the sentence negative)",
+            "be": "Auxiliary verb (indicates continuous action)",
+            "attending": "Base verb + ing (action happening in the future)",
+            "the party": "Object (what she will not be attending)",
+            "tomorrow": "Time (when it will happen)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Will they be traveling next week?",
+          "word_by_word": {
+            "Will": "Auxiliary verb (used to ask a question)",
+            "they": "Subject",
+            "be": "Auxiliary verb (indicates continuous action)",
+            "traveling": "Base verb + ing (action happening in the future)",
+            "next week": "Time (when it will happen)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "میں 8 بجے کتاب پڑھ رہا ہوں گا۔",
+        "negative": "وہ کل پارٹی میں شرکت نہیں کرے گی۔",
+        "interrogative": "کیا وہ اگلے ہفتے سفر کر رہے ہوں گے؟"
+      }
+    },
+    {
+      "tense": "Future Perfect",
+      "urdu_name": "مستقبل کامل",
+      "definition": "The Future Perfect tense is used to describe an action that will be completed before a specific time or event in the future.",
+      "structure": {
+        "affirmative": "Subject + will + have + past participle",
+        "negative": "Subject + will + not + have + past participle",
+        "interrogative": "Will + subject + have + past participle?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "By 2025, I will have completed my degree.",
+          "word_by_word": {
+            "By 2025": "Time (when the action will be completed)",
+            "I": "Subject",
+            "will": "Auxiliary verb (shows future tense)",
+            "have": "Auxiliary verb (indicates future perfect)",
+            "completed": "Past participle (action completed)",
+            "my degree": "Object (what I will have completed)"
+          }
+        },
+        "negative": {
+          "sentence": "They will not have finished the work by Friday.",
+          "word_by_word": {
+            "They": "Subject",
+            "will not": "Auxiliary verb + negation (makes the sentence negative)",
+            "have": "Auxiliary verb (indicates future perfect)",
+            "finished": "Past participle (action completed)",
+            "the work": "Object (what they will have finished)",
+            "by Friday": "Time (when the action will be completed)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Will you have finished your homework by tomorrow?",
+          "word_by_word": {
+            "Will": "Auxiliary verb (used to ask a question)",
+            "you": "Subject",
+            "have": "Auxiliary verb (indicates future perfect)",
+            "finished": "Past participle (action completed)",
+            "your homework": "Object (what you will have finished)",
+            "by tomorrow": "Time (when the action will be completed)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "2025 تک میں اپنی ڈگری مکمل کر لوں گا۔",
+        "negative": "وہ جمعہ تک کام مکمل نہیں کر پائیں گے۔",
+        "interrogative": "کیا آپ کل تک اپنا ہوم ورک مکمل کر لیں گے؟"
+      }
+    },
+    {
+      "tense": "Future Perfect Continuous",
+      "urdu_name": "مستقبل کامل مسلسل",
+      "definition": "The Future Perfect Continuous tense is used to describe actions that will have been happening for a duration of time up until a specific point in the future.",
+      "structure": {
+        "affirmative": "Subject + will + have + been + base verb + ing",
+        "negative": "Subject + will + not + have + been + base verb + ing",
+        "interrogative": "Will + subject + have + been + base verb + ing?"
+      },
+      "examples": {
+        "affirmative": {
+          "sentence": "By next year, I will have been working here for five years.",
+          "word_by_word": {
+            "By next year": "Time (when the action will be completed)",
+            "I": "Subject",
+            "will": "Auxiliary verb (shows future tense)",
+            "have": "Auxiliary verb (indicates future perfect continuous)",
+            "been": "Auxiliary verb (indicates ongoing action)",
+            "working": "Base verb + ing (ongoing action)",
+            "here": "Place (where the action is happening)",
+            "for five years": "Duration (how long the action will last)"
+          }
+        },
+        "negative": {
+          "sentence": "They will not have been living in this city for long.",
+          "word_by_word": {
+            "They": "Subject",
+            "will not": "Auxiliary verb + negation (makes the sentence negative)",
+            "have": "Auxiliary verb (indicates future perfect continuous)",
+            "been": "Auxiliary verb (indicates ongoing action)",
+            "living": "Base verb + ing (ongoing action)",
+            "in this city": "Place (where the action is happening)",
+            "for long": "Duration (how long the action will last)"
+          }
+        },
+        "interrogative": {
+          "sentence": "Will you have been working on this project for a year by next month?",
+          "word_by_word": {
+            "Will": "Auxiliary verb (used to ask a question)",
+            "you": "Subject",
+            "have": "Auxiliary verb (indicates future perfect continuous)",
+            "been": "Auxiliary verb (indicates ongoing action)",
+            "working": "Base verb + ing (ongoing action)",
+            "on this project": "Object (what you will be working on)",
+            "for a year": "Duration (how long the action will last)",
+            "by next month": "Time (when the action will be completed)"
+          }
+        }
+      },
+      "example_urdu": {
+        "affirmative": "اگلے سال تک میں یہاں پانچ سال سے کام کر رہا ہوں گا۔",
+        "negative": "وہ اس شہر میں زیادہ وقت تک نہیں رہیں گے۔",
+        "interrogative": "کیا آپ اگلے ماہ تک اس پروجیکٹ پر ایک سال سے کام کر رہے ہوں گے؟"
+      }
+    }
+  ]
+}

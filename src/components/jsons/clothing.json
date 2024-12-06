@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Wear clothes",
+    "name_urdu": "کپڑے پہننا"
+  },
+  {
+    "name": "Take off clothes",
+    "name_urdu": "کپڑے اتارنا"
+  },
+  {
+    "name": "Put on shoes",
+    "name_urdu": "جوتے پہننا"
+  },
+  {
+    "name": "Take off shoes",
+    "name_urdu": "جوتے اتارنا"
+  },
+  {
+    "name": "Button up",
+    "name_urdu": "بٹن لگانا"
+  },
+  {
+    "name": "Zip up",
+    "name_urdu": "زیپ لگانا"
+  },
+  {
+    "name": "Tie shoelaces",
+    "name_urdu": "چمچوں کے تسمے باندھنا"
+  },
+  {
+    "name": "Untie shoelaces",
+    "name_urdu": "چمچوں کے تسمے کھولنا"
+  },
+  {
+    "name": "Iron clothes",
+    "name_urdu": "کپڑے استری کرنا"
+  },
+  {
+    "name": "Fold clothes",
+    "name_urdu": "کپڑے تہہ کرنا"
+  },
+  {
+    "name": "Hang clothes",
+    "name_urdu": "کپڑے لٹکانا"
+  },
+  {
+    "name": "Wash clothes",
+    "name_urdu": "کپڑے دھونا"
+  },
+  {
+    "name": "Dry clothes",
+    "name_urdu": "کپڑے خشک کرنا"
+  },
+  {
+    "name": "Sew clothes",
+    "name_urdu": "کپڑے سینا"
+  },
+  {
+    "name": "Adjust clothing",
+    "name_urdu": "کپڑے درست کرنا"
+  },
+  {
+    "name": "Put on jacket",
+    "name_urdu": "جیکٹ پہننا"
+  },
+  {
+    "name": "Take off jacket",
+    "name_urdu": "جیکٹ اتارنا"
+  },
+  {
+    "name": "Wear a hat",
+    "name_urdu": "ٹوپی پہننا"
+  },
+  {
+    "name": "Take off hat",
+    "name_urdu": "ٹوپی اتارنا"
+  },
+  {
+    "name": "Wear gloves",
+    "name_urdu": "دستانے پہننا"
+  },
+  {
+    "name": "Take off gloves",
+    "name_urdu": "دستانے اتارنا"
+  },
+  {
+    "name": "Wear socks",
+    "name_urdu": "موزے پہننا"
+  },
+  {
+    "name": "Take off socks",
+    "name_urdu": "موزے اتارنا"
+  },
+  {
+    "name": "Wear a tie",
+    "name_urdu": "ٹائی پہننا"
+  },
+  {
+    "name": "Take off tie",
+    "name_urdu": "ٹائی اتارنا"
+  },
+  {
+    "name": "Wear a belt",
+    "name_urdu": "بیلٹ پہننا"
+  },
+  {
+    "name": "Take off belt",
+    "name_urdu": "بیلٹ اتارنا"
+  },
+  {
+    "name": "Wear glasses",
+    "name_urdu": "چشمہ پہننا"
+  },
+  {
+    "name": "Take off glasses",
+    "name_urdu": "چشمہ اتارنا"
+  },
+  {
+    "name": "Wear a scarf",
+    "name_urdu": "اسکارف پہننا"
+  },
+  {
+    "name": "Take off scarf",
+    "name_urdu": "اسکارف اتارنا"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "person": "Friend 1",
+    "message": "Hey, how did your job interview go today?",
+    "message_urdu": "ہیلو، آج تمہارا جاب انٹرویو کیسا رہا؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "It went well, I think. They asked some tough questions though.",
+    "message_urdu": "میرے خیال میں اچھا ہوا۔ لیکن انہوں نے کچھ مشکل سوالات پوچھے۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "What kind of questions did they ask?",
+    "message_urdu": "انہوں نے کس قسم کے سوالات پوچھے؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Mostly about my experience and how I handle challenges at work.",
+    "message_urdu": "زیادہ تر میرے تجربے کے بارے میں اور میں کام میں چیلنجز کو کیسے ہینڈل کرتا ہوں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Did you feel confident while answering?",
+    "message_urdu": "کیا تمہیں جواب دیتے وقت اعتماد محسوس ہوا؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "For the most part, yes. But I stumbled a bit on one technical question.",
+    "message_urdu": "زیادہ تر وقت، ہاں۔ لیکن ایک تکنیکی سوال پر میں تھوڑا رک گیا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "What was the question about?",
+    "message_urdu": "سوال کس بارے میں تھا؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "It was about optimizing a database query. I gave an answer, but I’m not sure if it was the best one.",
+    "message_urdu": "یہ ڈیٹا بیس کوئری کو بہتر بنانے کے بارے میں تھا۔ میں نے جواب دیا، لیکن یقین نہیں ہے کہ یہ بہترین جواب تھا یا نہیں۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Don’t worry too much. Interviews aren’t just about one question.",
+    "message_urdu": "زیادہ فکر نہ کرو۔ انٹرویوز صرف ایک سوال کے بارے میں نہیں ہوتے۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "True. They seemed impressed by my previous projects though.",
+    "message_urdu": "ٹھیک ہے۔ وہ میرے پچھلے پروجیکٹس سے متاثر لگ رہے تھے۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "That’s great! What projects did you highlight?",
+    "message_urdu": "یہ تو زبردست ہے! تم نے کون سے پروجیکٹس کو نمایاں کیا؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "I talked about the e-commerce platform I built and a mobile app I developed for booking appointments.",
+    "message_urdu": "میں نے ای کامرس پلیٹ فارم کے بارے میں بات کی جو میں نے بنایا تھا اور ایک موبائل ایپ کے بارے میں جسے میں نے اپوائنٹمنٹس بک کرنے کے لیے تیار کیا تھا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Those are impressive! Did they ask about teamwork or leadership?",
+    "message_urdu": "یہ متاثر کن ہیں! کیا انہوں نے ٹیم ورک یا قیادت کے بارے میں پوچھا؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Yes, they asked how I’ve handled conflicts in a team. I shared an example from my internship.",
+    "message_urdu": "ہاں، انہوں نے پوچھا کہ میں نے ٹیم میں تنازعات کو کیسے ہینڈل کیا۔ میں نے اپنے انٹرنشپ سے ایک مثال شیئر کی۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "That’s smart. Did they say when they’ll let you know?",
+    "message_urdu": "یہ سمجھداری کی بات ہے۔ کیا انہوں نے بتایا کہ وہ کب تک جواب دیں گے؟"
+  },
+  {
+    "person": "Friend 2",
+    "message": "They said within a week. Fingers crossed!",
+    "message_urdu": "انہوں نے کہا ایک ہفتے کے اندر۔ دعا کریں!"
+  },
+  {
+    "person": "Friend 1",
+    "message": "I’m sure you’ll get it! You deserve this job.",
+    "message_urdu": "مجھے یقین ہے کہ تمہیں یہ نوکری ملے گی! تم اس کے حقدار ہو۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "Thanks for the encouragement! Let’s hope for the best.",
+    "message_urdu": "حوصلہ افزائی کے لیے شکریہ! امید کرتے ہیں کہ سب اچھا ہوگا۔"
+  },
+  {
+    "person": "Friend 1",
+    "message": "Always rooting for you! Let’s celebrate once you get the offer.",
+    "message_urdu": "ہمیشہ تمہارے لیے دعاگو ہوں! جب تمہیں آفر ملے تو جشن منائیں گے۔"
+  },
+  {
+    "person": "Friend 2",
+    "message": "For sure! You’re the best.",
+    "message_urdu": "یقیناً! تم بہترین ہو۔"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "I am feeling sick",
+    "name_urdu": "مجھے بیمار محسوس ہو رہا ہے"
+  },
+  {
+    "name": "The food is cold",
+    "name_urdu": "کھانا ٹھنڈا ہے"
+  },
+  {
+    "name": "There is a problem with the internet",
+    "name_urdu": "انٹرنیٹ میں مسئلہ ہے"
+  },
+  {
+    "name": "The room is too noisy",
+    "name_urdu": "کمرہ بہت شور والا ہے"
+  },
+  {
+    "name": "I don't like the service",
+    "name_urdu": "مجھے سروس پسند نہیں آئی"
+  },
+  {
+    "name": "The item is damaged",
+    "name_urdu": "شے خراب ہے"
+  },
+  {
+    "name": "The bill is incorrect",
+    "name_urdu": "بل غلط ہے"
+  },
+  {
+    "name": "The seat is uncomfortable",
+    "name_urdu": "سیٹ آرام دہ نہیں ہے"
+  },
+  {
+    "name": "I lost my wallet",
+    "name_urdu": "میرا بٹوہ گم ہوگیا ہے"
+  },
+  {
+    "name": "There is no hot water",
+    "name_urdu": "گرم پانی نہیں ہے"
+  },
+  {
+    "name": "The air conditioner is not working",
+    "name_urdu": "ایئر کنڈیشنر کام نہیں کر رہا"
+  },
+  {
+    "name": "My phone is not charging",
+    "name_urdu": "میرا فون چارج نہیں ہو رہا"
+  },
+  {
+    "name": "The TV is broken",
+    "name_urdu": "ٹی وی ٹوٹا ہوا ہے"
+  },
+  {
+    "name": "There is a delay in delivery",
+    "name_urdu": "ترسیل میں تاخیر ہو رہی ہے"
+  },
+  {
+    "name": "The product is not as described",
+    "name_urdu": "مصنوعات جیسی بیان کی گئی تھی ویسی نہیں ہے"
+  },
+  {
+    "name": "I am not satisfied with the product",
+    "name_urdu": "میں مصنوعات سے مطمئن نہیں ہوں"
+  },
+  {
+    "name": "The heater is not working",
+    "name_urdu": "ہیٹر کام نہیں کر رہا"
+  },
+  {
+    "name": "The elevator is out of order",
+    "name_urdu": "لفٹ خراب ہے"
+  },
+  {
+    "name": "There is a bad smell in the room",
+    "name_urdu": "کمرے میں بدبو آ رہی ہے"
+  },
+  {
+    "name": "I was overcharged",
+    "name_urdu": "مجھ سے زیادہ پیسہ وصول کیا گیا"
+  },
+  {
+    "name": "I didn't get my refund",
+    "name_urdu": "مجھے میرا ریفنڈ نہیں ملا"
+  },
+  {
+    "name": "I am not getting the expected support",
+    "name_urdu": "مجھے متوقع حمایت نہیں مل رہی"
+  },
+  {
+    "name": "The staff is rude",
+    "name_urdu": "عملہ بدتمیز ہے"
+  },
+  {
+    "name": "The product is out of stock",
+    "name_urdu": "مصنوعات اسٹاک میں نہیں ہے"
+  },
+  {
+    "name": "My order was canceled",
+    "name_urdu": "میرا آرڈر منسوخ کر دیا گیا"
+  },
+  {
+    "name": "The Wi-Fi is very slow",
+    "name_urdu": "وائی فائی بہت سست ہے"
+  }
+]
