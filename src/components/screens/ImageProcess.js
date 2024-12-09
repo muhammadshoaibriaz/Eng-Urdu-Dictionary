@@ -1,4 +1,4 @@
-import {View, Text, StyleSheet, StatusBar} from 'react-native';
+import {View, Text, StyleSheet, StatusBar, ScrollView} from 'react-native';
 import React, {useEffect, useState} from 'react';
 import {Button} from 'react-native-paper';
 import {launchImageLibrary} from 'react-native-image-picker';
@@ -46,12 +46,16 @@ export default function ImageProcess({navigation, route}) {
         </View>
       ) : (
         <View style={styles.innerContainer}>
-          <Text style={styles.text}>{!text ? 'No text in image' : text}</Text>
-          <Text
-            style={[styles.text, {textAlign: 'center', marginTop: 10}]}
-            onPress={pickImage}>
-            Pick Image
-          </Text>
+          <ScrollView
+            showsVerticalScrollIndicator={false}
+            contentContainerStyle={{paddingBottom: 90}}>
+            <Text style={styles.text}>{!text ? 'Processing...' : text}</Text>
+            <Text
+              style={[styles.text, {textAlign: 'center', marginTop: 10}]}
+              onPress={pickImage}>
+              Pick Image
+            </Text>
+          </ScrollView>
         </View>
       )}
     </View>

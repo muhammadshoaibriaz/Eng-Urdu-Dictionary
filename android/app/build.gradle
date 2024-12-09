@@ -120,6 +120,8 @@ dependencies {
     implementation("com.facebook.react:react-android")
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-fs')
+
+
     // implementation 'com.amazon.device.messaging:amazon-device-messaging-sdk:3.0.0'
     // implementation 'com.amazon.android:appstore-sdk-for-android:1.0.0'
 

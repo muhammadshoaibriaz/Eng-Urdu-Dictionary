@@ -1,11 +1,4 @@
-import {
-  View,
-  Text,
-  StatusBar,
-  TouchableOpacity,
-  StyleSheet,
-  FlatList,
-} from 'react-native';
+import {View, StatusBar, StyleSheet, FlatList} from 'react-native';
 import React, {useState} from 'react';
 import Headers from '../custom/Headers';
 import LearnButton from '../custom/LearnButton';
@@ -16,66 +9,79 @@ export default function Conversation({navigation, route}) {
       topicEng: 'Conversation Between Two Passengers',
       topicUrd: 'دو مسافروں کے درمیان گفتگو',
       url: require('../../assets/images/body.png'),
+      name: 'passengers.json',
     },
     {
       topicEng: 'Chat Between Girlfriend and Boyfriend',
       topicUrd: 'گرل فرینڈ اور بوائے فرینڈ کے درمیان بات چیت',
       url: require('../../assets/images/speech-bubble.png'),
+      name: 'coupleChat.json',
     },
     {
       topicEng: 'Discussion About a Job Interview',
       topicUrd: 'نوکری کے انٹرویو کے بارے میں بحث',
       url: require('../../assets/images/meeting.png'),
+      name: 'jobInterview.json',
     },
     {
       topicEng: 'Conversation About a Vacation Plan',
       topicUrd: 'چھٹی کے منصوبے کے بارے میں بات چیت',
       url: require('../../assets/images/vocational.png'),
+      name: 'trip.json',
     },
     {
       topicEng: 'Casual Talk Between Friends',
       topicUrd: 'دوستوں کے درمیان غیر رسمی بات چیت',
       url: require('../../assets/images/body.png'),
+      name: 'talk.json',
     },
     {
       topicEng: 'Disagreement Between Two Colleagues',
       topicUrd: 'دو ساتھیوں کے درمیان اختلاف',
       url: require('../../assets/images/body.png'),
+      name: 'disagreement.json',
     },
     {
       topicEng: 'Romantic Conversation Between Lovers',
       topicUrd: 'محبت کرنے والوں کے درمیان رومانوی گفتگو',
       url: require('../../assets/images/body.png'),
+      name: 'romantic.json',
     },
     {
       topicEng: 'Proposal Chat Between a Couple',
       topicUrd: 'جوڑے کے درمیان پرپوزل چیٹ',
       url: require('../../assets/images/speech-bubble.png'),
+      name: 'proposal.json',
     },
     {
       topicEng: 'Discussion About a Dream Wedding',
       topicUrd: 'خوابوں کی شادی کے بارے میں بات چیت',
       url: require('../../assets/images/meeting.png'),
+      name: 'wedding.json',
     },
     {
       topicEng: 'A Romantic Poetry Exchange',
       topicUrd: 'رومانوی شاعری کا تبادلہ',
       url: require('../../assets/images/vocational.png'),
+      name: 'poetry.json',
     },
     {
       topicEng: 'Flirty Conversation Between Crushes',
       topicUrd: 'پسندیدگی رکھنے والوں کے درمیان فلرٹی بات چیت',
       url: require('../../assets/images/body.png'),
+      name: 'crush.json',
     },
     {
       topicEng: 'First Meeting Between a Couple',
       topicUrd: 'ایک جوڑے کے درمیان پہلی ملاقات',
       url: require('../../assets/images/meeting.png'),
+      name: 'meetup.json',
     },
     {
       topicEng: 'Heartfelt Confession of Love',
       topicUrd: 'محبت کا دل سے اعتراف',
       url: require('../../assets/images/body.png'),
+      name: 'love.json',
     },
   ]);
 

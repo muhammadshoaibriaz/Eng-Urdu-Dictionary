@@ -50,7 +50,7 @@ export default function Tense({navigation, route}) {
           <View style={styles.exampleWrapper}>
             <Text style={styles.definitionTitle}>Examples</Text>
             {Object.entries(item?.examples).map(([key, value]) => (
-              <View>
+              <View key={value?.sentence}>
                 <Text style={styles.types}>{key}</Text>
                 <Text style={styles.types}>{value?.sentence}</Text>
                 <Text style={styles.subtitle}>Word-by-word breakdown:</Text>

@@ -6,14 +6,11 @@ import {
   Image,
   TextInput,
   TouchableOpacity,
-  FlatList,
   ScrollView,
   StatusBar,
+  Alert,
+  ToastAndroid,
 } from 'react-native';
-import TextRecognition, {
-  TextRecognitionScript,
-} from '@react-native-ml-kit/text-recognition';
-import {launchImageLibrary} from 'react-native-image-picker';
 
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import Feather from 'react-native-vector-icons/Feather';
@@ -22,22 +19,25 @@ import {Dialog} from 'react-native-elements';
 import LinearGradient from 'react-native-linear-gradient';
 import Tts from 'react-native-tts';
 import words from '../../../wordsData.json';
-import {Context} from '../context/AppContext';
 import TouchableButton from '../custom/TouchableButton';
 import {font} from '../constants/font';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import {Button} from 'react-native-paper';
-import {useDispatch} from 'react-redux';
-import {addHistory} from '../redux/slices/historySlice';
+import RNFS from 'react-native-fs';
+import {ProgressBar} from 'react-native-paper';
+import SearchResults from '../custom/SearchResults';
 
 // Main Component
 export default function Home({navigation, route}) {
   const [visible, setVisible] = useState(false);
+  const [dialogVisible, setDialogVisible] = useState(false);
   const [query, setQuery] = useState('');
-  const {setItem, pushToHistory} = useContext(Context);
   const dateTime = new Date();
   const date = dateTime.getDate();
-  const dispatch = useDispatch();
+
+  // for downloading files
+  const [downloading, setDownloading] = useState(false);
+  const [progress, setProgress] = useState({});
+  const [allDownloaded, setAllDownloaded] = useState(false);
 
   useEffect(() => {
     const checkDialogVisibility = async () => {
@@ -86,15 +86,195 @@ export default function Home({navigation, route}) {
     }
   };
 
+  const fileUrls = [
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/talk.json',
+      name: 'talk.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/clothing.json',
+      name: 'clothing.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/complaints.json',
+      name: 'complaints.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/bodyParts.json',
+      name: 'bodyParts.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/coupleChat.json',
+      name: 'coupleChat.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/crush.json',
+      name: 'crush.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/disagreement.json',
+      name: 'disagreement.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/disaster.json',
+      name: 'disaster.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/family.json',
+      name: 'family.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/goodbye.json',
+      name: 'goodbye.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/hobbies.json',
+      name: 'hobbies.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/idioms.json',
+      name: 'idioms.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/jobInterview.json',
+      name: 'jobInterview.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/love.json',
+      name: 'love.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/meetup.json',
+      name: 'meetup.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/passengers.json',
+      name: 'passengers.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/poetry.json',
+      name: 'poetry.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/proposal.json',
+      name: 'proposal.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/romantic.json',
+      name: 'romantic.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/routine.json',
+      name: 'routine.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/sayHello.json',
+      name: 'sayHello.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/singular.json',
+      name: 'singular.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/sports.json',
+      name: 'sports.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/tenses.json',
+      name: 'tenses.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/trip.json',
+      name: 'trip.json',
+    },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/wedding.json',
+      name: 'wedding.json',
+    },
+  ];
+
+  const downloadFiles = async () => {
+    setDownloading(true);
+    // setProgress({});
+    let allDownloaded = true;
+
+    for (let i = 0; i < fileUrls.length; i++) {
+      const {url, name} = fileUrls[i];
+      const filePath = `${RNFS.DocumentDirectoryPath}/${name}`;
+
+      try {
+        const download = RNFS.downloadFile({
+          fromUrl: url,
+          toFile: filePath,
+          progress: res => {
+            const percentage = Math.floor(
+              (res.bytesWritten / res.contentLength) * 100,
+            );
+            setProgress(prev => ({
+              ...prev,
+              [name]: percentage,
+            }));
+          },
+          progressDivider: 0,
+        });
+
+        const result = await download.promise;
+        // console.log('result', result);
+
+        if (result.statusCode !== 200) {
+          Alert.alert(
+            `Download Failed for ${name}`,
+            `Status Code: ${result.statusCode}`,
+          );
+          allDownloaded = false;
+          break;
+        }
+      } catch (error) {
+        Alert.alert(`Error downloading ${name}`, error.message);
+        allDownloaded = false;
+        break;
+      }
+    }
+
+    setDownloading(false);
+    setAllDownloaded(allDownloaded);
+
+    if (allDownloaded) {
+      Alert.alert('Success', 'All files have been downloaded!');
+    }
+  };
+
+  useEffect(() => {
+    // Check if all files exist locally
+    const checkFilesExist = async () => {
+      for (let i = 0; i < fileUrls.length; i++) {
+        const {name} = fileUrls[i];
+        const filePath = `${RNFS.DocumentDirectoryPath}/${name}`;
+        // console.log('filePath names', filePath);
+        const exists = await RNFS.exists(filePath);
+        if (!exists) {
+          setAllDownloaded(false);
+          setDialogVisible(true);
+          return;
+        }
+      }
+      setAllDownloaded(true);
+    };
+
+    checkFilesExist();
+  }, []);
+
   return (
     <View style={styles.container}>
       {/* Header Section */}
       <StatusBar barStyle={'dark-content'} backgroundColor={'#f7f7f7'} />
       <View style={styles.header}>
-        <Image
-          source={require('../../assets/images/logo.png')}
-          style={styles.logoImage}
-        />
+        <TouchableOpacity onPress={() => {}}>
+          <Image
+            source={require('../../assets/images/logo.png')}
+            style={styles.logoImage}
+          />
+        </TouchableOpacity>
       </View>
       <View>
         <ScrollView>
@@ -127,24 +307,10 @@ export default function Home({navigation, route}) {
       {query.length > 0 ? (
         <View style={styles.resultArea}>
           {query?.length > 0 && (
-            <FlatList
-              data={results}
-              style={styles.flatListStyle}
-              showsVerticalScrollIndicator={false}
-              contentContainerStyle={styles.contentContainerStyle}
-              renderItem={({item, index}) => {
-                return (
-                  <TouchableOpacity
-                    style={styles.touchableButton}
-                    onPress={() => {
-                      navigation.navigate('Details', {item});
-                      setItem(item);
-                      dispatch(addHistory(item));
-                    }}>
-                    <Text style={styles.text}>{item?.word}</Text>
-                  </TouchableOpacity>
-                );
-              }}
+            <SearchResults
+              navigation={navigation}
+              results={results}
+              key={'SearchResults'}
             />
           )}
         </View>
@@ -172,7 +338,10 @@ export default function Home({navigation, route}) {
               <TouchableButton
                 icon={require('../../assets/images/quiz.png')}
                 title={'Take Quiz'}
-                onPress={() => navigation.navigate('Quiz')}
+                onPress={() => {
+                  navigation.navigate('Quiz');
+                  // setDialogVisible(true);
+                }}
               />
             </View>
           </ScrollView>
@@ -244,6 +413,71 @@ export default function Home({navigation, route}) {
           </LinearGradient>
         </View>
       </Dialog>
+      {/* Dialog box for file downloading */}
+      {!allDownloaded && (
+        <Dialog
+          isVisible={dialogVisible}
+          overlayStyle={styles.dialogOverlay1}
+          animationType="fade"
+          statusBarTranslucent={true}>
+          <View style={styles.containerWrapper1}>
+            <Text style={styles.title1}>Info!</Text>
+            <Text style={styles.description1}>
+              Please take a while to download files for offline use. Ensure that
+              you are connected to internet.
+            </Text>
+            {downloading ? (
+              <View style={styles.progress}>
+                {fileUrls.map(file => {
+                  return (
+                    <View key={file.name}>
+                      <ProgressBar
+                        progress={(progress[file.name] || 0) / 100}
+                        animatedValue={1}
+                        visible={true}
+                        fillStyle={{backgroundColor: 'orange'}}
+                        style={{marginTop: 4}}
+                      />
+                    </View>
+                  );
+                })}
+              </View>
+            ) : (
+              <View style={styles.buttonWrapper}>
+                <TouchableOpacity
+                  onPress={() => {
+                    // setDialogVisible(false);
+                    ToastAndroid.show('بھائی کر لے ڈاونلوڈ پلیز 🙏🏻', 3000);
+                  }}
+                  style={[
+                    styles.button,
+                    {
+                      borderWidth: 1,
+                      backgroundColor: 'transparent',
+                      borderColor: '#ddd',
+                    },
+                  ]}>
+                  <Text style={styles.buttonText}>Cancel</Text>
+                </TouchableOpacity>
+                <TouchableOpacity
+                  onPress={downloadFiles}
+                  style={[
+                    styles.button,
+                    {
+                      borderWidth: 1,
+                      backgroundColor: 'teal',
+                      borderColor: '#ddd',
+                    },
+                  ]}>
+                  <Text style={[styles.buttonText, {color: '#fff'}]}>
+                    Download
+                  </Text>
+                </TouchableOpacity>
+              </View>
+            )}
+          </View>
+        </Dialog>
+      )}
     </View>
   );
 }
@@ -285,6 +519,11 @@ const styles = StyleSheet.create({
     marginVertical: 20,
     fontFamily: font.p_sm_bold,
   },
+  title1: {
+    fontSize: 26,
+    fontFamily: font.p_sm_bold,
+    textAlign: 'left',
+  },
   subtitle: {
     fontSize: 16,
     opacity: 0.6,
@@ -297,6 +536,13 @@ const styles = StyleSheet.create({
     fontSize: 16,
     opacity: 0.6,
     textAlign: 'center',
+    width: '100%',
+    marginBottom: 15,
+    fontFamily: font.p_regular,
+  },
+  description1: {
+    fontSize: 16,
+    opacity: 0.6,
     width: '100%',
     marginBottom: 15,
     fontFamily: font.p_regular,
@@ -352,9 +598,16 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: 0,
   },
+  dialogOverlay1: {
+    width: '90%',
+    backgroundColor: '#fff',
+  },
   containerWrapper: {
     alignItems: 'center',
     height: 500,
+    position: 'relative',
+  },
+  containerWrapper1: {
     position: 'relative',
   },
   cardView: {
@@ -415,23 +668,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  flatListStyle: {
-    marginTop: 10,
-  },
-  contentContainerStyle: {
-    paddingBottom: 60,
-    paddingHorizontal: 30,
-  },
-  touchableButton: {
-    paddingVertical: 10,
-    marginTop: 2,
-    borderBottomColor: '#eee',
-    borderBottomWidth: 1,
-  },
-  text: {
-    textTransform: 'capitalize',
-    fontFamily: font.p_regular,
-  },
+
   resultArea: {
     flex: 1,
   },
@@ -442,5 +679,29 @@ const styles = StyleSheet.create({
   },
   btnWrapper: {
     paddingBottom: 60,
+  },
+  buttonWrapper: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: '90%',
+    alignSelf: 'center',
+  },
+  button: {
+    width: '45%',
+    height: 45,
+    borderRadius: 50,
+    backgroundColor: 'gold',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  buttonText: {
+    fontFamily: font.p_regular,
+    top: 3,
+  },
+  downloadText: {
+    fontFamily: font.p_regular,
+    fontStyle: 'italic',
+    fontSize: 16,
   },
 });

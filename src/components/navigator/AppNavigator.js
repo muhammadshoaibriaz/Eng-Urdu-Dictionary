@@ -1,5 +1,5 @@
 import React from 'react';
-import {StatusBar, StyleSheet} from 'react-native';
+import {StyleSheet} from 'react-native';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createStackNavigator} from '@react-navigation/stack';
 import LinearGradient from 'react-native-linear-gradient';
@@ -171,6 +171,7 @@ const focusedRouteName = route => {
     'Idioms',
     'Chats',
     'Tense',
+    'ImageProcess',
   ];
 
   return !(route_name && hiddenScreens.includes(route_name));

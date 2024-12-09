@@ -1,19 +1,35 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import Headers from '../custom/Headers';
 import {View, Text, StyleSheet, FlatList, TouchableOpacity} from 'react-native';
-import {Button} from 'react-native-elements';
+import RNFS from 'react-native-fs';
 import {font} from '../constants/font';
-import tenses from '../jsons/tenses.json';
 export default function Tenses({navigation, route}) {
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    readFile('tenses.json');
+  }, []);
+  const readFile = async fileName => {
+    const filePath = `${RNFS.DocumentDirectoryPath}/${fileName}`;
+    try {
+      const fileContents = await RNFS.readFile(filePath, 'utf8');
+      console.log(fileContents);
+      const parsedData = JSON.parse(fileContents);
+      setData(parsedData.tenses);
+    } catch (error) {
+      console.error('Error reading file:', error);
+    }
+  };
+  // console.log('data', data);
   return (
     <View style={styles.container}>
       <Headers navigation={navigation} route={route} />
       <View style={styles.flatList}>
         <FlatList
-          data={tenses.tenses}
+          data={data}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{paddingBottom: 20}}
           renderItem={({item, index}) => {
+            console.log('item is ', item);
             return (
               <TouchableOpacity
                 style={styles.button}

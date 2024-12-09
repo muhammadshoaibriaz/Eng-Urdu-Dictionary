@@ -10,8 +10,8 @@ import {
 import React from 'react';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import LearnButton from '../custom/LearnButton';
-import Headers from '../custom/Headers';
 import {font} from '../constants/font';
+
 export default function Learn({navigation, route}) {
   const data = [
     {

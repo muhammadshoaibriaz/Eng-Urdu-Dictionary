@@ -1,8 +1,9 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import {View, Text, StyleSheet, TouchableOpacity, FlatList} from 'react-native';
 import Tts from 'react-native-tts';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import Clipboard from '@react-native-clipboard/clipboard';
+import RNFS, {read} from 'react-native-fs';
 
 // json imports
 import bodyParts from '../jsons/bodyParts.json';
@@ -18,44 +19,60 @@ import sports from '../jsons/sports.json';
 
 export default function FileReader({route, navigation}) {
   const {item} = route?.params;
-  console.log(item?.titleEng);
-  const title = item?.titleEng;
-  const data = () => {
-    if (title === 'Body parts') {
-      return bodyParts;
-    }
-    if (title === 'Common ways to say hello') {
-      return sayHello;
-    }
-    if (title === 'Disasters') {
-      return disasters;
-    }
-    if (title === 'Making Complaints') {
-      return complaints;
-    }
-    if (title === 'Daily Routines') {
-      return routine;
-    }
-    if (title === 'Clothing Related actions') {
-      return clothing;
-    }
-    if (title === 'Most Common ways to say goodbye') {
-      return goodbye;
-    }
-    if (title === 'Hobbies') {
-      return hobbies;
-    }
-    if (title === 'Family') {
-      return family;
-    }
-    if (title === 'Sports') {
-      return sports;
-    }
-  };
+  // console.log(item?.titleEng);
+  const file = item?.file;
+  // console.log(file);
+
+  // const data = () => {
+  //   if (title === 'Body parts') {
+  //     return bodyParts;
+  //   }
+  //   if (title === 'Common ways to say hello') {
+  //     return sayHello;
+  //   }
+  //   if (title === 'Disasters') {
+  //     return disasters;
+  //   }
+  //   if (title === 'Making Complaints') {
+  //     return complaints;
+  //   }
+  //   if (title === 'Daily Routines') {
+  //     return routine;
+  //   }
+  //   if (title === 'Clothing Related actions') {
+  //     return clothing;
+  //   }
+  //   if (title === 'Most Common ways to say goodbye') {
+  //     return goodbye;
+  //   }
+  //   if (title === 'Hobbies') {
+  //     return hobbies;
+  //   }
+  //   if (title === 'Family') {
+  //     return family;
+  //   }
+  //   if (title === 'Sports') {
+  //     return sports;
+  //   }
+  // };
 
   const handleCopy = text => {
     Clipboard.setString(text);
-    // Alert.alert('Copied!', 'The text has been copied to the clipboard.');
+  };
+
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    readFile(file);
+  }, []);
+  const readFile = async fileName => {
+    const filePath = `${RNFS.DocumentDirectoryPath}/${fileName}`;
+    try {
+      const fileContents = await RNFS.readFile(filePath, 'utf8');
+      // console.log(JSON.parse(fileContents));
+      setData(JSON.parse(fileContents));
+    } catch (error) {
+      console.error('Error reading file:', error);
+    }
   };
 
   return (
@@ -70,10 +87,11 @@ export default function FileReader({route, navigation}) {
       </View>
       <View style={styles.flatList}>
         <FlatList
-          data={data()}
+          data={data}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{paddingBottom: 20}}
           renderItem={({item, index}) => {
+            // console.log(item);
             return (
               <View style={styles.cardWrapper} key={index?.toString()}>
                 <View style={styles.btns}>

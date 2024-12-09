@@ -1,13 +1,29 @@
 import {View, Text, FlatList, TouchableOpacity, StyleSheet} from 'react-native';
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import Headers from '../custom/Headers';
-import idioms from '../jsons/idioms.json';
 import Tts from 'react-native-tts';
+import RNFS from 'react-native-fs';
 import Clipboard from '@react-native-clipboard/clipboard';
+
 export default function Idioms({navigation, route}) {
   const handleCopy = text => {
     Clipboard.setString(text);
+  };
+
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    readFile('idioms.json');
+  }, []);
+  const readFile = async fileName => {
+    const filePath = `${RNFS.DocumentDirectoryPath}/${fileName}`;
+    try {
+      const fileContents = await RNFS.readFile(filePath, 'utf8');
+      // console.log(JSON.parse(fileContents));
+      setData(JSON.parse(fileContents));
+    } catch (error) {
+      console.error('Error reading file:', error);
+    }
   };
 
   return (
@@ -15,7 +31,7 @@ export default function Idioms({navigation, route}) {
       <Headers navigation={navigation} route={route} />
       <View style={styles.flatList}>
         <FlatList
-          data={idioms}
+          data={data}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{paddingBottom: 20}}
           renderItem={({item, index}) => {

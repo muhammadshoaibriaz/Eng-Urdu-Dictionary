@@ -18,7 +18,10 @@ export default function History({route, navigation}) {
       <StatusBar backgroundColor={'#fff'} />
       <View style={styles.header}>
         <Text style={styles.headerTitle}>History</Text>
-        <Button textColor="#999" onPress={() => dispatch(clearHistory())}>
+        <Button
+          contentStyle={{backgroundColor: '#f7f7f7'}}
+          textColor="#999"
+          onPress={() => dispatch(clearHistory())}>
           Clear history
         </Button>
       </View>
