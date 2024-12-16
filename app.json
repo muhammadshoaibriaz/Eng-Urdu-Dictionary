@@ -1,4 +1,7 @@
 {
   "name": "Dictionary",
-  "displayName": "Dictionary"
+  "displayName": "Dictionary",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6699024084379802~4518234088"
+  }
 }
