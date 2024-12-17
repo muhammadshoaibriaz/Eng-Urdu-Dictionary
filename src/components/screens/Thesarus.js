@@ -1,14 +1,15 @@
 import {View, Text, StyleSheet, FlatList, TextInput} from 'react-native';
-import React, {useContext, useState} from 'react';
+import React, {useContext, useEffect, useState} from 'react';
 import {TouchableOpacity} from 'react-native';
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import Feather from 'react-native-vector-icons/Feather';
-import words from '../../../wordsData.json';
 import {Context} from '../context/AppContext';
+import RNFS from 'react-native-fs';
 export default function Thesarus({navigation}) {
+  const [data, setData] = useState(null);
   const [results, setResults] = useState([]);
   const handleSearch = text => {
-    const filteredWords = words.filter(item =>
+    const filteredWords = data.filter(item =>
       item.word.toLowerCase().startsWith(text.toLowerCase()),
     );
     setResults(filteredWords);
@@ -16,6 +17,20 @@ export default function Thesarus({navigation}) {
   };
 
   const {setItem} = useContext(Context);
+  useEffect(() => {
+    readFile('wordsData.json');
+  }, []);
+  const readFile = async fileName => {
+    const filePath = `${RNFS.DocumentDirectoryPath}/${fileName}`;
+    try {
+      const fileContents = await RNFS.readFile(filePath, 'utf8');
+      console.log(fileContents);
+      const parsedData = JSON.parse(fileContents);
+      setData(parsedData.tenses);
+    } catch (error) {
+      console.error('Error reading file:', error);
+    }
+  };
   return (
     <View style={styles.container}>
       {/* Search Bar */}
@@ -36,7 +51,7 @@ export default function Thesarus({navigation}) {
       </View>
       <View style={styles.resultArea}>
         <FlatList
-          data={results ? words : results}
+          data={results ? data : results}
           style={styles.flatListStyle}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={styles.contentContainerStyle}

@@ -20,16 +20,16 @@ export default function App() {
   //   console.log(result);
   // };
   return (
-    // <Provider store={store}>
-    //   <PersistGate persistor={persistor} loading={null}>
-    //     <ContextProvider>
-    //       <Onboarding />
-    //     </ContextProvider>
-    //   </PersistGate>
-    // </Provider>
+    <Provider store={store}>
+      <PersistGate persistor={persistor} loading={null}>
+        <ContextProvider>
+          <Onboarding />
+        </ContextProvider>
+      </PersistGate>
+    </Provider>
     // <GoogleA />
-    <StripeProvider publishableKey="pk_test_51QWD0TGqld81teEZSxGlOrNEcxPIwgoBRouzCn7o2Mef3B2s3psSNiDz9lMGn3ByamaBmP4qUNgvVWq8BPPWjcnd00Hlhps6MN">
-      <PaymentScreen />
-    </StripeProvider>
+    // <StripeProvider publishableKey="pk_test_51QWD0TGqld81teEZSxGlOrNEcxPIwgoBRouzCn7o2Mef3B2s3psSNiDz9lMGn3ByamaBmP4qUNgvVWq8BPPWjcnd00Hlhps6MN">
+    //   <PaymentScreen />
+    // </StripeProvider>
   );
 }

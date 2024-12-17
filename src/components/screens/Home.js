@@ -18,7 +18,6 @@ import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import {Dialog} from 'react-native-elements';
 import LinearGradient from 'react-native-linear-gradient';
 import Tts from 'react-native-tts';
-import words from '../../../wordsData.json';
 import TouchableButton from '../custom/TouchableButton';
 import {font} from '../constants/font';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -77,7 +76,7 @@ export default function Home({navigation, route}) {
   const handleSearch = text => {
     setQuery(text);
     if (text.trim()) {
-      const filteredWords = words.filter(item =>
+      const filteredWords = data.filter(item =>
         item.word.toLowerCase().startsWith(text.toLowerCase()),
       );
       setResults(filteredWords);
@@ -191,6 +190,10 @@ export default function Home({navigation, route}) {
       url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/src/components/jsons/wedding.json',
       name: 'wedding.json',
     },
+    {
+      url: 'https://raw.githubusercontent.com/muhammadshoaibriaz/Eng-Urdu-Dictionary/master/wordsData.json',
+      name: 'wordsData.json',
+    },
   ];
 
   const downloadFiles = async () => {
@@ -263,6 +266,25 @@ export default function Home({navigation, route}) {
 
     checkFilesExist();
   }, []);
+
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    readFile('wordsData.json');
+  }, []);
+  const readFile = async fileName => {
+    const filePath = `${RNFS.DocumentDirectoryPath}/${fileName}`;
+    // console.log(filePath);
+    try {
+      const fileContents = await RNFS.readFile(filePath, 'utf8');
+      console.log('fileContents', fileContents);
+      const parsedData = JSON.parse(fileContents);
+      setData(parsedData);
+      console.log('parsedData', parsedData);
+    } catch (error) {
+      console.error('Error reading file:', error);
+    }
+  };
 
   return (
     <View style={styles.container}>
